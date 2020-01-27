@@ -88,8 +88,10 @@ body, html {
 	}
 
 	a:hover{ 
-	color: #6a6a48; }
+	color: #6a6a48; 
+}
 
 	a:visited{
-		color: #6a6a48;
+	text-decoration:none
+	color: #6a6a48;
 	}
