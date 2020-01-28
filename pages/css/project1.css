@@ -16,6 +16,8 @@ body, html {
 		background-color:#ebebe0;
 	}
 
+
+
 	.sticky {
 		position:fixed;
 		bottom:2%;
@@ -56,8 +58,12 @@ body, html {
 	}
 
 	.content p {
-		font-size:4em;
+		font-size:3em;
 		color:#2e2e1f;
+	}
+
+		#smaller{
+		font-size: 2em;
 	}
 
 	.content img {
