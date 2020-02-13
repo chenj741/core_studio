@@ -71,13 +71,13 @@ body, html {
 		transition:0.25s ease-in-out;
 	}
 
-	#one, #three, #five {
+	#one, #three, #five, #seven {
 		background: rgb(123,149,113);
 		background: linear-gradient(0deg, rgba(123,149,113,1) 0%, rgba(160,190,130,1) 100%);
 		color:	 #2e2e1f;
 	}
 
-	#two, #four {
+	#two, #four, #six {
 		background-color:#ebebe0;
 
 	}
