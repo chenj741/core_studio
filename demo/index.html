@@ -4,25 +4,7 @@
 	<title></title>
 	<script src="https://d3js.org/d3.v5.min.js"></script>
 
-<style type="text/css">
-
-body, html {
-	font-family: 'Helvetica Neue', sans-serif;
-}
-
-.card {
-	background-color: #f2f2f2;
-	width: 30%;
-	height: 30vh;
-	text-align: center;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin: 2%;
-	display: inline-block;
-	vertical-align: top;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
 <body>
@@ -59,20 +41,23 @@ function viewData (data, location_id) {
 	data.forEach(function(item){
 		div = document.createElement('div')
 		div.setAttribute('class','card')
-		div.classList.add(item['Beginning Letter'])
+		div.classList.add(item['letter'])
 
-		// el.innerHTML += item['Beginning Letter']
+		// div.classList.add(item['anti']) //instances of logical condition
+		// if(item['anti']!=''){
+		// 	div.classList.add(item['notanti'])
+		// }
 		h1 = document.createElement('h1')
-		h1.innerHTML=item['Kangaroo Words']
-
-
-		// img = document.createElement('img')
-		// img.src=item['cover image']
-
-		// el.appendChild(h1)
-		div.appendChild(img)
+		h1.innerHTML=item['kangaroo']
+		
+		h1.innerHTML=item['secondjoey']
 		div.appendChild(h1) //this is like having an h1 in a div
 		el.appendChild(div)
+		// el.innerHTML += item['Beginning Letter']
+		// img = document.createElement('img')
+		// img.src=item['cover image']
+		// el.appendChild(h1)
+		//div.appendChild(img)
 	})
 
 }
