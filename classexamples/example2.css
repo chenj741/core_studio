@@ -1,0 +1,58 @@
+body, html{
+	display: flex;
+	justify-content: center;
+}
+
+
+h1{
+text-transform: uppercase;
+}
+
+h1::after{
+content: '';
+width:20%;
+border-bottom: solid 5px #000;
+position: absolute;
+left: 50%;
+top: 50%;
+}
+
+.main{
+	display: grid;
+	grid-template-columns: 1fr 3fr 2fr 1fr;
+
+}
+
+
+.section{
+width: 30%;
+
+}
+
+.section h3{
+text-transform: uppercase;
+
+}
+
+.section h6 {
+text-transform: uppercase;
+color:  #a7a7a7;
+}
+
+.section a{
+text-transform: uppercase;
+text-decoration: none;
+font-size: 0.6em;
+}
+
+.section img{
+	width:inherit;
+}
+
+
+.section .tag{
+	background-color:  #e8e8e8 ;
+	color:  #a7a7a7 ;
+	padding: 4% 2%;
+	display: inline-block;
+}
