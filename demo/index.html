@@ -3,8 +3,80 @@
 <head>
 	<title></title>
 	<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<style type="text/css">
+
+body, html {
+	font-family: 'Helvetica Neue', sans-serif;
+}
+
+.card {
+	background-color: #f2f2f2;
+	width: 30%;
+	height: 30vh;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 2%;
+	display: inline-block;
+	vertical-align: top;
+}
+</style>
+
 </head>
 <body>
+<div id="main"></div>
 
 </body>
+
+<script type="text/javascript">
+
+d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/demo/All%20-%20Sheet1.csv')
+.then(
+	//run functions with the data here
+	function(data){
+		console.log(data)
+		viewData(data,'main')
+	}
+	)
+.catch(function(error){
+//catch error
+
+})
+
+//declaring a function
+function viewData (data, location_id) {
+	//select the element that I will write the data in
+	el = document.querySelector('#'+location_id) 
+	//will take the id of whatever is passed through
+	//write everything as text to this location
+
+	//select just one item
+	// el.innerHTML = data[0]['Beginning Letter']
+
+	//iterate each item and do something with its attributes
+	data.forEach(function(item){
+		div = document.createElement('div')
+		div.setAttribute('class','card')
+		div.classList.add(item['Beginning Letter'])
+
+		// el.innerHTML += item['Beginning Letter']
+		h1 = document.createElement('h1')
+		h1.innerHTML=item['Kangaroo Words']
+
+
+		// img = document.createElement('img')
+		// img.src=item['cover image']
+
+		// el.appendChild(h1)
+		div.appendChild(img)
+		div.appendChild(h1) //this is like having an h1 in a div
+		el.appendChild(div)
+	})
+
+}
+
+
+</script>
 </html>
