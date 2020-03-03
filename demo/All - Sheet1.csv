@@ -16,11 +16,9 @@ A,not-special,no-anti,acclimatize,acclimate,,,"(verb) become accustomed to a new
 (technical) respond physiologically or behaviorally to a change in conditions in the natural environment.","(verb) become accustomed to a new climate or to new conditions.
 (technical) respond physiologically or behaviorally to a change in conditions in the natural environment.",,,,,,"
 "
-A,not-special,no-anti,accustomed,accustom,used,,"(adj.) customary; usual
-.","(verb) make (someone or something) accept something as normal or usual.
+A,not-special,no-anti,accustomed,accustom,used,,(adj.) customary; usual.,"(verb) make (someone or something) accept something as normal or usual.
 (verb) be used to.",(verb) be or become familiar with someone or something through experience.,,,,,
-A,not-special,no-anti,acrid,acid,,,"(adj.) having an irritatingly strong and unpleasant taste or smell
-.",(adj.) sharp-tasting or sour.,,,,,,
+A,not-special,no-anti,acrid,acid,,,(adj.) having an irritatingly strong and unpleasant taste or smell.,(adj.) sharp-tasting or sour.,,,,,,
 A,not-special,no-anti,action,act,,,"(noun) the fact or process of doing something, typically to achieve an aim.
 (noun) doing something, typically the way in which a mechanism works or a person moves.
 (noun) the events represented in a story or play.
@@ -31,8 +29,8 @@ A,not-special,no-anti,action,act,,,"(noun) the fact or process of doing somethin
 
 ",,,,,,
 A,not-special,no-anti,addlepated,addled,,,"(adj.) being mixed up, confused
-(adj.) eccentric","(adj.) unable to think clearly; confused
-(of an egg) rotten",,,,,,
+(adj.) eccentric.","(adj.) unable to think clearly; confused.
+(of an egg) rotten.",,,,,,
 A,not-special,no-anti,admixture,mixture,,,"(noun) a mixture.
 (noun) the action of adding an ingredient to something else.
 ","(noun) a substance made by mixing other substances together.
@@ -56,7 +54,7 @@ A,not-special,no-anti,alone,lone,one,,"(adj.) having no one else present.
 (adv.) on one's own.
 (adv.) indicating that something is confined to the specified subject or recipient.","(adj.) having no comparisons; solitary or single.
 (literary) (of a place) unfrequented and remote.
-",(noun.) single; just one as opposed to any more or to none at all (used for emphasis).,,,,,
+",(noun) single; just one as opposed to any more or to none at all (used for emphasis).,,,,,
 A,not-special,no-anti,alternative,alternate,,,"(adj.) (of one or more things) available as another possibility.
 (noun) one of two or more available possibilities.","(verb)  occur in turn repeatedly.
 (adj.) (of two things) each following and succeeded by the other in a regular pattern.",,,,,,
@@ -175,7 +173,7 @@ C,not-special,no-anti,community,county,"city
 ",,(noun) a group of people living in the same place or having a particular characteristic in common.,"(noun) (in the US) a political and administrative division of a state, providing certain local governmental services.",(noun) a large town.,,,,,
 C,"special
 ",no-anti,complaisant,compliant,pliant,,(adj.) willing to please others; obliging; agreeable.,"(adj.) inclined to agree with others or obey rules, especially to an excessive degree; acquiescent.",(adj.) pliable.,,,,,
-C,not-special,no-anti,completionist,completist,,,(noun) (in a video game) a player who attempts to complete every challenge and earn every achievement or trophy,"(noun) an obsessive, typically indiscriminate, collector or fan of something.",,,,,,
+C,not-special,no-anti,completionist,completist,,,(noun) (in a video game) a player who attempts to complete every challenge and earn every achievement or trophy.,"(noun) an obsessive, typically indiscriminate, collector or fan of something.",,,,,,
 C,not-special,no-anti,concatenate,catenate,,,(verb) link (things) together in a chain or series.,(third-person transitive verb) to connect in a series,,,,,,
 C,not-special,no-anti,concede,"cede
 ",,,"(verb) admit that something is true or valid after first denying or resisting it.
