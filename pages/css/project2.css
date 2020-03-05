@@ -1,0 +1,97 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:300i,400&display=swap');
+
+body, html {
+		font-family: 'Poppins', sans-serif;
+		top:0;
+		left:0;
+		width:100%:;
+		margin:0%;
+		scroll-behavior: smooth;
+	}
+
+	h1 {
+		font-size:1em;
+		background-color:#ff944d;
+		color: #b33693;
+	}
+
+
+
+	.sticky {
+		position:fixed;
+		bottom:2%;
+		left:2%;
+		color:#2e2e1f;
+		border-bottom:1em solid #2e2e1f;
+		padding:10px;
+	}
+	/*sticky elements are relative to the parent! */
+
+	.jump{
+		color:#2e2e1f;
+	}
+
+	.jump:visited {
+		color:#2e2e1f;
+	}
+
+	.exercise {
+		top: 0;
+		left:0%;
+		
+	}
+
+	.content {
+		padding:5%;
+		width:90%;
+		min-height:100vh;
+		max-height:content;
+		text-align:right;
+	}
+
+	.content h1 {
+		font-size:3em;
+		font-weight:400;
+		text-align:left;
+		opacity:1;
+	}
+
+	.content p {
+		font-size:3em;
+		color:#2e2e1f;
+	}
+
+		#smaller{
+		font-size: 2em;
+	}
+
+	.content img {
+		width:50%;
+		transition:0.25s ease-in-out;
+	}
+
+	#one, #three, #five, #seven {
+		background: #b33636;
+		color:	 #2e2e1f;
+	}
+
+	#two, #four, #six {
+		background-color:#ebebe0;
+
+	}
+
+	a {
+		background-color:#ff944d;
+		padding:2%;
+		border:solid #b33636;
+		text-decoration: none;
+		color: #b33693;
+		transition:0.25s ease-in-out;
+		display: block;
+	}
+
+	a:hover{ 
+	color: #ff4dd3; 
+}
