@@ -3,14 +3,16 @@
 <head>
 	<title></title>
 	<script src="https://d3js.org/d3.v5.min.js"></script>
-
 <link rel="stylesheet" type="text/css" href="style.css">
-
 </head>
 <body>
 <div id="main"></div>
 
+
+
+
 </body>
+
 
 <script type="text/javascript">
 
@@ -20,39 +22,49 @@ d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/demo/All%2
 	function(data){
 		console.log(data)
 		viewData(data,'main')
+		seeDetails(data)
 	}
 	)
 .catch(function(error){
-//catch error
-
 })
 
-//declaring a function
 function viewData (data, location_id) {
-	//select the element that I will write the data in
+
 	el = document.querySelector('#'+location_id) 
-	//will take the id of whatever is passed through
-	//write everything as text to this location
 
-	//select just one item
-	// el.innerHTML = data[0]['Beginning Letter']
-
-	//iterate each item and do something with its attributes
-	data.forEach(function(item){
+	data.forEach(function(item,i){
+		console.log(i)
 		div = document.createElement('div')
 		div.setAttribute('class','card')
+		div.classList.add(item['special'])
+		div.classList.add(item['anti'])
 		div.classList.add(item['letter'])
+
+div.setAttribute('value',i)
+		//see index number
+		// console.log(i)
+
 		
 		h1 = document.createElement('h1')
 		h1.innerHTML=item['kangaroo']
-		div.appendChild(h1) //this is like having an h1 in a div
+		div.appendChild(h1)
 		el.appendChild(div)
-
 		p = document.createElement('p')
 		p.innerHTML=item['kangaroo meaning']
 		div.appendChild(p)
 		el.appendChild(div)
+	})
+}
 
+function seeDetails(data){
+	items = document.querySelectorAll('.card')
+	items.forEach(function(item){
+		item.onclick=function(){
+			value = this.getAttribute('value')
+			console.log(value)
+			showLightbox(data,value)
+
+		}
 	})
 
 }
