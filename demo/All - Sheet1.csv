@@ -1,34 +1,28 @@
-letter,special,anti,kangaroo,"joey
-",secondjoey,antijoey,"kangaroo meaning
-","joey meaning
-",secondjoey meaning,antijoey meaning,,,,
+letter,special,anti,kangaroo,"
+joey",secondjoey,antijoey,"kangaroodefinition
+","joeydefinition
+",secondjoeydefinition,antijoeydefinition,,,,
 A,not-special,no-anti,"
 aberrant",errant,,,(adj.) departing from an accepted standard.,(adj.) erring or straying from the proper course or standards.,,,,,,
 A,not-special,no-anti,abnormality,anomaly,,,"(noun) an abnormal feature, characteristic, or occurrence, typically in a medical context.","(noun) something that deviates from what is standard, normal, or expected.",,,,,,
 A,not-special,no-anti,abide,bide,,,"(verb) accept or act in accordance with (a rule, decision, or recommendation).
 (informal) be unable to tolerate.",(verb) remain or stay somewhere.,,,,,,"
 "
-A,not-special,anti,abuse,,,use,"(verb) use (something) to bad effect or for a bad purpose; misuse. 
-(noun) the improper use of something.","
+A,not-special,anti,abuse,,,use,(verb) use (something) to bad effect or for a bad purpose; misuse.,"
 ",,"(verb) take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result; employ.
-(noun) the action of using something or the state of being used for some purpose.",,,,
-A,not-special,no-anti,acclimatize,acclimate,,,"(verb) become accustomed to a new climate or to new conditions.
-(technical) respond physiologically or behaviorally to a change in conditions in the natural environment.","(verb) become accustomed to a new climate or to new conditions.
-(technical) respond physiologically or behaviorally to a change in conditions in the natural environment.",,,,,,"
+",,,,
+A,not-special,no-anti,acclimatize,acclimate,,,(verb) become accustomed to a new climate or to new conditions.,(technical) respond physiologically or behaviorally to a change in conditions in the natural environment.,,,,,,"
 "
-A,not-special,no-anti,accustomed,accustom,used,,(adj.) customary; usual.,"(verb) make (someone or something) accept something as normal or usual.
-(verb) be used to.",(verb) be or become familiar with someone or something through experience.,,,,,
+A,not-special,no-anti,accustomed,accustom,used,,(adj.) customary; usual.,(verb) make (someone or something) accept something as normal or usual.,(verb) be or become familiar with someone or something through experience.,,,,,
 A,not-special,no-anti,acrid,acid,,,(adj.) having an irritatingly strong and unpleasant taste or smell.,(adj.) sharp-tasting or sour.,,,,,,
 A,not-special,no-anti,action,act,,,"(noun) the fact or process of doing something, typically to achieve an aim.
 (noun) doing something, typically the way in which a mechanism works or a person moves.
-(noun) the events represented in a story or play.
-","(verb) take action; do something.
-(noun) fulfill the function or serve the purpose of.
+","(noun) fulfill the function or serve the purpose of.
 (verb) perform a fictional role in a play, movie, or television production.
 
 
 ",,,,,,
-A,not-special,no-anti,addlepated,addled,,,"(adj.) being mixed up, confused
+A,not-special,no-anti,addlepated,addled,,,"(adj.) being mixed up, confused.
 (adj.) eccentric.","(adj.) unable to think clearly; confused.
 (of an egg) rotten.",,,,,,
 A,not-special,no-anti,admixture,mixture,,,"(noun) a mixture.
@@ -36,8 +30,7 @@ A,not-special,no-anti,admixture,mixture,,,"(noun) a mixture.
 ","(noun) a substance made by mixing other substances together.
 (noun) the process of mixing or being mixed.
 (noun) a combination of different qualities, things, or emotions in which the component elements are individually distinct.",,,,,,
-A,not-special,no-anti,admonish,monish,,,"(verb) warn or reprimand someone firmly.
-(verb) advise or urge (someone) earnestly.",(verb) warn strongly; put on guard.,,,,,,
+A,not-special,no-anti,admonish,monish,,,(verb) advise or urge (someone) earnestly.,(verb) warn strongly; put on guard.,,,,,,
 A,not-special,no-anti,adroitness,art,,,(noun) cleverness or skill.,"(noun) a skill at doing a specified thing, typically one acquired through practice.",,,,,,
 A,not-special,no-anti,adventuresome,venturesome,,,(adj.) given to adventures or to running risks; adventurous.,(adj.) willing to take risks or embark on difficult or unusual courses of action.,,,,,,
 A,not-special,no-anti,adventurous,venturous,,,"(adj.) willing to take risks or to try out new methods, ideas, or experiences.
@@ -49,9 +42,8 @@ A,not-special,no-anti,aggravated,grated,,,"(adj.) (of an offense, problem, or in
 (informal) annoy or exasperate (someone), especially persistently.",(verb) have an irritating effect.,,,,,,
 A,not-special,no-anti,allocate,allot,,,(verb) distribute (resources or duties) for a particular purpose.,(verb) give or apportion (something) to someone as a share or task.,,,,,,
 A,not-special,no-anti,allurement,lure,,,(noun) the power to entice or attract through personal charm.,"(verb) tempt (a person or animal) to do something or to go somewhere, especially by offering some form of reward.",,,,,,
-A,not-special,no-anti,alone,lone,one,,"(adj.) having no one else present.
+A,special,no-anti,alone,lone,one,,"(adj.) having no one else present.
 (adj.) isolated and alone.
-(adv.) on one's own.
 (adv.) indicating that something is confined to the specified subject or recipient.","(adj.) having no comparisons; solitary or single.
 (literary) (of a place) unfrequented and remote.
 ",(noun) single; just one as opposed to any more or to none at all (used for emphasis).,,,,,
@@ -59,7 +51,7 @@ A,not-special,no-anti,alternative,alternate,,,"(adj.) (of one or more things) av
 (noun) one of two or more available possibilities.","(verb)  occur in turn repeatedly.
 (adj.) (of two things) each following and succeeded by the other in a regular pattern.",,,,,,
 A,not-special,no-anti,amicable,amiable,,,(adj.) (of relations between people) having a spirit of friendliness; without serious disagreement or rancor.,(adj.) having or displaying a friendly and pleasant manner.,,,,,,
-A,not-special,no-anti,amicability,amiability,amity,,(adj.) having a disposition characterized by warmth and friendliness.,(noun) the quality of having a friendly and pleasant manner; geniality.,(noun) (formal) a friendly relationship.,,,,,
+A,special,no-anti,amicability,amiability,amity,,(adj.) having a disposition characterized by warmth and friendliness.,(noun) the quality of having a friendly and pleasant manner; geniality.,(noun) (formal) a friendly relationship.,,,,,
 A,not-special,no-anti,analogue,analog,,,"(adj.) relating to or using signals or information represented by a continuously variable physical quantity such as spatial position, voltage, etc.","(adj.) relating to or using signals or information represented by a continuously variable physical quantity such as spatial position, voltage, etc.
 (adj.) not involving or relating to the use of computer technology, as a contrast to a digital counterpart.
 (noun) a person or thing seen as comparable to another.",,,,,,
@@ -76,7 +68,7 @@ A,not-special,no-anti,applaudatory,laudatory,,,(adj.) full of praise or applause
 A,not-special,no-anti,apposite,apt,,,(adj.) apt in the circumstances or in relation to something.,(adj.) quick to learn,,,,,,
 A,not-special,no-anti,appropriate,apt,,,"(adj.) suitable or proper in the circumstances.
 (verb) take (something) for one's own use, typically without the owner's permission.
-(verb) to assign to a special purpose,",(adj.) appropriate or suitable in the circumstances.,,,,,,
+(verb) to assign to a special purpose.",(adj.) appropriate or suitable in the circumstances.,,,,,,
 A,not-special,no-anti,arch,arc,,,"(noun) a curved symmetrical structure spanning an opening and typically supporting the weight of a bridge, roof, or wall above it.
 (verb) form or cause to form the curved shape of an arch.","(noun) a part of the circumference of a circle or other curve.
 ",,,,,,
@@ -85,13 +77,12 @@ A,not-special,no-anti,arouse,rouse,,,"(verb) evoke or awaken (a feeling, emotion
 (verb) excite or provoke (someone) to anger or strong emotions.","(verb) startle out of inactivity; cause to become active.
 (verb) cause to feel angry or excited",,,,,,
 A,not-special,no-anti,artifice,art,,,"(noun) clever or cunning devices or expedients, especially as used to trick or deceive others.","(noun) a skill at doing a specified thing, typically one acquired through practice.",,,,,,
-A,not-special,no-anti,artistry,art,,,(noun) creative skill or ability.,"(noun) the expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture, producing works to be appreciated primarily for their beauty or emotional power.",,,,,,
+A,not-special,no-anti,artistry,art,,,(noun) creative skill or ability.,(noun) the expression or application of human creative skill and imagination.,,,,,,
 A,not-special,no-anti,asseverate,aver,,,(verb) declare or state solemnly or emphatically.,(verb) (formal) state or assert to be the case.,,,,,,
 A,not-special,no-anti,astound,stun,,,(verb) shock or greatly surprise.,(verb) astonish or shock (someone) so that they are temporarily unable to react.,,,,,,
 A,not-special,no-anti,avocation,vocation,,,(noun) (formal) a hobby or minor occupation.,(noun) a strong feeling of suitability for a particular career or occupation.,,,,,,
 A,not-special,no-anti,axletree,axle,,,"(noun) a crossbar or rod supporting a vehicle, such as a cart, that has terminal spindles on which the wheels revolve.",(noun) a rod or spindle (either fixed or rotating) passing through the center of a wheel or group of wheels.,,,,,,
-B,not-special,no-anti,balderdash,blash,,,(noun) senseless talk or writing; nonsense.,"(noun) (British) a splash of liquid or mud.
-(noun) (British) a shower of rain or sleet.",,,,,"
+B,not-special,no-anti,balderdash,blash,,,(noun) senseless talk or writing; nonsense.,(noun) (British) a splash of liquid or mud.,,,,,"
 ",
 B,not-special,no-anti,balsam,balm,,,"(noun) an aromatic resinous substance, such as balm, exuded by various trees and shrubs and used as a base for certain fragrances and medical and cosmetic preparations.",(noun) a fragrant ointment or preparation used to heal or soothe the skin.,,,,,,
 B,not-special,no-anti,banish,ban,,,"(verb) send (someone) away from a country or place as an official punishment.
@@ -127,7 +118,7 @@ B,not-special,no-anti,blotch,blot,,,"(noun) an irregular patch or unsightly mark
 B,not-special,no-anti,bombarded,bombed,,,"(verb) attack (a place or person) continuously with bombs, shells, or other missiles.
 (verb) assail (someone) persistently, as with questions, criticisms, or information.","(adj.) (of an area or building) subjected to bombing.
 (verb) (informal) (of a movie, play, or other event) fail miserably.",,,,,,
-B,not-special,no-anti,brackets,braces,,,(noun) each of a pair of marks [ ] used to enclose words or figures so as to separate them from the context.,"(noun) (printing) either of the two marks { and }, used either to indicate that two or more items on one side have the same relationship as each other to the single item to which the other side points, or in pairs to show that words between them are connected.",,,,,,
+B,not-special,no-anti,brackets,braces,,,(noun) each of a pair of marks [ ] used to enclose words or figures so as to separate them from the context.,"(noun) (printing) either of the two marks { and }, used either to indicate that two or more items on one side have the same relationship as each other  or in pairs to show that words between them are connected.",,,,,,
 B,not-special,no-anti,brash,rash,,,"(adj.) self-assertive in a rude, noisy, or overbearing way.
 (adj.) strong, energetic, or irreverent.
 (adj.) (of a place or thing) having an ostentatious or tasteless appearance.",(adj.) displaying or proceeding from a lack of careful consideration of the possible consequences of an action.,,,,,,
@@ -169,8 +160,7 @@ C,not-special,anti,communicative,"
 
 ",,mute,"(adj.) ready to talk or impart information.
 ",,,(adj.)refraining from speech or temporarily speechless.,,,,
-C,not-special,no-anti,community,county,"city
-",,(noun) a group of people living in the same place or having a particular characteristic in common.,"(noun) (in the US) a political and administrative division of a state, providing certain local governmental services.",(noun) a large town.,,,,,
+C,not-special,no-anti,community,county,city,,(noun) a group of people living in the same place or having a particular characteristic in common.,"(noun) (in the US) a political and administrative division of a state, providing certain local governmental services.",(noun) a large town.,,,,,
 C,"special
 ",no-anti,complaisant,compliant,pliant,,(adj.) willing to please others; obliging; agreeable.,"(adj.) inclined to agree with others or obey rules, especially to an excessive degree; acquiescent.",(adj.) pliable.,,,,,
 C,not-special,no-anti,completionist,completist,,,(noun) (in a video game) a player who attempts to complete every challenge and earn every achievement or trophy.,"(noun) an obsessive, typically indiscriminate, collector or fan of something.",,,,,,
@@ -196,8 +186,7 @@ C,not-special,anti,convent,,,coven,"(noun) a Christian community under monastic 
 C,not-special,no-anti,cooled,cold,,,"(adj.) made less hot
 (verb) become or cause to become less hot","(adj.) of or at a low or relatively low temperature, especially when compared with the human body.",,,,,,
 C,not-special,no-anti,corporeal,corporal,,,"(adj.) relating to a person's body, especially as opposed to their spirit.","(adj.) relating to the human body.
-(noun) a low-ranking noncommissioned officer in the armed forces, in particular (in the US Army) an NCO ranking above private first class and below sergeant or (in the US Marine Corps) an NCO ranking above lance corporal and below sergeant.
-",,,,,,
+(noun) a low-ranking noncommissioned officer in the armed forces.",,,,,,
 C,not-special,anti,courteous,,,curt,"(adj.) polite, respectful, or considerate in manner.",,,(adj.) rudely brief.,,,,
 C,not-special,anti,"covert
 ",,,overt,(adj.) not openly acknowledged or displayed.,,,"(adj.) done or shown openly; plainly or readily apparent, not secret or hidden.",,,,
@@ -209,7 +198,7 @@ D,not-special,no-anti,damsel,dame,,,(noun) a young unmarried woman.,"(noun) (in 
 D,not-special,no-anti,daub,dab,,,(verb) coat or smear (a surface) with a thick or sticky substance in a carelessly rough or liberal way.,(verb) press against (something) lightly with a piece of absorbent material in order to clean or dry it.,,,,,,
 D,not-special,no-anti,dazzle,"daze
 ",,,(verb) (of a bright light) blind (a person) temporarily.,"(verb) make (someone) unable to think or react properly; stupefy; bewilder.
-(noun) a state f stunned confusion or bewilderment.",,,,,,
+(noun) a state of stunned confusion or bewilderment.",,,,,,
 D,not-special,no-anti,debar,bar,,,(verb) exclude or prohibit (someone) officially from doing something.,"(noun) a barrier or restriction to an action or advance.
 (verb) prevent or prohibit (someone) from doing something or from going somewhere.",,,,,,
 D,not-special,no-anti,deboned,"
@@ -235,8 +224,7 @@ D,not-special,no-anti,desiderate,desire,,,(verb) feel a keen desire for (somethi
 D,not-special,no-anti,despiteful,spiteful,,,(adj.) malicious.,(adj.) showing or caused by malice.,,,,,,
 D,not-special,no-anti,destruction,ruin,,,(noun) the action or process of causing so much damage to something that it no longer exists or cannot be repaired.,(noun) the physical destruction or disintegration of something or the state of disintegrating or being destroyed.,,,,,,
 D,not-special,no-anti,deteriorate,"rot
-",die,,(verb) become progressively worse.,"(verb) (chiefly of animal or vegetable matter) decay or cause to decay by the action of bacteria and fungi; decompose.
-(noun) the process of decaying.",(verb) become less loud or strong.,,,,,
+",die,,(verb) become progressively worse.,(verb) (chiefly of animal or vegetable matter) decay or cause to decay by the action of bacteria and fungi; decompose.,(verb) become less loud or strong.,,,,,
 D,not-special,no-anti,devilish,evil,,,(adj.) like or appropriate to a devil in evil and cruelty.,(adj.) profoundly immoral and wicked.,,,,,,
 D,not-special,no-anti,devoid,void,,,(adj.) entirely lacking or free from.,"(adj.) completely empty.
 (noun) an emptiness caused by the loss of something.",,,,,,
@@ -244,7 +232,7 @@ D,not-special,anti,devolve,,,evolve,"(verb) transfer or delegate (power) to a lo
 (formal) degenerate or be split into.",,,"(verb) develop gradually, especially from a simple to a more complex form.",,,,
 D,not-special,no-anti,"dice
 ",die,,,"(noun) a small cube with each side having a different number of spots on it, ranging from one to six, thrown and used in gambling and other games involving chance.
-(verb) cut (food or other matter) into small cubes.",(noun) singular form of dice.,,,,,,
+(verb) cut into small cubes.",(noun) singular form of dice.,,,,,,
 D,not-special,no-anti,dillydally,dally,,,(verb) (informal) waste time through aimless wandering or indecision.,"(verb) act or move slowly.
 (verb) have a casual romantic or sexual liaison with.",,,,,,
 D,not-special,no-anti,diminutive,minute,mini,,(adj.) extremely or unusually small.,(noun) (informal) a very short time.,(adj.) denoting a miniature version of something.,,,,,
@@ -336,14 +324,14 @@ H,not-special,no-anti,hurries,hies,,,(verb) move or act with great haste.,(verb)
 I,not-special,"anti
 ",iconoclast,,,icon,"(noun) a person who attacks cherished beliefs or institutions.
 (noun) a destroyer of images used in religious worship.",,,"(noun) a person or thing regarded as a representative symbol or as worthy of veneration.
-(noun) a painting of Jesus Christ or another holy figure, typically in a traditional style on wood, venerated and used as an aid to devotion in the Byzantine and other Eastern Churches.
-(computing) a symbol or graphic representation on a screen of a program, option, or window, especially one of several for selection.
-(linguistics) a sign whose form directly reflects the thing it signifies, for example, the word snarl pronounced in a snarling way.",,,,
+(noun) a painting of Jesus Christ or another holy figure used as an aid to devotion.
+
+",,,,
 I,not-special,no-anti,illuminated,lit,,,"(verb) light up.
 (verb) help to clarify or explain ( a subject or matter).","(adj.) provided with light or lighting; illuminated.
 (adj.) having been ignited; burning",,,,,,
 I,not-special,no-anti,imaginary,airy,,,"(adj.) existing only in the imagination.
-(mathematics) (of a number or quantity) expressed in terms of the square root of a negative number (usually the square root of −1, represented by i or j ).","(adj.) giving an impression of being unconcerned or not serious, typically about something taken seriously by others.",,,,,,
+(mathematics) expressed in terms of the square root of a negative number (usually the square root of −1, represented by i or j ).","(adj.) giving an impression of being unconcerned or not serious, typically about something taken seriously by others.",,,,,,
 I,not-special,no-anti,impair,mar,,,"(verb) weaken or damage something (especially a human faculty or function).
 ",(verb) impair the appearance of; disfigure.,,,,,,
 I,not-special,no-anti,impassive,passive,,,"(adj.) not feeling or showing emotion.
@@ -409,7 +397,7 @@ M,not-special,anti,"melodious
 M,not-special,no-anti,middlemost,midmost,,,(adj.) being in the middle or nearest the middle,(adj.)(adv.) in the very middle or nearest the middle.,,,,,,
 M,not-special,no-anti,midsection,midset,,,(noun) the middle part of something.,"(adv.) (music) in the middle of a set, in the middle of a gig.",,,,,,
 M,not-special,no-anti,misinterpreted,erred,,,(verb) interpret (something or someone) wrongly.,(verb) (formal) be mistaken or incorrect; make a mistake.,,,,,,
-M,not-special,no-anti,moisture,mist,,,"(noun) water or other liquid diffused in a small quantity as vapor, within a solid, or condensed on a surface.","(noun) a cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface limiting visibility, but to a lesser extent than fog; strictly, with visibility remaining above 1.5 miles (1 km).",,,,,,
+M,not-special,no-anti,moisture,mist,,,"(noun) water or other liquid diffused in a small quantity as vapor, within a solid, or condensed on a surface.","(noun) a cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface limiting visibility, but to a lesser extent than fog.",,,,,,
 M,not-special,no-anti,municipality,city,,,(noun) a city or town that has corporate status and local government.,(noun) a large town.,,,,,,
 M,not-special,no-anti,myself,me,,,(noun) used by a speaker to refer to himself or herself as the object of a verb or preposition when he or she is the subject of the clause.,(pronoun) used by a speaker to refer to himself or herself as the object of a verb or preposition.,,,,,,
 N,not-special,no-anti,neckbeard,nerd,,,"(noun) (informal) a man who is socially inept and physically unappealing, especially one who has an obsessive interest in computing.",(noun) (informal) a foolish or contemptible person who lacks social skills or is boringly studious.,,,,,,
@@ -447,14 +435,14 @@ P,not-special,no-anti,postured,posed,,,(verb) behave in a way that is intended t
 (verb) pretend to be (someone or something).
 (verb) behave affectedly in order to impress others.",,,,,,
 P,not-special,no-anti,practicable,practical,,,(adj.) able to be done or put into practice successfully.,"(adj.) of or concerned with the actual doing or use of something rather than with theory and ideas.
-(adj.) (of an idea, plan, or method) likely to succeed or be effective in real circumstances; feasible.",,,,,,
+(adj.) likely to succeed or be effective in real circumstances; feasible.",,,,,,
 P,not-special,no-anti,practitioner,"
 actor
 ",,,"(noun) a person actively engaged in an art, discipline, or profession, especially medicine.","(noun) a person whose profession is acting on the stage, in movies, or on television.
 (noun) a participant in an action or process.",,,,,,
 P,not-special,no-anti,prattle,prate,,,(verb) talk at length in a foolish or inconsequential way.,(verb) talk foolishly or at tedious length about something.,,,,,,
 P,not-special,no-anti,precipitation,rain,,,"(noun) the action or process of precipitating a substance from a solution.
-(noun) rain, snow, sleet, or hail that falls to the ground.",(noun) moisture condensed from the atmosphere that falls visibly in separate drops.,,,,,,
+(noun) rain, snow, sleet, or hail that falls to the ground.",(noun) moisture condensed from the atmosphere that falls visibly in separate drops,,,,,,
 P,not-special,no-anti,predominant,dominant,,,(adj.) present as the strongest or main element.,"(adj.) most important, powerful, or influential.",,,,,,
 P,not-special,no-anti,preeminent,eminent,,,(adj.) surpassing all others; very distinguished in some way.,(adj.) (of a person) famous and respected within a particular sphere or profession.,,,,,,
 P,not-special,no-anti,prematurely,early,,,(adv.) before the due time; ahead of time.,(adj.) happening or done before the usual or expected time.,,,,,,
@@ -492,7 +480,7 @@ R,not-special,anti,resigned,,,reigned,"(adj.) having accepted something unpleasa
 (verb) (of a quality or condition) prevail; predominate.",,,,
 R,not-special,no-anti,resemblance,semblance,,,(noun) the state of resembling or being alike.,"(noun) the outward appearance or apparent form of something, especially when the reality is different.",,,,,,
 R,not-special,no-anti,respite,rest,,,(noun) a short period of rest or relief from something difficult or unpleasant.,"(verb) cease work or movement in order to relax, refresh oneself, or recover strength.",,,,,,
-R,not-special,no-anti,reticule,reticle,,,"(noun) a woman's small handbag, originally netted and typically having a drawstring and decorated with embroidery or beading.","(noun) a series of fine lines or fibers in the eyepiece of an optical device, such as a telescope or microscope, or on the screen of an oscilloscope, used as a measuring scale or an aid in locating objects.",,,,,,
+R,not-special,no-anti,reticule,reticle,,,"(noun) a woman's small handbag, originally netted and typically having a drawstring and decorated with embroidery or beading.","(noun) a series of fine lines or fibers in the eyepiece of an optical device, such as a telescope or microscope, used as a measuring scale or an aid in locating objects",,,,,,
 R,not-special,no-anti,retrogress,regress,,,"(verb) go back to an earlier state, typically a worse one.",(verb) return to a former or less developed state.,,,,,,
 R,not-special,no-anti,revivified,revived,,,(verb) give new life or vigor to.,(verb) restore to life or consciousness.,,,,,,
 R,not-special,both,revolution,revolt,,evolution,"(noun) a forcible overthrow of a government or social order, in favor of a new system.","(verb) rise in rebellion.
@@ -503,10 +491,9 @@ R,not-special,no-anti,rotund,round,,,"(adj.) (of a person) plump.
 R,not-special,no-anti,routine,rut,rote,,"(noun) a sequence of actions regularly followed; a fixed program.
 ",(noun) a habit or pattern of behavior that has become dull and unproductive but is hard to change.,(noun) mechanical or habitual repetition of something to be learned.,,,,,
 S,not-special,no-anti,salvage,save,,,"(verb) rescue (a wrecked or disabled ship or its cargo) from loss at sea.
-(verb) retrieve or preserve (something) from potential loss or adverse circumstances.",(verb) keep safe or rescue (someone or something) from harm or danger.,,,,,,
-S,not-special,anti,salvaged,,,savaged,"(verb) rescue (a wrecked or disabled ship or its cargo) from loss at sea.
-(verb) retrieve or preserve (something) from potential loss or adverse circumstances.",,,"(verb) subject to a vicious verbal attack; criticize brutally.
-(verb) (especially of a dog or wild animal) attack ferociously and maul.",,,,
+",(verb) keep safe or rescue (someone or something) from harm or danger.,,,,,,
+S,not-special,anti,salvaged,,,savaged,(verb) retrieve or preserve (something) from potential loss or adverse circumstances.,,,"(verb) subject to a vicious verbal attack; criticize brutally.
+",,,,
 S,not-special,no-anti,satiate,sate,,,(adj.) satisfied to the full; satiated.,(verb) satisfy (a desire or an appetite) to the full.,,,,,,
 S,not-special,no-anti,satisfied,sated,,,(adj.) contented; pleased.,(verb) satisfy (a desire or an appetite) to the full.,,,,,,
 S,not-special,no-anti,scallywag,scally,,,(noun) (informal) a person who behaves badly but in an amusingly mischievous rather than harmful way; a rascal.,(noun) (North England) A jobless yob who has little or no education and is suspected of having committed some type of crime.,,,,,,
@@ -562,7 +549,6 @@ T,not-special,no-anti,transgression,sin,,,"(noun) an act that goes against a law
 T,not-special,anti,there,,,here,"(adv.) in, at, or to that place or position.","(adv.) in, at, or to this place or position.",,,,,,
 T,not-special,anti,threat,,,treat,"(noun) a statement of an intention to inflict pain, injury, damage, or other hostile action on someone in retribution for something done or not done.",(verb) give medical care or attention to; try to heal or cure.,,,,,,
 T,not-special,anti,thoroughly,,,roughly,(adv.) in a thorough manner.,"(adv.) in a manner lacking gentleness; harshly or violently.
-(adv.) in a manner lacking refinement and precision
 ",,,,,,
 T,not-special,no-anti,truthfully,truly,,,(adv.) in a way that expresses the truth; honestly.,(adv.) to the fullest degree; genuinely or properly.,,,,,,
 T,not-special,no-anti,trustworthy,trusty,,,(adj.) able to be relied on as honest or truthful.,(adj.) having served for a long time and regarded as reliable or faithful.,,,,,,
@@ -579,7 +565,7 @@ V,not-special,no-anti,variegated,varied,,,"(adj.) exhibiting different colors, e
 ",(adj.) incorporating a number of different types or elements; showing variation or variety.,,,,,,
 V,not-special,no-anti,veracity,verity,,,(noun) conformity to facts; accuracy.,"(noun) a true principle or belief, especially one of fundamental importance.",,,,,,
 W,not-special,no-anti,weakening,waning,,,"(verb) make or become weaker in power, resolve, or physical strength.","(verb) (especially of a condition or feeling) decrease in vigor, power, or extent; become weaker.
-(verb) (of the moon) have a progressively smaller part of its visible surface illuminated, so that it appears to decrease in size.",,,,,,
+",,,,,,
 W,not-special,no-anti,wealth,weal,,,(noun) an abundance of valuable possessions or money.,"(noun) (formal) that which is best for someone or something.
 (noun) a red, swollen mark left on flesh by a blow or pressure.",,,,,,
 W,not-special,anti,wonderful,,,woeful,"(adj.) inspiring delight, pleasure, or admiration; extremely good; marvelous.",,,"(adj.) characterized by, expressive of, or causing sorrow or misery.",,,,
