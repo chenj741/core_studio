@@ -1,5 +1,19 @@
+@font-face {
+    font-family: 'made_dillanregular';
+    src: url('font/made_dillan-webfont.woff2') format('woff2'),
+         url('font/made_dillan-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body, html {
-	font-family: 'Helvetica Neue', sans-serif;
+		font-family: 'made_dillanregular';
+	}
+
+
+.intro-section{
+
 }
 
 .card {

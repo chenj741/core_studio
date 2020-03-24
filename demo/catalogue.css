@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'made_dillanregular';
+    src: url('font/made_dillan-webfont.woff2') format('woff2'),
+         url('font/made_dillan-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body, html {
+	font-family: 'made_dillanregular';
+	background-color: #CCAB82;
+	overflow-x:scroll;
+overflow-y:hidden;
+}
+
+#catalogue{
+	display:grid;
+	grid-template-rows: 2fr 6fr 1fr;
+	grid-template-columns: 100px 1fr 100px;
+	grid-gap:20px;
+	height:100vh;
+
+}
+
+#header{
+	position:fixed;
+	color:#EFECE7;
+	font-size:4.209em;
+}
+
+#main{
+overflow-x:scroll;
+overflow-y:hidden;
+white-space:nowrap;
+grid-column: 2/3;
+grid-row:2/3;
+}
+
+#list{
+	display: flex;
+	flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    height: 100%;
+}
+
+.starting-letter{
+  font-size:1.777em;
+  color:#3C3123;
+}
+
+.word{
+  width: auto;
+  height: auto;
+  padding-right:130px;
+  flex-shrink: 0;
+  font-size:1em;
+  line-height:0.75em;
+}
+
+.no-anti{
+	color:#3C3123;
+}
+
+.anti{
+	color:#BF068E;
+}
+
+.both{
+	color:#7F24A6
+}
+
+.special{
+	color:#D90479;
+}

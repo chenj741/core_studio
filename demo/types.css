@@ -1,0 +1,136 @@
+@font-face {
+    font-family: 'made_dillanregular';
+    src: url('font/made_dillan-webfont.woff2') format('woff2'),
+         url('font/made_dillan-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body, html {
+		font-family: 'made_dillanregular';
+		top:0;
+		left:0;
+		width:100%;
+		margin:0%;
+		scroll-behavior: smooth;
+
+	}
+
+.container{
+	top: 0;
+	left:0%;
+width: 100vw;
+height:100vh;
+
+}
+
+
+#main-kangaroo, #main-anti, #main-twin, #main-opposite, #main-grand{
+	background-color:#EFECE7;
+	padding:100px;
+	flex:1 1 30%;
+}
+
+
+#one, #two, #three, #four, #five{
+		min-height:100vh;
+		max-height:content;
+		display:flex;
+		flex-direction: row;
+  flex: 1 0 26%;
+  border-bottom: solid 0.7px #3C3123;
+		
+}
+
+#sidebar-kangaroo{
+	padding:100px;
+	background-color: #3C3123;
+	color: #EFECE7;
+flex:1;
+}
+
+
+
+#sidebar-anti{
+	padding:100px;
+	background-color:#BF068E;
+	color: #EFECE7;
+flex:1;
+}
+
+
+#sidebar-twin{
+	padding:100px;
+	background-color:#686BA6;
+	color: #EFECE7;
+		flex:1;
+}
+
+
+
+#sidebar-opposite{
+	padding:100px;
+	background-color:#7F24A6;
+	color: #EFECE7;
+		flex:1;
+}
+
+
+#sidebar-grand{
+	padding:100px;
+	background-color:#D90479;
+	color: #EFECE7;
+	flex:1;
+}
+
+h4 {
+		font-size:3.157em;
+		color:#EFECE7;
+	}
+
+	p{
+		font-size:1.777em;
+	}
+
+
+.header{
+	color:#EFECE7;
+	font-size:1.333em;
+}
+
+
+	.sticky {
+		position:fixed;
+		bottom:2%;
+		background-color: #CCAB82;
+		padding:10px;
+	}
+
+
+	/*sticky elements are relative to the parent! */
+
+	.jump{
+		color:#2e2e1f;
+	}
+
+	.jump:visited {
+		color:#2e2e1f;
+	}
+
+
+
+	a {
+	color:#EFECE7;
+	display:block;
+	font-size:1.333em;
+	}
+
+	a:hover{ 
+	color:#3C3123;
+}
+
+	a:visited{
+	text-decoration:none
+	color: #6a6a48;
+	}

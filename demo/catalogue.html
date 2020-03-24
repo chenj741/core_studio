@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+<link rel="stylesheet" type="text/css" href="catalogue.css">
+</head>
+<body>
+
+<div id="catalogue">
+	<div id="header">A-Y Catalogue</div>
+<div id="main"><div id="list"></div></div>
+</div>
+
+
+</body>
+<script type="text/javascript">
+d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/demo/All%20-%20Sheet1.csv')
+.then(
+	//run functions with the data here
+	function(data){
+		console.log(data)
+		viewData(data,'list')
+	}
+	)
+.catch(function(error){
+})
+
+
+
+function viewData (data, location_id) {
+
+	el = document.querySelector('#'+location_id) 
+	data.forEach(function(item){
+		div = document.createElement('div')
+		div.setAttribute('class','word')
+		div.classList.add(item['special'])
+		div.classList.add(item['anti'])
+		div.classList.add(item['letter'])
+		h1 = document.createElement('h1')
+		h1.innerHTML=item['kangaroo']
+		div.appendChild(h1)
+		el.appendChild(div)
+
+	})
+
+
+	
+}
+</script>
+</html>
