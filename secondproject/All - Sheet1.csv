@@ -155,7 +155,8 @@ firstC,C,not-special,no-anti,cacodemon,demon,0,0,(noun) a malevolent spirit or p
 0,C,not-special,no-anti,clue,cue,0,0,(noun) a fact or idea that serves as a guide or aid in a task or problem.,(noun) a thing said or done that serves as a signal to an actor or other performer to enter or to begin their speech or performance.,0,0,,,,
 0,C,not-special,no-anti,clump,lump,0,0,(noun) a compacted mass or lump of something.,"(noun) a compact mass of a substance, especially one without a definite or regular shape.",0,0,,,,
 0,C,not-special,anti,communicative,0,0,mute,"(adj.) ready to talk or impart information.
-",0,0,(adj.) refraining from speech or temporarily speechless.,,,,
+",0,0,(adj.) refraining from speech or temporarily speechless,,,,
+0,C,not-special,no-anti,community,county,city,0,(noun) a group of people living in the same place or having a particular characteristic in common.,"(noun) a political and administrative division of a state, providing certain local governmental services.",(noun) a large town.,0,,,,
 0,C,"special
 ",no-anti,complaisant,compliant,pliant,0,(adj.) willing to please others; obliging; agreeable.,"(adj.) inclined to agree with others or obey rules, especially to an excessive degree; acquiescent.",(adj.) pliable.,0,,,,
 0,C,not-special,no-anti,completionist,completist,0,0,(noun) (in a video game) a player who attempts to complete every challenge and earn every achievement or trophy.,"(noun) an obsessive, typically indiscriminate, collector or fan of something.",0,0,,,,
@@ -305,7 +306,7 @@ firstF,F,not-special,both,fabrication,fiction,0,fact,"(noun) the action or proce
 0,F,"special
 ",no-anti,frangible,fragile,"frail
 ",0,(adj.) fragile; brittle.,(adj.) (of an object) easily broken or damaged.,(adj.) (of a person) weak and delicate.,0,,,,
-lastF,F,not-special,yes,friend,0,0,fiend,"(noun) a person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",0,0,(noun) a wicked or cruel person.,,,,
+lastF,F,not-special,anti,friend,0,0,fiend,"(noun) a person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",0,0,(noun) a wicked or cruel person.,,,,
 firstG,G,not-special,no-anti,grandiose,grand,0,0,"(adj.) impressive and imposing in appearance or style, especially pretentiously so.","(adj.) magnificent and imposing in appearance, size, or style.",0,0,,,,
 0,G,not-special,no-anti,granulated,grated,0,0,(verb) form (something) into grains or particles.,(adj.) (of food) reduced to small shreds by being rubbed on a grater.,0,0,,,,
 lastG,G,not-special,no-anti,gigantic,giant,0,0,"(adj.) of very great size or extent; huge or enormous.

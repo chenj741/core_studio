@@ -222,18 +222,18 @@ border: 2px solid #D90479;
 .box5 input:checked ~ .checkmark5 {
   background-color: #D90479;
 }
-/*
-.checkmark:after {
+
+.checkmark1:after {
   content: "";
   position: absolute;
   display: none;
 }
 
-.box input:checked ~ .checkmark:after {
+.box input:checked ~ .checkmark1:after {
   display: block;
 }
 
-.box .checkmark:after {
+.box .checkmark1:after {
   left: 3.5px;
   top: -1px;
   width: 5px;
@@ -243,7 +243,95 @@ border: 2px solid #D90479;
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
-}*/
+}
+
+.checkmark2:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.box input:checked ~ .checkmark2:after {
+  display: block;
+}
+
+.box .checkmark2:after {
+  left: 3.5px;
+  top: -1px;
+  width: 5px;
+  height: 10px;
+  border: solid #CCAB82;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.checkmark3:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.box input:checked ~ .checkmark3:after {
+  display: block;
+}
+
+.box .checkmark3:after {
+  left: 3.5px;
+  top: -1px;
+  width: 5px;
+  height: 10px;
+  border: solid #CCAB82;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.checkmark4:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.box input:checked ~ .checkmark4:after {
+  display: block;
+}
+
+.box .checkmark4:after {
+  left: 3.5px;
+  top: -1px;
+  width: 5px;
+  height: 10px;
+  border: solid #CCAB82;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.checkmark5:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.box input:checked ~ .checkmark5:after {
+  display: block;
+}
+
+.box .checkmark5:after {
+  left: 3.5px;
+  top: -1px;
+  width: 5px;
+  height: 10px;
+  border: solid #CCAB82;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
 
 .arrowlink{
 	color:#EFECE7;
