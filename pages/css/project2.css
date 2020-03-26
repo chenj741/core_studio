@@ -1,8 +1,8 @@
 
 @font-face {
     font-family: 'made_dillanregular';
-    src: url('font/made_dillan-webfont.woff2') format('woff2'),
-         url('font/made_dillan-webfont.woff') format('woff');
+    src: url('../font/made_dillan-webfont.woff2') format('woff2'),
+         url('../font/made_dillan-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
