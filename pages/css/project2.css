@@ -1,9 +1,16 @@
 
+@font-face {
+    font-family: 'made_dillanregular';
+    src: url('font/made_dillan-webfont.woff2') format('woff2'),
+         url('font/made_dillan-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:300i,400&display=swap');
+}
+
 
 body, html {
-		font-family: 'Poppins', sans-serif;
+		font-family: 'made_dillanregular';
 		top:0;
 		left:0;
 		width:100%:;
@@ -59,6 +66,7 @@ body, html {
 	}
 
 	.content p {
+		font-family: 'made_dillanregular';
 		font-size:3em;
 		color:#2e2e1f;
 	}
