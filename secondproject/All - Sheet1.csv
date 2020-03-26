@@ -1,566 +1,561 @@
 beginning,letter,special,anti,kangaroo,"
 joey",secondjoey,antijoey,"kangaroodefinition
 ","joeydefinition
-",secondjoeydefinition,antijoeydefinition,,,,
+",secondjoeydefinition,antijoeydefinition
 firstA,A,not-special,no-anti,"
-aberrant",errant,0,0,(adj.) departing from an accepted standard.,(adj.) erring or straying from the proper course or standards.,0,0,,,,
-0,A,not-special,no-anti,abnormality,anomaly,0,0,"(noun) an abnormal feature, characteristic, or occurrence, typically in a medical context.","(noun) something that deviates from what is standard, normal, or expected.",0,0,,,,
+aberrant",errant,0,0,(adj.) departing from an accepted standard.,(adj.) erring or straying from the proper course or standards.,0,0
+0,A,not-special,no-anti,abnormality,anomaly,0,0,"(noun) an abnormal feature, characteristic, or occurrence, typically in a medical context.","(noun) something that deviates from what is standard, normal, or expected.",0,0
 0,A,not-special,no-anti,abide,bide,0,0,"(verb) accept or act in accordance with (a rule, decision, or recommendation).
-(informal) be unable to tolerate.",(verb) remain or stay somewhere.,0,0,,,,"
-"
+(informal) be unable to tolerate.",(verb) remain or stay somewhere.,0,0
 0,A,not-special,anti,abuse,0,0,use,(verb) use (something) to bad effect or for a bad purpose; misuse.,0,0,"(verb) take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result; employ.
-",,,,
-0,A,not-special,no-anti,acclimatize,acclimate,0,0,(verb) become accustomed to a new climate or to new conditions.,(technical) respond physiologically or behaviorally to a change in conditions in the natural environment.,0,0,,,,"
 "
-0,A,not-special,no-anti,accustomed,accustom,used,0,(adj.) customary; usual.,(verb) make (someone or something) accept something as normal or usual.,(verb) be or become familiar with someone or something through experience.,0,,,,
-0,A,not-special,no-anti,acrid,acid,0,0,(adj.) having an irritatingly strong and unpleasant taste or smell.,(adj.) sharp-tasting or sour.,0,0,,,,
+0,A,not-special,no-anti,acclimatize,acclimate,0,0,(verb) become accustomed to a new climate or to new conditions.,(technical) respond physiologically or behaviorally to a change in conditions in the natural environment.,0,0
+0,A,not-special,no-anti,accustomed,accustom,used,0,(adj.) customary; usual.,(verb) make (someone or something) accept something as normal or usual.,(verb) be or become familiar with someone or something through experience.,0
+0,A,not-special,no-anti,acrid,acid,0,0,(adj.) having an irritatingly strong and unpleasant taste or smell.,(adj.) sharp-tasting or sour.,0,0
 0,A,not-special,no-anti,action,act,0,0,"(noun) the fact or process of doing something, typically to achieve an aim.
 (noun) doing something, typically the way in which a mechanism works or a person moves.
 ","(noun) fulfill the function or serve the purpose of.
 (verb) perform a fictional role in a play, movie, or television production.
 
 
-",0,0,,,,
+",0,0
 0,A,not-special,no-anti,addlepated,addled,0,0,"(adj.) being mixed up, confused.
 (adj.) eccentric.","(adj.) unable to think clearly; confused.
-(of an egg) rotten.",0,0,,,,
+(of an egg) rotten.",0,0
 0,A,not-special,no-anti,admixture,mixture,0,0,"(noun) a mixture.
 (noun) the action of adding an ingredient to something else.
 ","(noun) a substance made by mixing other substances together.
 (noun) the process of mixing or being mixed.
-(noun) a combination of different qualities, things, or emotions in which the component elements are individually distinct.",0,0,,,,
-0,A,not-special,no-anti,admonish,monish,0,0,(verb) advise or urge (someone) earnestly.,(verb) warn strongly; put on guard.,0,0,,,,
-0,A,not-special,no-anti,adroitness,art,0,0,(noun) cleverness or skill.,"(noun) a skill at doing a specified thing, typically one acquired through practice.",0,0,,,,
-0,A,not-special,no-anti,adventuresome,venturesome,0,0,(adj.) given to adventures or to running risks; adventurous.,(adj.) willing to take risks or embark on difficult or unusual courses of action.,0,0,,,,
+(noun) a combination of different qualities, things, or emotions in which the component elements are individually distinct.",0,0
+0,A,not-special,no-anti,admonish,monish,0,0,(verb) advise or urge (someone) earnestly.,(verb) warn strongly; put on guard.,0,0
+0,A,not-special,no-anti,adroitness,art,0,0,(noun) cleverness or skill.,"(noun) a skill at doing a specified thing, typically one acquired through practice.",0,0
+0,A,not-special,no-anti,adventuresome,venturesome,0,0,(adj.) given to adventures or to running risks; adventurous.,(adj.) willing to take risks or embark on difficult or unusual courses of action.,0,0
 0,A,not-special,no-anti,adventurous,venturous,0,0,"(adj.) willing to take risks or to try out new methods, ideas, or experiences.
 (adj.) involving new ideas or methods.
-(adj.) full of excitement.",(adj.) disposed to venture or take risks.,0,0,,,,
+(adj.) full of excitement.",(adj.) disposed to venture or take risks.,0,0
 0,A,not-special,no-anti,affect,act,0,0,"(verb) have an effect on; make a difference to.
-(verb) touch the feelings of (someone); move emotionally.",(verb) take effect; have a particular effect.,0,0,,,,
+(verb) touch the feelings of (someone); move emotionally.",(verb) take effect; have a particular effect.,0,0
 0,A,not-special,no-anti,aggravated,grated,0,0,"(adj.) (of an offense, problem, or injury made worse or more serious.
-(informal) annoy or exasperate (someone), especially persistently.",(verb) have an irritating effect.,0,0,,,,
-0,A,not-special,no-anti,allocate,allot,0,0,(verb) distribute (resources or duties) for a particular purpose.,(verb) give or apportion (something) to someone as a share or task.,0,0,,,,
-0,A,not-special,no-anti,allurement,lure,0,0,(noun) the power to entice or attract through personal charm.,"(verb) tempt (a person or animal) to do something or to go somewhere, especially by offering some form of reward.",0,0,,,,
+(informal) annoy or exasperate (someone), especially persistently.",(verb) have an irritating effect.,0,0
+0,A,not-special,no-anti,allocate,allot,0,0,(verb) distribute (resources or duties) for a particular purpose.,(verb) give or apportion (something) to someone as a share or task.,0,0
+0,A,not-special,no-anti,allurement,lure,0,0,(noun) the power to entice or attract through personal charm.,"(verb) tempt (a person or animal) to do something or to go somewhere, especially by offering some form of reward.",0,0
 0,A,special,no-anti,alone,lone,one,0,"(adj.) having no one else present.
 (adj.) isolated and alone.
 (adv.) indicating that something is confined to the specified subject or recipient.","(adj.) having no comparisons; solitary or single.
 (literary) (of a place) unfrequented and remote.
-",(noun) single; just one as opposed to any more or to none at all (used for emphasis).,0,,,,
+",(noun) single; just one as opposed to any more or to none at all (used for emphasis).,0
 0,A,not-special,no-anti,alternative,alternate,0,0,"(adj.) (of one or more things) available as another possibility.
 (noun) one of two or more available possibilities.","(verb)  occur in turn repeatedly.
-(adj.) (of two things) each following and succeeded by the other in a regular pattern.",0,0,,,,
-0,A,not-special,no-anti,amicable,amiable,0,0,(adj.) (of relations between people) having a spirit of friendliness; without serious disagreement or rancor.,(adj.) having or displaying a friendly and pleasant manner.,0,0,,,,
-0,A,special,no-anti,amicability,amiability,amity,0,(adj.) having a disposition characterized by warmth and friendliness.,(noun) the quality of having a friendly and pleasant manner; geniality.,(noun) (formal) a friendly relationship.,0,,,,
+(adj.) (of two things) each following and succeeded by the other in a regular pattern.",0,0
+0,A,not-special,no-anti,amicable,amiable,0,0,(adj.) (of relations between people) having a spirit of friendliness; without serious disagreement or rancor.,(adj.) having or displaying a friendly and pleasant manner.,0,0
+0,A,special,no-anti,amicability,amiability,amity,0,(adj.) having a disposition characterized by warmth and friendliness.,(noun) the quality of having a friendly and pleasant manner; geniality.,(noun) (formal) a friendly relationship.,0
 0,A,not-special,no-anti,analogue,analog,0,0,"(adj.) relating to or using signals or information represented by a continuously variable physical quantity such as spatial position, voltage, etc.","(adj.) relating to or using signals or information represented by a continuously variable physical quantity such as spatial position, voltage, etc.
 (adj.) not involving or relating to the use of computer technology, as a contrast to a digital counterpart.
-(noun) a person or thing seen as comparable to another.",0,0,,,,
-0,A,not-special,anti,animosity,0,0,amity,(noun) strong hostility.,0,0,(noun) (formal) a friendly relationship.,,,,
+(noun) a person or thing seen as comparable to another.",0,0
+0,A,not-special,anti,animosity,0,0,amity,(noun) strong hostility.,0,0,(noun) (formal) a friendly relationship.
 0,A,not-special,no-anti,antiquated,antique,0,0,"(adj.) old-fashioned or outdated.
 ","(noun) a collectible object such as a piece of furniture or work of art that has a high value because of its considerable age.
-(adj.) belonging to ancient times.",0,0,,,,
+(adj.) belonging to ancient times.",0,0
 0,A,not-special,no-anti,antiseptic,aseptic,0,0,"(adj.) relating to or denoting substances that prevent the growth of disease-causing microorganisms.
-(adj.) scrupulously clean or pure, especially so as to be bland or characterless.","(adj.) free from contamination caused by harmful bacteria, viruses, or other microorganisms.",0,0,,,,
+(adj.) scrupulously clean or pure, especially so as to be bland or characterless.","(adj.) free from contamination caused by harmful bacteria, viruses, or other microorganisms.",0,0
 0,A,not-special,no-anti,applaud,laud,0,0,"(verb) show approval or praise by clapping.
-","(verb) praise (a person or their achievements) highly, especially in a public context.",0,0,,,,
+","(verb) praise (a person or their achievements) highly, especially in a public context.",0,0
 0,A,not-special,no-anti,applaudatory,laudatory,0,0,(adj.) full of praise or applause.,"(adj.) (of speech or writing) expressing praise and commendation.
-",0,0,,,,
-0,A,not-special,no-anti,apposite,apt,0,0,(adj.) apt in the circumstances or in relation to something.,(adj.) quick to learn,0,0,,,,
+",0,0
+0,A,not-special,no-anti,apposite,apt,0,0,(adj.) apt in the circumstances or in relation to something.,(adj.) quick to learn,0,0
 0,A,not-special,no-anti,appropriate,apt,0,0,"(adj.) suitable or proper in the circumstances.
 (verb) take (something) for one's own use, typically without the owner's permission.
-(verb) to assign to a special purpose.",(adj.) appropriate or suitable in the circumstances.,0,0,,,,
+(verb) to assign to a special purpose.",(adj.) appropriate or suitable in the circumstances.,0,0
 0,A,not-special,no-anti,arch,arc,0,0,"(noun) a curved symmetrical structure spanning an opening and typically supporting the weight of a bridge, roof, or wall above it.
 (verb) form or cause to form the curved shape of an arch.","(noun) a part of the circumference of a circle or other curve.
-",0,0,,,,
-0,A,not-special,no-anti,arena,area,0,0,"(noun) a level area surrounded by seats for spectators, in which sports, entertainments, and other public events are held.","(noun) a region or part of a town, a country, or the world.",0,0,,,,
+",0,0
+0,A,not-special,no-anti,arena,area,0,0,"(noun) a level area surrounded by seats for spectators, in which sports, entertainments, and other public events are held.","(noun) a region or part of a town, a country, or the world.",0,0
 0,A,not-special,no-anti,arouse,rouse,0,0,"(verb) evoke or awaken (a feeling, emotion, or response).
 (verb) excite or provoke (someone) to anger or strong emotions.","(verb) startle out of inactivity; cause to become active.
-(verb) cause to feel angry or excited",0,0,,,,
-0,A,not-special,no-anti,artifice,art,0,0,"(noun) clever or cunning devices or expedients, especially as used to trick or deceive others.","(noun) a skill at doing a specified thing, typically one acquired through practice.",0,0,,,,
-0,A,not-special,no-anti,artistry,art,0,0,(noun) creative skill or ability.,(noun) the expression or application of human creative skill and imagination.,0,0,,,,
-0,A,not-special,no-anti,asseverate,aver,0,0,(verb) declare or state solemnly or emphatically.,(verb) (formal) state or assert to be the case.,0,0,,,,
-0,A,not-special,no-anti,astound,stun,0,0,(verb) shock or greatly surprise.,(verb) astonish or shock (someone) so that they are temporarily unable to react.,0,0,,,,
-0,A,not-special,no-anti,avocation,vocation,0,0,(noun) (formal) a hobby or minor occupation.,(noun) a strong feeling of suitability for a particular career or occupation.,0,0,,,,
-lastA,A,not-special,no-anti,axletree,axle,0,0,"(noun) a crossbar or rod supporting a vehicle, such as a cart, that has terminal spindles on which the wheels revolve.",(noun) a rod or spindle (either fixed or rotating) passing through the center of a wheel or group of wheels.,0,0,,,,
-firstB,B,not-special,no-anti,balderdash,blash,0,0,(noun) senseless talk or writing; nonsense.,(noun) (British) a splash of liquid or mud.,0,0,,,"
-",
-0,B,not-special,no-anti,balsam,balm,0,0,"(noun) an aromatic resinous substance, such as balm, exuded by various trees and shrubs and used as a base for certain fragrances and medical and cosmetic preparations.",(noun) a fragrant ointment or preparation used to heal or soothe the skin.,0,0,,,,
+(verb) cause to feel angry or excited",0,0
+0,A,not-special,no-anti,artifice,art,0,0,"(noun) clever or cunning devices or expedients, especially as used to trick or deceive others.","(noun) a skill at doing a specified thing, typically one acquired through practice.",0,0
+0,A,not-special,no-anti,artistry,art,0,0,(noun) creative skill or ability.,(noun) the expression or application of human creative skill and imagination.,0,0
+0,A,not-special,no-anti,asseverate,aver,0,0,(verb) declare or state solemnly or emphatically.,(verb) (formal) state or assert to be the case.,0,0
+0,A,not-special,no-anti,astound,stun,0,0,(verb) shock or greatly surprise.,(verb) astonish or shock (someone) so that they are temporarily unable to react.,0,0
+0,A,not-special,no-anti,avocation,vocation,0,0,(noun) (formal) a hobby or minor occupation.,(noun) a strong feeling of suitability for a particular career or occupation.,0,0
+lastA,A,not-special,no-anti,axletree,axle,0,0,"(noun) a crossbar or rod supporting a vehicle, such as a cart, that has terminal spindles on which the wheels revolve.",(noun) a rod or spindle (either fixed or rotating) passing through the center of a wheel or group of wheels.,0,0
+firstB,B,not-special,no-anti,balderdash,blash,0,0,(noun) senseless talk or writing; nonsense.,(noun) (British) a splash of liquid or mud.,0,0
+0,B,not-special,no-anti,balsam,balm,0,0,"(noun) an aromatic resinous substance, such as balm, exuded by various trees and shrubs and used as a base for certain fragrances and medical and cosmetic preparations.",(noun) a fragrant ointment or preparation used to heal or soothe the skin.,0,0
 0,B,not-special,no-anti,banish,ban,0,0,"(verb) send (someone) away from a country or place as an official punishment.
 (verb) forbid, abolish, or get rid of (something unwanted). ","(verb) officially exclude (someone) from a place.
-(noun) an official exclusion of a person from an organization, country, or activity",0,0,,,,
+(noun) an official exclusion of a person from an organization, country, or activity",0,0
 0,B,not-special,no-anti,barren,bare,0,0,"(adj.) (of land) too poor to produce much or any vegetation.
 (adj.) devoid of","(adj.) without the appropriate, usual, or natural covering.
 (adj.) devoid of; without.
-(adj.) without addition; basic and simple.",0,0,,,,
-0,B,not-special,no-anti,barricade,bar,0,0,(noun) an improvised barrier erected across a street or other thoroughfare to prevent or delay the movement of opposing forces.,(noun) a barrier or restriction to an action or advance.,0,0,,,,
-0,B,not-special,no-anti,barricaded,barred,0,0,(verb) (past tense) shut (oneself or someone) into a place by blocking all the entrances.,"(adj.) closed or secured with a long rod or rigid piece of wood, metal, or similar material.",0,0,,,,
-0,B,not-special,no-anti,barrier,bar,0,0,(noun) a fence or other obstacle that prevents movement or access.,(noun) a barrier or restriction to an action or advance.,0,0,,,,
-0,B,not-special,no-anti,barristers,bar,0,0,"(noun) (British) a lawyer entitled to practice as an advocate, particularly in the higher courts.",(noun) a barrier or restriction to an action or advance.,0,0,,,,
-0,B,not-special,anti,bearded,0,0,bare,(adj.) having a growth of hair on one's cheeks and chin.,0,0,(adj.) (of a person or part of the body) not clothed or covered.,,,,
+(adj.) without addition; basic and simple.",0,0
+0,B,not-special,no-anti,barricade,bar,0,0,(noun) an improvised barrier erected across a street or other thoroughfare to prevent or delay the movement of opposing forces.,(noun) a barrier or restriction to an action or advance.,0,0
+0,B,not-special,no-anti,barricaded,barred,0,0,(verb) (past tense) shut (oneself or someone) into a place by blocking all the entrances.,"(adj.) closed or secured with a long rod or rigid piece of wood, metal, or similar material.",0,0
+0,B,not-special,no-anti,barrier,bar,0,0,(noun) a fence or other obstacle that prevents movement or access.,(noun) a barrier or restriction to an action or advance.,0,0
+0,B,not-special,no-anti,barristers,bar,0,0,"(noun) (British) a lawyer entitled to practice as an advocate, particularly in the higher courts.",(noun) a barrier or restriction to an action or advance.,0,0
+0,B,not-special,anti,bearded,0,0,bare,(adj.) having a growth of hair on one's cheeks and chin.,0,0,(adj.) (of a person or part of the body) not clothed or covered.
 0,B,not-special,no-anti,because,as,0,0,(conjunction) for the reason that; since.,"(conjunction) because; since.
-(conjunction) used to indicate by comparison the way that something happens or is done.",0,0,,,,
-0,B,not-special,no-anti,befall,be,0,0,(verb) (literary) used to indicate by comparison the way that something happens or is done.,(verb) occur; take place.,0,0,,,,
+(conjunction) used to indicate by comparison the way that something happens or is done.",0,0
+0,B,not-special,no-anti,befall,be,0,0,(verb) (literary) used to indicate by comparison the way that something happens or is done.,(verb) occur; take place.,0,0
 0,B,not-special,no-anti,befuddled,fuddled,0,0,(verb) make (someone) unable to think clearly.,"(adj.) confused or stupefied, especially as a result of drinking alcohol.
-(verb) confuse or stupefy (someone), especially with alcohol.",0,0,,,,
+(verb) confuse or stupefy (someone), especially with alcohol.",0,0
 0,B,not-special,no-anti,before,ere,0,0,"(preposition) (conjunction) (adverb) during the period of time preceding (a particular event, date, or time).
-",(preposition) (conjunction) before (in time).,0,0,,,,
-0,B,not-special,no-anti,belated,late,0,0,(adj) coming or happening later than should have been the case.,"(adj.) doing something or taking place after the expected, proper, or usual time.",0,0,,,,
-0,B,not-special,no-anti,bemoan,moan,0,0,(verb) express discontent or sorrow over (something).,"(verb) make a long, low sound expressing physical or mental suffering or sexual pleasure.",0,0,,,,
+",(preposition) (conjunction) before (in time).,0,0
+0,B,not-special,no-anti,belated,late,0,0,(adj) coming or happening later than should have been the case.,"(adj.) doing something or taking place after the expected, proper, or usual time.",0,0
+0,B,not-special,no-anti,bemoan,moan,0,0,(verb) express discontent or sorrow over (something).,"(verb) make a long, low sound expressing physical or mental suffering or sexual pleasure.",0,0
 0,B,not-special,no-anti,betwixt,twixt,0,0,"(preposition) (adverb) at, into, or across the space separating (two objects or regions).
 (preposition) (adverb) in the period separating (two points in time)
-",(preposition) contraction of betwixt,0,0,,,,
+",(preposition) contraction of betwixt,0,0
 0,B,not-special,no-anti,blatherskite,blather,0,0,"(noun) a person who talks at great length without making much sense.
 (noun) foolish talk; nonsense","(verb) talk long-windedly without making very much sense.
-(noun) long-winded talk with no real substance.",0,0,,,,
-0,B,not-special,no-anti,blossom,bloom,0,0,(verb) (of a tree or bush) produce flowers or masses of flowers.,(verb) produce flowers; be in flower.,0,0,,,,
-0,B,not-special,no-anti,blotch,blot,0,0,"(noun) an irregular patch or unsightly mark on a surface, typically the skin.","(noun) a dark mark or stain, typically one made by ink, paint, or dirt.",0,0,,,,
+(noun) long-winded talk with no real substance.",0,0
+0,B,not-special,no-anti,blossom,bloom,0,0,(verb) (of a tree or bush) produce flowers or masses of flowers.,(verb) produce flowers; be in flower.,0,0
+0,B,not-special,no-anti,blotch,blot,0,0,"(noun) an irregular patch or unsightly mark on a surface, typically the skin.","(noun) a dark mark or stain, typically one made by ink, paint, or dirt.",0,0
 0,B,not-special,no-anti,bombarded,bombed,0,0,"(verb) attack (a place or person) continuously with bombs, shells, or other missiles.
 (verb) assail (someone) persistently, as with questions, criticisms, or information.","(adj.) (of an area or building) subjected to bombing.
-(verb) (informal) (of a movie, play, or other event) fail miserably.",0,0,,,,
-0,B,not-special,no-anti,brackets,braces,0,0,(noun) each of a pair of marks [ ] used to enclose words or figures so as to separate them from the context.,"(noun) (printing) either of the two marks { and }, used either to indicate that two or more items on one side have the same relationship as each other  or in pairs to show that words between them are connected.",0,0,,,,
+(verb) (informal) (of a movie, play, or other event) fail miserably.",0,0
+0,B,not-special,no-anti,brackets,braces,0,0,(noun) each of a pair of marks [ ] used to enclose words or figures so as to separate them from the context.,"(noun) (printing) either of the two marks { and }, used either to indicate that two or more items on one side have the same relationship as each other  or in pairs to show that words between them are connected.",0,0
 0,B,not-special,no-anti,brash,rash,0,0,"(adj.) self-assertive in a rude, noisy, or overbearing way.
 (adj.) strong, energetic, or irreverent.
-(adj.) (of a place or thing) having an ostentatious or tasteless appearance.",(adj.) displaying or proceeding from a lack of careful consideration of the possible consequences of an action.,0,0,,,,
-0,B,not-special,no-anti,brashness,brass,0,0,"(adj.) being self-assertive in a rude, noisy, or overbearing way.",(noun) (informal) a person's hardness or effrontery.,0,0,,,,
+(adj.) (of a place or thing) having an ostentatious or tasteless appearance.",(adj.) displaying or proceeding from a lack of careful consideration of the possible consequences of an action.,0,0
+0,B,not-special,no-anti,brashness,brass,0,0,"(adj.) being self-assertive in a rude, noisy, or overbearing way.",(noun) (informal) a person's hardness or effrontery.,0,0
 0,B,not-special,no-anti,breathe,be,0,0,"(verb) give an impression of (something).
 (verb) be alive; remain living","(verb) exist.
-(verb) having the state, quality, identity, nature, role, etc., specified.",0,0,,,,
+(verb) having the state, quality, identity, nature, role, etc., specified.",0,0
 lastB,B,not-special,no-anti,"burst
 ",bust,0,0,"(verb) (of a container) break suddenly and violently apart, spilling the contents, typically as a result of an impact or internal pressure.
-(noun) an instance of breaking or splitting as a result of internal pressure or puncturing; an explosion.","(verb) (informal) break, split, or burst (something).",0,0,,,,
-firstC,C,not-special,no-anti,cacodemon,demon,0,0,(noun) a malevolent spirit or person.,"(noun) an evil spirit or devil, especially one thought to possess a person or act as a tormentor in hell.",0,0,,,,
+(noun) an instance of breaking or splitting as a result of internal pressure or puncturing; an explosion.","(verb) (informal) break, split, or burst (something).",0,0
+firstC,C,not-special,no-anti,cacodemon,demon,0,0,(noun) a malevolent spirit or person.,"(noun) an evil spirit or devil, especially one thought to possess a person or act as a tormentor in hell.",0,0
 0,C,not-special,no-anti,calumnies,lies,0,0,"(noun) the making of false and defamatory statements about someone in order to damage their reputation; slander.
-(noun) a false and slanderous statement.",(verb) tell a lie or lies.,0,0,,,,
+(noun) a false and slanderous statement.",(verb) tell a lie or lies.,0,0
 0,C,not-special,no-anti,canister,"case
-",0,0,"(noun) a round or cylindrical container, typically one made of metal, used for storing such things as food, chemicals, or rolls of film.",(noun) a container designed to hold or protect something.,0,0,,,,
+",0,0,"(noun) a round or cylindrical container, typically one made of metal, used for storing such things as food, chemicals, or rolls of film.",(noun) a container designed to hold or protect something.,0,0
 0,C,not-special,no-anti,capable,able,0,0,"(adj.) having the ability, fitness, or quality necessary to do or achieve a specified thing.","(adj.) having the power, skill, means, or opportunity to do something.
-",0,0,,,,
-0,C,not-special,no-anti,capability,ability,0,0,(noun) the power or ability to do something.,(noun) possession of the means or skill to do something.,0,0,,,,
-0,C,not-special,no-anti,capsule,case,0,0,"(noun) a small case or container, especially a round or cylindrical one.",(noun) a container designed to hold or protect something.,0,0,,,,
-0,C,not-special,no-anti,cartoon,art,0,0,"(noun) a simple drawing showing the features of its subjects in a humorously exaggerated way, especially a satirical one in a newspaper or magazine.","(noun) subjects of study primarily concerned with the processes and products of human creativity and social life, such as languages, literature, and history (as contrasted with scientific or technical subjects).",0,0,,,,
-0,C,not-special,no-anti,casket,case,0,0,"(noun) a small ornamental box or chest for holding jewels, letters, or other valuable objects.",(noun) a container designed to hold or protect something.,0,0,,,,
-0,C,not-special,no-anti,catacomb,tomb,0,0,"(noun) an underground cemetery consisting of a subterranean gallery with recesses for tombs, as constructed by the ancient Romans.","(noun) a large vault, typically an underground one, for burying the dead.",0,0,,,,
-0,C,not-special,no-anti,catalogue,catalog,0,0,(verb) make a systematic list of (items of the same type).,"(verb) list (similar situations, qualities, or events) in succession.",0,0,,,,
-0,C,not-special,no-anti,cavern,cave,0,0,"(noun) a cave, or a chamber in a cave, typically a large one.","(noun) a large underground chamber, typically of natural origin, in a hillside or cliff.",0,0,,,,
-0,C,not-special,no-anti,charge,care,0,0,(verb) entrust (someone) with a task as a duty or responsibility.,(verb) feel concern or interest; attach importance to something.,0,0,,,,
-0,C,not-special,no-anti,charisma,charm,0,0,(noun) compelling attractiveness or charm that can inspire devotion in others.,(noun) the power or quality of giving delight or arousing admiration.,0,0,,,,"
-"
-0,C,not-special,no-anti,chicken,hen,0,0,"(noun) a domestic fowl kept for its eggs or meat, especially a young one.","(noun) a female bird, especially of a domestic fowl.",0,0,,,,
-0,C,not-special,no-anti,chocolate,cocoa,0,0,"(noun) a food preparation in the form of a paste or solid block made from roasted and ground cacao seeds, typically sweetened.",(noun) a chocolate powder made from roasted and ground cacao seeds.,0,0,,,,"
-"
-0,C,not-special,no-anti,cleanse,clean,0,0,"(verb) make (something, especially the skin) thoroughly clean.","(adj.) free from dirt, marks, or stains.",0,0,,,,
-0,C,not-special,no-anti,cleanser,cleaner,0,0,"(noun) a substance that cleanses something, especially a cosmetic product for cleansing the skin.","(adj.) free from dirt, marks, or stains.",0,0,,,,
+",0,0
+0,C,not-special,no-anti,capability,ability,0,0,(noun) the power or ability to do something.,(noun) possession of the means or skill to do something.,0,0
+0,C,not-special,no-anti,capsule,case,0,0,"(noun) a small case or container, especially a round or cylindrical one.",(noun) a container designed to hold or protect something.,0,0
+0,C,not-special,no-anti,cartoon,art,0,0,"(noun) a simple drawing showing the features of its subjects in a humorously exaggerated way, especially a satirical one in a newspaper or magazine.","(noun) subjects of study primarily concerned with the processes and products of human creativity and social life, such as languages, literature, and history (as contrasted with scientific or technical subjects).",0,0
+0,C,not-special,no-anti,casket,case,0,0,"(noun) a small ornamental box or chest for holding jewels, letters, or other valuable objects.",(noun) a container designed to hold or protect something.,0,0
+0,C,not-special,no-anti,catacomb,tomb,0,0,"(noun) an underground cemetery consisting of a subterranean gallery with recesses for tombs, as constructed by the ancient Romans.","(noun) a large vault, typically an underground one, for burying the dead.",0,0
+0,C,not-special,no-anti,catalogue,catalog,0,0,(verb) make a systematic list of (items of the same type).,"(verb) list (similar situations, qualities, or events) in succession.",0,0
+0,C,not-special,no-anti,cavern,cave,0,0,"(noun) a cave, or a chamber in a cave, typically a large one.","(noun) a large underground chamber, typically of natural origin, in a hillside or cliff.",0,0
+0,C,not-special,no-anti,charge,care,0,0,(verb) entrust (someone) with a task as a duty or responsibility.,(verb) feel concern or interest; attach importance to something.,0,0
+0,C,not-special,no-anti,charisma,charm,0,0,(noun) compelling attractiveness or charm that can inspire devotion in others.,(noun) the power or quality of giving delight or arousing admiration.,0,0
+0,C,not-special,no-anti,chicken,hen,0,0,"(noun) a domestic fowl kept for its eggs or meat, especially a young one.","(noun) a female bird, especially of a domestic fowl.",0,0
+0,C,not-special,no-anti,chocolate,cocoa,0,0,"(noun) a food preparation in the form of a paste or solid block made from roasted and ground cacao seeds, typically sweetened.",(noun) a chocolate powder made from roasted and ground cacao seeds.,0,0
+0,C,not-special,no-anti,cleanse,clean,0,0,"(verb) make (something, especially the skin) thoroughly clean.","(adj.) free from dirt, marks, or stains.",0,0
+0,C,not-special,no-anti,cleanser,cleaner,0,0,"(noun) a substance that cleanses something, especially a cosmetic product for cleansing the skin.","(adj.) free from dirt, marks, or stains.",0,0
 0,C,not-special,no-anti,cloistered,closed,0,0,"(adj.) kept away from the outside world; sheltered.
-(adj.) having or enclosed by a cloister, as in a monastery.",(adj.) not open.,0,0,,,,
-0,C,not-special,no-anti,closemouthed,mute,0,0,(adj.) reticent; discreet.,(adj.) refraining from speech or temporarily speechless.,0,0,,,,
-0,C,not-special,no-anti,clue,cue,0,0,(noun) a fact or idea that serves as a guide or aid in a task or problem.,(noun) a thing said or done that serves as a signal to an actor or other performer to enter or to begin their speech or performance.,0,0,,,,
-0,C,not-special,no-anti,clump,lump,0,0,(noun) a compacted mass or lump of something.,"(noun) a compact mass of a substance, especially one without a definite or regular shape.",0,0,,,,
+(adj.) having or enclosed by a cloister, as in a monastery.",(adj.) not open.,0,0
+0,C,not-special,no-anti,closemouthed,mute,0,0,(adj.) reticent; discreet.,(adj.) refraining from speech or temporarily speechless.,0,0
+0,C,not-special,no-anti,clue,cue,0,0,(noun) a fact or idea that serves as a guide or aid in a task or problem.,(noun) a thing said or done that serves as a signal to an actor or other performer to enter or to begin their speech or performance.,0,0
+0,C,not-special,no-anti,clump,lump,0,0,(noun) a compacted mass or lump of something.,"(noun) a compact mass of a substance, especially one without a definite or regular shape.",0,0
 0,C,not-special,anti,communicative,0,0,mute,"(adj.) ready to talk or impart information.
-",0,0,(adj.) refraining from speech or temporarily speechless,,,,
-0,C,not-special,no-anti,community,county,city,0,(noun) a group of people living in the same place or having a particular characteristic in common.,"(noun) a political and administrative division of a state, providing certain local governmental services.",(noun) a large town.,0,,,,
+",0,0,(adj.) refraining from speech or temporarily speechless
+0,C,not-special,no-anti,community,county,city,0,(noun) a group of people living in the same place or having a particular characteristic in common.,"(noun) a political and administrative division of a state, providing certain local governmental services.",(noun) a large town.,0
 0,C,"special
-",no-anti,complaisant,compliant,pliant,0,(adj.) willing to please others; obliging; agreeable.,"(adj.) inclined to agree with others or obey rules, especially to an excessive degree; acquiescent.",(adj.) pliable.,0,,,,
-0,C,not-special,no-anti,completionist,completist,0,0,(noun) (in a video game) a player who attempts to complete every challenge and earn every achievement or trophy.,"(noun) an obsessive, typically indiscriminate, collector or fan of something.",0,0,,,,
-0,C,not-special,no-anti,concatenate,catenate,0,0,(verb) link (things) together in a chain or series.,(third-person transitive verb) to connect in a series,0,0,,,,
+",no-anti,complaisant,compliant,pliant,0,(adj.) willing to please others; obliging; agreeable.,"(adj.) inclined to agree with others or obey rules, especially to an excessive degree; acquiescent.",(adj.) pliable.,0
+0,C,not-special,no-anti,completionist,completist,0,0,(noun) (in a video game) a player who attempts to complete every challenge and earn every achievement or trophy.,"(noun) an obsessive, typically indiscriminate, collector or fan of something.",0,0
+0,C,not-special,no-anti,concatenate,catenate,0,0,(verb) link (things) together in a chain or series.,(third-person transitive verb) to connect in a series,0,0
 0,C,not-special,no-anti,concede,"cede
 ",0,0,"(verb) admit that something is true or valid after first denying or resisting it.
-(verb) surrender or yield (something that one possesses).",(verb) give up (power or territory).,0,0,,,,
+(verb) surrender or yield (something that one possesses).",(verb) give up (power or territory).,0,0
 0,C,not-special,no-anti,concession,cession,0,0,"(noun) a thing that is granted, especially in response to demands; a thing conceded.
 
-","(noun) the formal giving up of rights, property, or territory by a state.",0,0,,,,
+","(noun) the formal giving up of rights, property, or territory by a state.",0,0
 0,C,not-special,no-anti,confabulate,confab,0,0,"(verb) (formal) engage in conversation; talk.
 (psychiatry) fabricate imaginary experiences as compensation for loss of memory.","(noun) an informal private conversation or discussion.
-(verb) engage in informal private conversation.",0,0,,,,
-0,C,not-special,no-anti,confederated,one,0,0,(verb) bring (states or groups of people) into an alliance,"(number) a single person or thing, viewed as taking the place of a group.",0,0,,,,
-0,C,not-special,no-anti,conjoin,join,0,0,(verb) join; combine.,(verb) unite to form one entity or group.,0,0,,,,
-0,C,not-special,no-anti,consummated,mated,0,0,(verb) make (a marriage or relationship) complete by having sexual intercourse.,(verb) (of animals or birds) come together for breeding; copulate.,0,0,,,,
+(verb) engage in informal private conversation.",0,0
+0,C,not-special,no-anti,confederated,one,0,0,(verb) bring (states or groups of people) into an alliance,"(number) a single person or thing, viewed as taking the place of a group.",0,0
+0,C,not-special,no-anti,conjoin,join,0,0,(verb) join; combine.,(verb) unite to form one entity or group.,0,0
+0,C,not-special,no-anti,consummated,mated,0,0,(verb) make (a marriage or relationship) complete by having sexual intercourse.,(verb) (of animals or birds) come together for breeding; copulate.,0,0
 0,C,not-special,no-anti,container,can,"
-tin",0,(noun) an object that can be used to hold or transport something.,(noun) a cylindrical metal container.,(noun) an airtight container made of tinplate or aluminium.,0,,,,
+tin",0,(noun) an object that can be used to hold or transport something.,(noun) a cylindrical metal container.,(noun) an airtight container made of tinplate or aluminium.,0
 0,C,not-special,no-anti,contaminate,taint,0,0,(verb) make (something) impure by exposure to or addition of a poisonous or polluting substance.,"(verb) contaminate or pollute (something).
-(verb) affect with a bad or undesirable quality.",0,0,,,,
-0,C,not-special,no-anti,contradictory,contrary,0,0,(adj.) mutually opposed or inconsistent.,"(adj.) opposite in nature, direction, or meaning.",0,0,,,,
-0,C,not-special,anti,convent,0,0,coven,"(noun) a Christian community under monastic vows, especially one of nuns.",0,0,(noun) a group or gathering of witches who meet regularly.,,,,
+(verb) affect with a bad or undesirable quality.",0,0
+0,C,not-special,no-anti,contradictory,contrary,0,0,(adj.) mutually opposed or inconsistent.,"(adj.) opposite in nature, direction, or meaning.",0,0
+0,C,not-special,anti,convent,0,0,coven,"(noun) a Christian community under monastic vows, especially one of nuns.",0,0,(noun) a group or gathering of witches who meet regularly.
 0,C,not-special,no-anti,cooled,cold,0,0,"(adj.) made less hot
-(verb) become or cause to become less hot","(adj.) of or at a low or relatively low temperature, especially when compared with the human body.",0,0,,,,
+(verb) become or cause to become less hot","(adj.) of or at a low or relatively low temperature, especially when compared with the human body.",0,0
 0,C,not-special,no-anti,corporeal,corporal,0,0,"(adj.) relating to a person's body, especially as opposed to their spirit.","(adj.) relating to the human body.
-(noun) a low-ranking noncommissioned officer in the armed forces.",0,0,,,,
-0,C,not-special,anti,courteous,0,0,curt,"(adj.) polite, respectful, or considerate in manner.",0,0,(adj.) rudely brief.,,,,
+(noun) a low-ranking noncommissioned officer in the armed forces.",0,0
+0,C,not-special,anti,courteous,0,0,curt,"(adj.) polite, respectful, or considerate in manner.",0,0,(adj.) rudely brief.
 0,C,not-special,anti,"covert
-",0,0,overt,(adj.) not openly acknowledged or displayed.,0,0,"(adj.) done or shown openly; plainly or readily apparent, not secret or hidden.",,,,
+",0,0,overt,(adj.) not openly acknowledged or displayed.,0,0,"(adj.) done or shown openly; plainly or readily apparent, not secret or hidden."
 0,C,not-special,no-anti,cozen,con,0,0,(verb) trick or deceive.,"(verb) persuade (someone) to do or believe something, typically by use of a deception.
-",0,0,,,,
-lastC,C,not-special,no-anti,curtail,cut,0,0,(verb) reduce in extent or quantity; impose a restriction on.,(verb) reduce the amount or quantity of.,0,0,,,,
+",0,0
+lastC,C,not-special,no-anti,curtail,cut,0,0,(verb) reduce in extent or quantity; impose a restriction on.,(verb) reduce the amount or quantity of.,0,0
 firstD,D,not-special,no-anti,damsel,dame,0,0,(noun) a young unmarried woman.,"(noun) (in the UK) the title given to a woman equivalent to the rank of knight.
-(informal) (North American) a woman.",0,0,,,,
-0,D,not-special,no-anti,daub,dab,0,0,(verb) coat or smear (a surface) with a thick or sticky substance in a carelessly rough or liberal way.,(verb) press against (something) lightly with a piece of absorbent material in order to clean or dry it.,0,0,,,,
+(informal) (North American) a woman.",0,0
+0,D,not-special,no-anti,daub,dab,0,0,(verb) coat or smear (a surface) with a thick or sticky substance in a carelessly rough or liberal way.,(verb) press against (something) lightly with a piece of absorbent material in order to clean or dry it.,0,0
 0,D,not-special,no-anti,dazzle,"daze
 ",0,0,(verb) (of a bright light) blind (a person) temporarily.,"(verb) make (someone) unable to think or react properly; stupefy; bewilder.
-(noun) a state of stunned confusion or bewilderment.",0,0,,,,
+(noun) a state of stunned confusion or bewilderment.",0,0
 0,D,not-special,no-anti,debar,bar,0,0,(verb) exclude or prohibit (someone) officially from doing something.,"(noun) a barrier or restriction to an action or advance.
-(verb) prevent or prohibit (someone) from doing something or from going somewhere.",0,0,,,,
+(verb) prevent or prohibit (someone) from doing something or from going somewhere.",0,0
 0,D,not-special,no-anti,deboned,"
-boned",0,0,"(verb) remove the bones from (meat, poultry, or fish), especially before cooking.",(adj.) (of meat or fish) having had the bones removed before cooking or serving.,0,0,,,,
-0,D,not-special,no-anti,deceased,dead,0,0,(noun) a person who has died.,(adj.) no longer alive.,0,0,,,,
-0,D,not-special,no-anti,deception,con,0,0,(noun) the action of deceiving someone.,"(verb) persuade (someone) to do or believe something, typically by use of a deception.",0,0,,,,
-0,D,not-special,no-anti,decoration,decor,0,0,(noun) the process or art of decorating or adorning something.,(noun) the furnishing and decoration of a room.,0,0,,,,
-0,D,not-special,no-anti,definitive,definite,0,0,(adj.) (of a conclusion or agreement) done or reached decisively and with authority.,(adj.) clearly stated or decided; not vague or doubtful.,0,0,,,,
-0,D,not-special,no-anti,deliberated,debated,0,0,(verb) engage in long and careful consideration.,"(verb) argue about (a subject), especially in a formal manner.",0,0,,,,
-0,D,not-special,no-anti,delineation,lineation,0,0,(noun) the action of describing or portraying something precisely.,(noun) the action or process of drawing lines or marking with lines.,0,0,,,,
+boned",0,0,"(verb) remove the bones from (meat, poultry, or fish), especially before cooking.",(adj.) (of meat or fish) having had the bones removed before cooking or serving.,0,0
+0,D,not-special,no-anti,deceased,dead,0,0,(noun) a person who has died.,(adj.) no longer alive.,0,0
+0,D,not-special,no-anti,deception,con,0,0,(noun) the action of deceiving someone.,"(verb) persuade (someone) to do or believe something, typically by use of a deception.",0,0
+0,D,not-special,no-anti,decoration,decor,0,0,(noun) the process or art of decorating or adorning something.,(noun) the furnishing and decoration of a room.,0,0
+0,D,not-special,no-anti,definitive,definite,0,0,(adj.) (of a conclusion or agreement) done or reached decisively and with authority.,(adj.) clearly stated or decided; not vague or doubtful.,0,0
+0,D,not-special,no-anti,deliberated,debated,0,0,(verb) engage in long and careful consideration.,"(verb) argue about (a subject), especially in a formal manner.",0,0
+0,D,not-special,no-anti,delineation,lineation,0,0,(noun) the action of describing or portraying something precisely.,(noun) the action or process of drawing lines or marking with lines.,0,0
 0,D,not-special,no-anti,demeaning,mean,0,0,(adj.) causing someone to lose their dignity and the respect of others.,"(verb) intend to convey, indicate, or refer to (a particular thing or notion); signify.
-(adj.) unkind, spiteful, or unfair.",0,0,,,,
-0,D,not-special,no-anti,denumerable,enumerable,0,0,(adj.) able to be counted by a one-to-one correspondence with the infinite set of integers.,(adj.) able to be counted by one-to-one correspondence with the set of all positive integers.,0,0,,,,
+(adj.) unkind, spiteful, or unfair.",0,0
+0,D,not-special,no-anti,denumerable,enumerable,0,0,(adj.) able to be counted by a one-to-one correspondence with the infinite set of integers.,(adj.) able to be counted by one-to-one correspondence with the set of all positive integers.,0,0
 0,D,not-special,no-anti,departed,dead,0,0,(adj.) deceased.,"(adj.) no longer alive.
-",0,0,,,,
-0,D,not-special,no-anti,department,arm,0,0,"(noun) a division of a large organization such as a government, university, business, or shop, dealing with a specific subject, commodity, or area of activity.",(noun) a branch or division of a company or organization.,0,0,,,,
-0,D,not-special,no-anti,depository,depot,0,0,(noun) a place where things are stored.,"(noun) a place for the storage of large quantities of equipment, food, or some other commodity.",0,0,,,,
-0,D,not-special,no-anti,depredation,predation,0,0,(noun) an act of attacking or plundering.,(noun) the preying of one animal on others.,0,0,,,,
+",0,0
+0,D,not-special,no-anti,department,arm,0,0,"(noun) a division of a large organization such as a government, university, business, or shop, dealing with a specific subject, commodity, or area of activity.",(noun) a branch or division of a company or organization.,0,0
+0,D,not-special,no-anti,depository,depot,0,0,(noun) a place where things are stored.,"(noun) a place for the storage of large quantities of equipment, food, or some other commodity.",0,0
+0,D,not-special,no-anti,depredation,predation,0,0,(noun) an act of attacking or plundering.,(noun) the preying of one animal on others.,0,0
 0,D,not-special,no-anti,deprivation,privation,0,0,"(noun) the damaging lack of material benefits considered to be basic necessities in a society.
 (noun) the lack or denial of something considered to be a necessity.","(noun) a state in which things that are essential for human well-being such as food and warmth are scarce or lacking.
-(formal) the loss or absence of a quality or attribute that is normally present.",0,0,,,,
-0,D,not-special,no-anti,desiderate,desire,0,0,(verb) feel a keen desire for (something lacking or absent).,(noun) a strong feeling of wanting to have something or wishing for something to happen.,0,0,,,,
-0,D,not-special,no-anti,despiteful,spiteful,0,0,(adj.) malicious.,(adj.) showing or caused by malice.,0,0,,,,
-0,D,not-special,no-anti,destruction,ruin,0,0,(noun) the action or process of causing so much damage to something that it no longer exists or cannot be repaired.,(noun) the physical destruction or disintegration of something or the state of disintegrating or being destroyed.,0,0,,,,
+(formal) the loss or absence of a quality or attribute that is normally present.",0,0
+0,D,not-special,no-anti,desiderate,desire,0,0,(verb) feel a keen desire for (something lacking or absent).,(noun) a strong feeling of wanting to have something or wishing for something to happen.,0,0
+0,D,not-special,no-anti,despiteful,spiteful,0,0,(adj.) malicious.,(adj.) showing or caused by malice.,0,0
+0,D,not-special,no-anti,destruction,ruin,0,0,(noun) the action or process of causing so much damage to something that it no longer exists or cannot be repaired.,(noun) the physical destruction or disintegration of something or the state of disintegrating or being destroyed.,0,0
 0,D,not-special,no-anti,deteriorate,"rot
-",die,0,(verb) become progressively worse.,(verb) (chiefly of animal or vegetable matter) decay or cause to decay by the action of bacteria and fungi; decompose.,(verb) become less loud or strong.,0,,,,
-0,D,not-special,no-anti,devilish,evil,0,0,(adj.) like or appropriate to a devil in evil and cruelty.,(adj.) profoundly immoral and wicked.,0,0,,,,
+",die,0,(verb) become progressively worse.,(verb) (chiefly of animal or vegetable matter) decay or cause to decay by the action of bacteria and fungi; decompose.,(verb) become less loud or strong.,0
+0,D,not-special,no-anti,devilish,evil,0,0,(adj.) like or appropriate to a devil in evil and cruelty.,(adj.) profoundly immoral and wicked.,0,0
 0,D,not-special,no-anti,devoid,void,0,0,(adj.) entirely lacking or free from.,"(adj.) completely empty.
-(noun) an emptiness caused by the loss of something.",0,0,,,,
+(noun) an emptiness caused by the loss of something.",0,0
 0,D,not-special,anti,devolve,0,0,evolve,"(verb) transfer or delegate (power) to a lower level, especially from central government to local or regional administration.
-(formal) degenerate or be split into.",0,0,"(verb) develop gradually, especially from a simple to a more complex form.",,,,
+(formal) degenerate or be split into.",0,0,"(verb) develop gradually, especially from a simple to a more complex form."
 0,D,not-special,no-anti,"dice
 ",die,0,0,"(noun) a small cube with each side having a different number of spots on it, ranging from one to six, thrown and used in gambling and other games involving chance.
-(verb) cut into small cubes.",(noun) singular form of dice.,0,0,,,,
+(verb) cut into small cubes.",(noun) singular form of dice.,0,0
 0,D,not-special,no-anti,dillydally,dally,0,0,(verb) (informal) waste time through aimless wandering or indecision.,"(verb) act or move slowly.
-(verb) have a casual romantic or sexual liaison with.",0,0,,,,
-0,D,not-special,no-anti,diminutive,minute,mini,0,(adj.) extremely or unusually small.,(noun) (informal) a very short time.,(adj.) denoting a miniature version of something.,0,,,,
-0,D,not-special,no-anti,disappointed,sad,0,0,(adj.) (of a person) sad or displeased because someone or something has failed to fulfill one's hopes or expectations.,(adj.) feeling or showing sorrow; unhappy.,0,0,,,,
-0,D,not-special,no-anti,discordance,discord,0,0,(noun) lack of agreement or consistency.,(noun) disagreement between people.,0,0,,,,
-0,D,not-special,no-anti,dismayed,sad,0,0,(verb) cause (someone) to feel consternation and distress.,(adj.) feeling or showing sorrow; unhappy.,0,0,,,,
-0,D,not-special,no-anti,disputation,spat,0,0,(noun) debate or argument.,(noun) (informal) a petty quarrel.,0,0,,,,
-0,D,not-special,no-anti,disguise,guise,0,0,(verb) give (someone or oneself) a different appearance in order to conceal one's identity.,"(noun) an external form, appearance, or manner of presentation, typically concealing the true nature of something.",0,0,,,,
-0,D,not-special,no-anti,disseminated,sent,0,0,"(verb) spread (something, especially information) widely.","(verb) cause to go or be taken to a particular destination; arrange for the delivery of, especially by mail.",0,0,,,,
-0,D,not-special,no-anti,disembowel,embowel,bowel,0,(verb) cut open and remove the internal organs of.,(verb) archaic term for disembowel.,(noun) the part of the alimentary canal below the stomach; the intestine.,0,,,,
-0,D,not-special,no-anti,dissever,sever,0,0,(verb) divide or sever (something).,"(verb) divide by cutting or slicing, especially suddenly and forcibly.",0,0,,,,
+(verb) have a casual romantic or sexual liaison with.",0,0
+0,D,not-special,no-anti,diminutive,minute,mini,0,(adj.) extremely or unusually small.,(noun) (informal) a very short time.,(adj.) denoting a miniature version of something.,0
+0,D,not-special,no-anti,disappointed,sad,0,0,(adj.) (of a person) sad or displeased because someone or something has failed to fulfill one's hopes or expectations.,(adj.) feeling or showing sorrow; unhappy.,0,0
+0,D,not-special,no-anti,discordance,discord,0,0,(noun) lack of agreement or consistency.,(noun) disagreement between people.,0,0
+0,D,not-special,no-anti,dismayed,sad,0,0,(verb) cause (someone) to feel consternation and distress.,(adj.) feeling or showing sorrow; unhappy.,0,0
+0,D,not-special,no-anti,disputation,spat,0,0,(noun) debate or argument.,(noun) (informal) a petty quarrel.,0,0
+0,D,not-special,no-anti,disguise,guise,0,0,(verb) give (someone or oneself) a different appearance in order to conceal one's identity.,"(noun) an external form, appearance, or manner of presentation, typically concealing the true nature of something.",0,0
+0,D,not-special,no-anti,disseminated,sent,0,0,"(verb) spread (something, especially information) widely.","(verb) cause to go or be taken to a particular destination; arrange for the delivery of, especially by mail.",0,0
+0,D,not-special,no-anti,disembowel,embowel,bowel,0,(verb) cut open and remove the internal organs of.,(verb) archaic term for disembowel.,(noun) the part of the alimentary canal below the stomach; the intestine.,0
+0,D,not-special,no-anti,dissever,sever,0,0,(verb) divide or sever (something).,"(verb) divide by cutting or slicing, especially suddenly and forcibly.",0,0
 0,D,not-special,no-anti,dissoluble,soluble,0,0,"(adj.) able to be dissolved, loosened, or disconnected.","(adj.) (of a substance) able to be dissolved, especially in water.
-(adj.) (of a problem) able to be solved.",0,0,,,,
-0,D,not-special,no-anti,disassociate,dissociate,0,0,(verb) (psychiatry) split off (a component of mental activity) to act as an independent part of mental life.,(verb) disconnect or separate (used especially in abstract contexts).,0,0,,,,
-0,D,not-special,no-anti,distressing,dire,0,0,"(adj.) causing anxiety, sorrow or pain; upsetting.",(adj.) (of a situation or event) extremely serious or urgent.,0,0,,,,
+(adj.) (of a problem) able to be solved.",0,0
+0,D,not-special,no-anti,disassociate,dissociate,0,0,(verb) (psychiatry) split off (a component of mental activity) to act as an independent part of mental life.,(verb) disconnect or separate (used especially in abstract contexts).,0,0
+0,D,not-special,no-anti,distressing,dire,0,0,"(adj.) causing anxiety, sorrow or pain; upsetting.",(adj.) (of a situation or event) extremely serious or urgent.,0,0
 0,D,not-special,no-anti,domination,dominion,0,0,"(noun) the exercise of control or influence over someone or something, or the state of being so controlled.","(noun) sovereignty or control.
-(noun) the territory of a sovereign or government.",0,0,,,,
-0,D,not-special,no-anti,dominatable,domitable,0,0,(adj.) (superlative) capable of being dominated,"(adj.) able to be tamed or bent to one's will; tamable, subduable.",0,0,,,,
-0,D,not-special,no-anti,donator,donor,0,0,"(noun) someone who gives money or goods to an organization, especially one that helps people.","(noun) a person who donates something, especially money to a fund or charity.",0,0,,,,
+(noun) the territory of a sovereign or government.",0,0
+0,D,not-special,no-anti,dominatable,domitable,0,0,(adj.) (superlative) capable of being dominated,"(adj.) able to be tamed or bent to one's will; tamable, subduable.",0,0
+0,D,not-special,no-anti,donator,donor,0,0,"(noun) someone who gives money or goods to an organization, especially one that helps people.","(noun) a person who donates something, especially money to a fund or charity.",0,0
 lastD,D,not-special,no-anti,drunkard,drunk,0,0,"(noun) a person who is habitually drunk.
 
-",(adj.) affected by alcohol to the extent of losing control of one's faculties or behavior.,0,0,,,,
+",(adj.) affected by alcohol to the extent of losing control of one's faculties or behavior.,0,0
 firstE,E,not-special,anti,effective,0,0,effete,(adj.) successful in producing a desired or intended result.,0,0,"(adj.) (of a person) affected, overrefined, and ineffectual.
 (adj.) no longer capable of effective action.
-",,,,
+"
 0,E,not-special,no-anti,effeminate,"
 effete",0,0,(adj.) (of a man) having or showing characteristics regarded as typical of a woman; unmanly.,0,0,"(adj.) (of a person) affected, overrefined, and ineffectual.
-(adj.) no longer capable of effective action.",,,,
-0,E,not-special,no-anti,egotist,egoist,0,0,(noun) a person who is excessively conceited or self-absorbed; self-seeker.,(noun) a person who is preoccupied with his own interests; a selfish person.,0,0,,,,
+(adj.) no longer capable of effective action."
+0,E,not-special,no-anti,egotist,egoist,0,0,(noun) a person who is excessively conceited or self-absorbed; self-seeker.,(noun) a person who is preoccupied with his own interests; a selfish person.,0,0
 0,E,not-special,no-anti,electrical,electric,0,0,(adj.) operating by or producing electricity.,"(adj.) of, worked by, charged with, or producing electricity.
-(adj.) having or producing a sudden sense of thrilling excitement.",0,0,,,,
+(adj.) having or producing a sudden sense of thrilling excitement.",0,0
 0,E,not-special,no-anti,empathetic,empathic,0,0,"(adj.) showing an ability to understand and share the feelings of another.
-",(adj.) showing or giving emphasis; expressing something forcibly and clearly.,0,0,,,,
+",(adj.) showing or giving emphasis; expressing something forcibly and clearly.,0,0
 0,E,not-special,no-anti,encourage,urge,0,0,"(verb) give support, confidence, or hope to (someone).","(verb) try earnestly or persistently to persuade (someone) to do something.
-(noun) a strong desire or impulse",0,0,,,,
-0,E,not-special,no-anti,encumber,cumber,0,0,(verb) restrict or burden (someone or something) in such a way that free action or movement is difficult.,(verb) (dated) hamper or hinder (someone or something).,0,0,,,,
+(noun) a strong desire or impulse",0,0
+0,E,not-special,no-anti,encumber,cumber,0,0,(verb) restrict or burden (someone or something) in such a way that free action or movement is difficult.,(verb) (dated) hamper or hinder (someone or something).,0,0
 0,E,not-special,no-anti,"enjoyment
-",joy,0,0,(noun) the state or process of taking pleasure in something.,(noun) a feeling of great pleasure and happiness.,0,0,,,,
-0,E,not-special,no-anti,entwined,twined,0,0,(verb) wind or twist together; interweave.,(verb) cause to wind or spiral round something.,0,0,,,,
-0,E,not-special,no-anti,equilateral,equal,0,0,(adj.) having all its sides of the same length.,"(adj.) being the same in quantity, size, degree, or value.",0,0,,,,
-0,E,not-special,no-anti,equitable,equal,0,0,(adj.) fair and impartial.,"(adj.) being the same in quantity, size, degree, or value.",0,0,,,,
+",joy,0,0,(noun) the state or process of taking pleasure in something.,(noun) a feeling of great pleasure and happiness.,0,0
+0,E,not-special,no-anti,entwined,twined,0,0,(verb) wind or twist together; interweave.,(verb) cause to wind or spiral round something.,0,0
+0,E,not-special,no-anti,equilateral,equal,0,0,(adj.) having all its sides of the same length.,"(adj.) being the same in quantity, size, degree, or value.",0,0
+0,E,not-special,no-anti,equitable,equal,0,0,(adj.) fair and impartial.,"(adj.) being the same in quantity, size, degree, or value.",0,0
 0,E,not-special,no-anti,eradicated,rid,0,0,"(verb) destroy completely; put an end to.
-(adj.) (of a tree or plant) depicted with the roots exposed.",(verb) make someone or something free of (a troublesome or unwanted person or thing).,0,0,,,,
-0,E,not-special,no-anti,evacuate,vacate,0,0,(verb) remove (someone) from a place of danger to a safer place.,(verb) leave (a place that one previously occupied).,0,0,,,,
-0,E,not-special,no-anti,evaluation,valuation,0,0,"(noun) the making of a judgment about the amount, number, or value of something; assessment.","(noun) an estimation of something's worth, especially one carried out by a professional appraiser.",0,0,,,,
-0,E,not-special,no-anti,eventuality,event,0,0,(noun) a possible event or outcome.,"(noun) a thing that happens, especially one of importance.",0,0,,,,
-0,E,not-special,no-anti,evidenced,evinced,0,0,(verb) be or show evidence of.,(verb) (formal) reveal the presence of (a quality or feeling).,0,0,,,,
-0,E,not-special,anti,exacerbate,0,0,abate,"(verb) make (a problem, bad situation, or negative feeling) worse.",0,0,"(verb) (of something perceived as hostile, threatening, or negative) become less intense or widespread.",,,,
-0,E,not-special,no-anti,exhausted,used,0,0,(adj.) drained of one's physical or mental resources; very tired.,(adj.) having already been used.,0,0,,,,
-0,E,not-special,no-anti,exhortatory,hortatory,0,0,(adj.) giving strong encouragement.,(adj.) tending or aiming to exhort.,0,0,,,,
+(adj.) (of a tree or plant) depicted with the roots exposed.",(verb) make someone or something free of (a troublesome or unwanted person or thing).,0,0
+0,E,not-special,no-anti,evacuate,vacate,0,0,(verb) remove (someone) from a place of danger to a safer place.,(verb) leave (a place that one previously occupied).,0,0
+0,E,not-special,no-anti,evaluation,valuation,0,0,"(noun) the making of a judgment about the amount, number, or value of something; assessment.","(noun) an estimation of something's worth, especially one carried out by a professional appraiser.",0,0
+0,E,not-special,no-anti,eventuality,event,0,0,(noun) a possible event or outcome.,"(noun) a thing that happens, especially one of importance.",0,0
+0,E,not-special,no-anti,evidenced,evinced,0,0,(verb) be or show evidence of.,(verb) (formal) reveal the presence of (a quality or feeling).,0,0
+0,E,not-special,anti,exacerbate,0,0,abate,"(verb) make (a problem, bad situation, or negative feeling) worse.",0,0,"(verb) (of something perceived as hostile, threatening, or negative) become less intense or widespread."
+0,E,not-special,no-anti,exhausted,used,0,0,(adj.) drained of one's physical or mental resources; very tired.,(adj.) having already been used.,0,0
+0,E,not-special,no-anti,exhortatory,hortatory,0,0,(adj.) giving strong encouragement.,(adj.) tending or aiming to exhort.,0,0
 0,E,not-special,no-anti,exists,is,0,0,(verb) have objective reality or being.,"third person singular present of be.
-",0,0,,,,
-0,E,not-special,no-anti,exploitative,exploitive,0,0,(adj.) making use of a situation or treating others unfairly in order to gain an advantage or benefit.,(adj.) making use of a situation or treating others unfairly in order to gain an advantage or benefit.,0,0,,,,
+",0,0
+0,E,not-special,no-anti,exploitative,exploitive,0,0,(adj.) making use of a situation or treating others unfairly in order to gain an advantage or benefit.,(adj.) making use of a situation or treating others unfairly in order to gain an advantage or benefit.,0,0
 0,E,not-special,no-anti,exposition,expo,0,0,"(noun) a comprehensive description and explanation of an idea or theory.
-(noun) a large public exhibition of art or trade goods.",(noun) a large exhibition.,0,0,,,,
-0,E,not-special,no-anti,expurgate,purge,0,0,(verb) remove matter thought to be objectionable or unsuitable from (a book or account).,"(verb) rid (someone or something) of an unwanted quality, condition, or feeling.",0,0,,,,
-lastE,E,not-special,no-anti,extraneous,extra,0,0,(adj.) irrelevant or unrelated to the subject being dealt with.,(adj.) added to an existing or usual amount or number.,0,0,,,,
+(noun) a large public exhibition of art or trade goods.",(noun) a large exhibition.,0,0
+0,E,not-special,no-anti,expurgate,purge,0,0,(verb) remove matter thought to be objectionable or unsuitable from (a book or account).,"(verb) rid (someone or something) of an unwanted quality, condition, or feeling.",0,0
+lastE,E,not-special,no-anti,extraneous,extra,0,0,(adj.) irrelevant or unrelated to the subject being dealt with.,(adj.) added to an existing or usual amount or number.,0,0
 firstF,F,not-special,both,fabrication,fiction,0,fact,"(noun) the action or process of manufacturing or inventing something.
-","(noun) literature in the form of prose, especially short stories and novels, that describes imaginary events and people.",0,(noun) a thing that is known or proved to be true.,,,,
-0,F,not-special,no-anti,facade,face,0,0,"(noun) the face of a building, especially the principal front that looks onto a street or open space.","(noun) the front part of a person's head from the forehead to the chin, or the corresponding part in an animal.",0,0,,,,
-0,F,not-special,no-anti,factual,actual,0,0,(adj.) concerned with what is actually the case rather than interpretations of or reactions to it.,"(adj.) existing in fact; typically as contrasted with what was intended, expected, or believed.",0,0,,,,
-0,F,not-special,no-anti,falsified,lied,0,0,(verb) alter (information or evidence) so as to mislead.,(verb) (of a thing) present a false impression; be deceptive.,0,0,,,,
-0,F,not-special,no-anti,falsities,lies,0,0,"(noun) the fact of being untrue, incorrect, or insincere.",(verb) (of a thing) present a false impression; be deceptive.,0,0,,,,
-0,F,not-special,no-anti,feast,eat,0,0,"(noun) a large meal, typically one in celebration of something.",(verb) put (food) into the mouth and chew and swallow it.,0,0,,,,
+","(noun) literature in the form of prose, especially short stories and novels, that describes imaginary events and people.",0,(noun) a thing that is known or proved to be true.
+0,F,not-special,no-anti,facade,face,0,0,"(noun) the face of a building, especially the principal front that looks onto a street or open space.","(noun) the front part of a person's head from the forehead to the chin, or the corresponding part in an animal.",0,0
+0,F,not-special,no-anti,factual,actual,0,0,(adj.) concerned with what is actually the case rather than interpretations of or reactions to it.,"(adj.) existing in fact; typically as contrasted with what was intended, expected, or believed.",0,0
+0,F,not-special,no-anti,falsified,lied,0,0,(verb) alter (information or evidence) so as to mislead.,(verb) (of a thing) present a false impression; be deceptive.,0,0
+0,F,not-special,no-anti,falsities,lies,0,0,"(noun) the fact of being untrue, incorrect, or insincere.",(verb) (of a thing) present a false impression; be deceptive.,0,0
+0,F,not-special,no-anti,feast,eat,0,0,"(noun) a large meal, typically one in celebration of something.",(verb) put (food) into the mouth and chew and swallow it.,0,0
 0,F,not-special,both,feasted,fed,ate,fast,"(verb) eat and drink sumptuously.
-(verb) eat large quantities of.",past and past participle of feed.,past of eat.,"(verb) abstain from all or some kinds of food or drink, especially as a religious observance.",,,,
-0,F,not-special,no-anti,felicitous,fit,0,0,(adj.) well chosen or suited to the circumstances.,"(adj.) of a suitable quality, standard, or type to meet the required purpose.",0,0,,,,
+(verb) eat large quantities of.",past and past participle of feed.,past of eat.,"(verb) abstain from all or some kinds of food or drink, especially as a religious observance."
+0,F,not-special,no-anti,felicitous,fit,0,0,(adj.) well chosen or suited to the circumstances.,"(adj.) of a suitable quality, standard, or type to meet the required purpose.",0,0
 0,F,not-special,"anti
 ",female,0,0,"male
-","(adj.) of or denoting the sex that can bear offspring or produce eggs, distinguished biologically by the production of gametes (ova) which can be fertilized by male gametes.",0,0,"(adj.) of or denoting the sex that produces small, typically motile gametes, especially spermatozoa, with which a female may be fertilized or inseminated to produce offspring.",,,,
+","(adj.) of or denoting the sex that can bear offspring or produce eggs, distinguished biologically by the production of gametes (ova) which can be fertilized by male gametes.",0,0,"(adj.) of or denoting the sex that produces small, typically motile gametes, especially spermatozoa, with which a female may be fertilized or inseminated to produce offspring."
 0,F,not-special,no-anti,fraction,"ration
 ",0,0,"(noun) a numerical quantity that is not a whole number (e.g. 1/2, 0.5).
 (noun) a small or tiny part, amount, or proportion of something. ","(noun) a fixed amount of a commodity officially allowed to each person during a time of shortage, as in wartime.
-(verb) allow each person to have only a fixed amount of (a particular commodity).",0,0,,,,
+(verb) allow each person to have only a fixed amount of (a particular commodity).",0,0
 0,F,"special
 ",no-anti,frangible,fragile,"frail
-",0,(adj.) fragile; brittle.,(adj.) (of an object) easily broken or damaged.,(adj.) (of a person) weak and delicate.,0,,,,
-lastF,F,not-special,anti,friend,0,0,fiend,"(noun) a person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",0,0,(noun) a wicked or cruel person.,,,,
-firstG,G,not-special,no-anti,grandiose,grand,0,0,"(adj.) impressive and imposing in appearance or style, especially pretentiously so.","(adj.) magnificent and imposing in appearance, size, or style.",0,0,,,,
-0,G,not-special,no-anti,granulated,grated,0,0,(verb) form (something) into grains or particles.,(adj.) (of food) reduced to small shreds by being rubbed on a grater.,0,0,,,,
+",0,(adj.) fragile; brittle.,(adj.) (of an object) easily broken or damaged.,(adj.) (of a person) weak and delicate.,0
+lastF,F,not-special,anti,friend,0,0,fiend,"(noun) a person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",0,0,(noun) a wicked or cruel person.
+firstG,G,not-special,no-anti,grandiose,grand,0,0,"(adj.) impressive and imposing in appearance or style, especially pretentiously so.","(adj.) magnificent and imposing in appearance, size, or style.",0,0
+0,G,not-special,no-anti,granulated,grated,0,0,(verb) form (something) into grains or particles.,(adj.) (of food) reduced to small shreds by being rubbed on a grater.,0,0
 lastG,G,not-special,no-anti,gigantic,giant,0,0,"(adj.) of very great size or extent; huge or enormous.
-",(noun) an imaginary or mythical being of human form but superhuman size.,0,0,,,,
-firstH,H,not-special,no-anti,hedgerow,hedge,0,0,"(noun) a hedge of wild shrubs and trees, typically bordering a road or field.",(noun) a fence or boundary formed by closely growing bushes or shrubs.,0,0,,,,
-0,H,not-special,no-anti,history,story,0,0,"(noun) the study of past events, particularly in human affairs.",(noun) an account of imaginary or real people and events told for entertainment.,0,0,,,,
-0,H,not-special,no-anti,honorable,noble,0,0,(adj.) bringing or worthy of honor.,(adj.) belonging to a hereditary class with high social or political status; aristocratic.,0,0,,,,
-0,H,not-special,no-anti,hostelry,hotel,0,0,(noun) (archaic) an inn.,"(noun) an establishment providing accommodations, meals, and other services for travelers and tourists.",0,0,,,,
-0,H,not-special,no-anti,humankind,mankind,0,0,(noun) human beings considered collectively (used as a neutral alternative to “mankind”).,(noun) human beings considered collectively (used as a neutral alternative to “mankind”).,0,0,,,,
-lastH,H,not-special,no-anti,hurries,hies,0,0,(verb) move or act with great haste.,(verb) (archaic) go quickly.,0,0,,,,
+",(noun) an imaginary or mythical being of human form but superhuman size.,0,0
+firstH,H,not-special,no-anti,hedgerow,hedge,0,0,"(noun) a hedge of wild shrubs and trees, typically bordering a road or field.",(noun) a fence or boundary formed by closely growing bushes or shrubs.,0,0
+0,H,not-special,no-anti,history,story,0,0,"(noun) the study of past events, particularly in human affairs.",(noun) an account of imaginary or real people and events told for entertainment.,0,0
+0,H,not-special,no-anti,honorable,noble,0,0,(adj.) bringing or worthy of honor.,(adj.) belonging to a hereditary class with high social or political status; aristocratic.,0,0
+0,H,not-special,no-anti,hostelry,hotel,0,0,(noun) (archaic) an inn.,"(noun) an establishment providing accommodations, meals, and other services for travelers and tourists.",0,0
+0,H,not-special,no-anti,humankind,mankind,0,0,(noun) human beings considered collectively (used as a neutral alternative to “mankind”).,(noun) human beings considered collectively (used as a neutral alternative to “mankind”).,0,0
+lastH,H,not-special,no-anti,hurries,hies,0,0,(verb) move or act with great haste.,(verb) (archaic) go quickly.,0,0
 firstI,I,not-special,"anti
 ",iconoclast,0,0,icon,"(noun) a person who attacks cherished beliefs or institutions.
 (noun) a destroyer of images used in religious worship.",0,0,"(noun) a person or thing regarded as a representative symbol or as worthy of veneration.
 (noun) a painting of Jesus Christ or another holy figure used as an aid to devotion.
 
-",,,,
+"
 0,I,not-special,no-anti,illuminated,lit,0,0,"(verb) light up.
 (verb) help to clarify or explain ( a subject or matter).","(adj.) provided with light or lighting; illuminated.
-(adj.) having been ignited; burning",0,0,,,,
+(adj.) having been ignited; burning",0,0
 0,I,not-special,no-anti,imaginary,airy,0,0,"(adj.) existing only in the imagination.
-(mathematics) expressed in terms of the square root of a negative number (usually the square root of −1, represented by i or j ).","(adj.) giving an impression of being unconcerned or not serious, typically about something taken seriously by others.",0,0,,,,
+(mathematics) expressed in terms of the square root of a negative number (usually the square root of −1, represented by i or j ).","(adj.) giving an impression of being unconcerned or not serious, typically about something taken seriously by others.",0,0
 0,I,not-special,no-anti,impair,mar,0,0,"(verb) weaken or damage something (especially a human faculty or function).
-",(verb) impair the appearance of; disfigure.,0,0,,,,
+",(verb) impair the appearance of; disfigure.,0,0
 0,I,not-special,no-anti,impassive,passive,0,0,"(adj.) not feeling or showing emotion.
-","(adj.) accepting or allowing what happens or what others do, without active response or resistance.",0,0,,,,
+","(adj.) accepting or allowing what happens or what others do, without active response or resistance.",0,0
 0,I,not-special,no-anti,impertinent,pert,0,0,"(adj.) not showing proper respect; rude.
 (formal) not pertinent to a particular matter; irrelevant.","(adj.) (of a girl or young woman) attractively lively or cheeky.
-(of a young person or their speech or behavior) impudent.",0,0,,,,
-0,I,not-special,no-anti,implicated,implied,0,0,(verb) show (someone) to be involved in a crime.,(adj.) suggested but not directly expressed; implicit.,0,0,,,,
+(of a young person or their speech or behavior) impudent.",0,0
+0,I,not-special,no-anti,implicated,implied,0,0,(verb) show (someone) to be involved in a crime.,(adj.) suggested but not directly expressed; implicit.,0,0
 0,I,not-special,no-anti,incapability,inability,0,0,"(adj.) the quality of not being capable - physically or intellectually or legally. incapableness. inability, unfitness.","(noun) the state of being unable to do something.
-",0,0,,,,
-0,I,not-special,no-anti,incriminate,criminate,0,0,(verb) make (someone) appear guilty of a crime or wrongdoing; strongly imply the guilt of (someone).,"(verb) to accuse, incriminate, impeach.",0,0,,,,
+",0,0
+0,I,not-special,no-anti,incriminate,criminate,0,0,(verb) make (someone) appear guilty of a crime or wrongdoing; strongly imply the guilt of (someone).,"(verb) to accuse, incriminate, impeach.",0,0
 0,I,not-special,no-anti,indentation,dent,0,0,"(noun) the action of indenting or the state of being indented.
 (noun) a deep recess or notch on the edge or surface of something","(noun) a slight hollow in a hard, even surface made by a blow or by the exertion of pressure.
-(noun) a diminishing effect; a reduction",0,0,,,,
-0,I,not-special,no-anti,indolent,idle,0,0,(adj.) wanting to avoid activity or exertion; lazy.,(adj.) (of a person) avoiding work; lazy.,0,0,,,,
+(noun) a diminishing effect; a reduction",0,0
+0,I,not-special,no-anti,indolent,idle,0,0,(adj.) wanting to avoid activity or exertion; lazy.,(adj.) (of a person) avoiding work; lazy.,0,0
 0,I,not-special,no-anti,indefinitely,infinitely,0,0,"(adv.) for an unlimited or unspecified period of time.
-",(adv.) to an infinite extent or amount; without limit.,0,0,,,,
-0,I,not-special,no-anti,inflammable,flammable,0,0,(adj.) easily set on fire.,(adj.) easily set on fire.,0,0,,,,
-0,I,not-special,no-anti,infuriated,irate,0,0,(verb) make (someone) extremely angry and impatient.,(adj.) feeling or characterized by great anger.,0,0,,,,
-0,I,not-special,no-anti,inhabitable,habitable,0,0,(adj.) suitable to live in; habitable.,(adj.) suitable or good enough to live in.,0,0,,,,
+",(adv.) to an infinite extent or amount; without limit.,0,0
+0,I,not-special,no-anti,inflammable,flammable,0,0,(adj.) easily set on fire.,(adj.) easily set on fire.,0,0
+0,I,not-special,no-anti,infuriated,irate,0,0,(verb) make (someone) extremely angry and impatient.,(adj.) feeling or characterized by great anger.,0,0
+0,I,not-special,no-anti,inhabitable,habitable,0,0,(adj.) suitable to live in; habitable.,(adj.) suitable or good enough to live in.,0,0
 0,I,not-special,no-anti,inheritable,heritable,0,0,(adj.) capable of being inherited.,"(adj.) (biology) (of a characteristic) transmissible from parent to offspring.
-(law) (of property) capable of being inherited by heirs-at-law.",0,0,,,,
+(law) (of property) capable of being inherited by heirs-at-law.",0,0
 0,I,not-special,no-anti,inheritor,heir,0,0,(noun) a person who inherits something; an heir.,"(noun) a person legally entitled to the property or rank of another on that person's death.
-(noun) a person inheriting and continuing the legacy of a predecessor.",0,0,,,,
-0,I,not-special,no-anti,inhumane,inhuman,0,0,(adj.) without compassion for misery or suffering; cruel.,(adj.) lacking human qualities of compassion and mercy; cruel and barbaric.,0,0,,,,
-0,I,not-special,no-anti,insignia,sign,0,0,"(noun) a badge or distinguishing mark of military rank, office, or membership of an organization; an official emblem.","(noun) an object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else.",0,0,,,,
-0,I,not-special,no-anti,instantaneous,instant,0,0,(adj.) occurring or done in an instant or instantly.,(adj.) happening or coming immediately.,0,0,,,,
-0,I,not-special,no-anti,investigate,vet,0,0,"(verb) carry out a systematic or formal inquiry to discover and examine the facts of (an incident, allegation, etc.) so as to establish the truth.",(verb) make a careful and critical examination of (something).,0,0,,,,
-0,I,not-special,no-anti,instructor,tutor,0,0,(noun) make a careful and critical examination of (something).,"(noun) a private teacher, typically one who teaches a single student or a very small group.",0,0,,,,
+(noun) a person inheriting and continuing the legacy of a predecessor.",0,0
+0,I,not-special,no-anti,inhumane,inhuman,0,0,(adj.) without compassion for misery or suffering; cruel.,(adj.) lacking human qualities of compassion and mercy; cruel and barbaric.,0,0
+0,I,not-special,no-anti,insignia,sign,0,0,"(noun) a badge or distinguishing mark of military rank, office, or membership of an organization; an official emblem.","(noun) an object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else.",0,0
+0,I,not-special,no-anti,instantaneous,instant,0,0,(adj.) occurring or done in an instant or instantly.,(adj.) happening or coming immediately.,0,0
+0,I,not-special,no-anti,investigate,vet,0,0,"(verb) carry out a systematic or formal inquiry to discover and examine the facts of (an incident, allegation, etc.) so as to establish the truth.",(verb) make a careful and critical examination of (something).,0,0
+0,I,not-special,no-anti,instructor,tutor,0,0,(noun) make a careful and critical examination of (something).,"(noun) a private teacher, typically one who teaches a single student or a very small group.",0,0
 0,I,not-special,no-anti,interfuse,infuse,0,0,(verb) join or mix (two or more things) together.,"(verb) fill; pervade.
-(verb) soak (tea, herbs, etc.) in liquid to extract the flavor or healing properties.",0,0,,,,
+(verb) soak (tea, herbs, etc.) in liquid to extract the flavor or healing properties.",0,0
 0,I,not-special,no-anti,intoxicate,toxic,0,0,"(verb) (of alcoholic drink or a drug) cause (someone) to lose control of their faculties or behavior.
-(verb) excite or exhilarate",(adj.) poisonous,0,0,,,,
-0,I,not-special,no-anti,invaluable,valuable,0,0,(adj.) extremely useful; indispensable.,(adj.) worth a great deal of money.,0,0,,,,
-0,I,not-special,no-anti,irateness,ire,0,0,"(noun) violent or unrestrained anger: furor, fury, ire, rage, wrath, wrathfulness.",(noun) anger.,0,0,,,,
+(verb) excite or exhilarate",(adj.) poisonous,0,0
+0,I,not-special,no-anti,invaluable,valuable,0,0,(adj.) extremely useful; indispensable.,(adj.) worth a great deal of money.,0,0
+0,I,not-special,no-anti,irateness,ire,0,0,"(noun) violent or unrestrained anger: furor, fury, ire, rage, wrath, wrathfulness.",(noun) anger.,0,0
 0,I,not-special,no-anti,irradiate,radiate,0,0,"(verb) expose to radiation.
-(verb) illuminate (something) by or as if by shining light on it.","(verb) emit (energy, especially light or heat) in the form of rays or waves.",0,0,,,,
+(verb) illuminate (something) by or as if by shining light on it.","(verb) emit (energy, especially light or heat) in the form of rays or waves.",0,0
 0,I,not-special,no-anti,irregardless,regardless,0,0,"(adj.) (adv.) regardless.
 
-",(adv.) without paying attention to the present situation; despite the prevailing circumstances.,0,0,,,,
-0,I,not-special,no-anti,irritated,irate,0,0,(adj.) showing or feeling slight anger; annoyed.,(adj.) feeling or characterized by great anger.,0,0,,,,
-0,I,not-special,no-anti,islet,isle,0,0,(noun) a small island.,"(noun) an island or peninsula, especially a small one.",0,0,,,,
+",(adv.) without paying attention to the present situation; despite the prevailing circumstances.,0,0
+0,I,not-special,no-anti,irritated,irate,0,0,(adj.) showing or feeling slight anger; annoyed.,(adj.) feeling or characterized by great anger.,0,0
+0,I,not-special,no-anti,islet,isle,0,0,(noun) a small island.,"(noun) an island or peninsula, especially a small one.",0,0
 lastI,I,not-special,no-anti,isolated,"sole
-",0,0,"(adj.) far away from other places, buildings, or people; remote.",(adj.) one and only.,0,0,,,,
-firstJ,J,not-special,no-anti,jewellery,jewelry,0,0,"(noun) (British English) personal ornaments, such as necklaces, rings, or bracelets, that are typically made from or contain jewels and precious metal.","(noun) (American English) personal ornaments, such as necklaces, rings, or bracelets, that are typically made from or contain jewels and precious metal.",0,0,,,,
-0,J,not-special,no-anti,joined,one,0,0,(verb) link; connect.,(number) single; just one as opposed to any more or to none at all (used for emphasis).,0,0,,,,
-0,J,not-special,no-anti,jollity,joy,0,0,(noun) lively and cheerful activity or celebration.,(noun) a feeling of great pleasure and happiness.,0,0,,,,
-lastJ,J,not-special,no-anti,joviality,joy,0,0,(adj.) feeling jolly and jovial and full of good humor.,(noun) a feeling of great pleasure and happiness.,0,0,,,,
+",0,0,"(adj.) far away from other places, buildings, or people; remote.",(adj.) one and only.,0,0
+firstJ,J,not-special,no-anti,jewellery,jewelry,0,0,"(noun) (British English) personal ornaments, such as necklaces, rings, or bracelets, that are typically made from or contain jewels and precious metal.","(noun) (American English) personal ornaments, such as necklaces, rings, or bracelets, that are typically made from or contain jewels and precious metal.",0,0
+0,J,not-special,no-anti,joined,one,0,0,(verb) link; connect.,(number) single; just one as opposed to any more or to none at all (used for emphasis).,0,0
+0,J,not-special,no-anti,jollity,joy,0,0,(noun) lively and cheerful activity or celebration.,(noun) a feeling of great pleasure and happiness.,0,0
+lastJ,J,not-special,no-anti,joviality,joy,0,0,(adj.) feeling jolly and jovial and full of good humor.,(noun) a feeling of great pleasure and happiness.,0,0
 firstK,K,not-special,no-anti,kindred,kin,0,0,"(noun) one's family and relations.
-(adj.) similar in kind; related",(noun) one's family and relations.,0,0,,,,
-firstL,L,not-special,no-anti,latest,last,0,0,(adj.) of most recent date,(adj.) coming after all others in time or order; final.,0,0,,,,
-0,L,not-special,no-anti,lighted,lit,0,0,(adj.) provided with light or lighting; illuminated.,(verb) provided with light or lighting; illuminated.,0,0,,,,
-lastL,L,not-special,no-anti,lymphosarcoma,lymphoma,0,0,(noun) the third most common cancer diagnosed in dogs. It is a cancer of lymphocytes (a type of blood cell) and lymphoid tissues.,(noun) cancer of the lymph nodes.,0,0,,,,
+(adj.) similar in kind; related",(noun) one's family and relations.,0,0
+firstL,L,not-special,no-anti,latest,last,0,0,(adj.) of most recent date,(adj.) coming after all others in time or order; final.,0,0
+0,L,not-special,no-anti,lighted,lit,0,0,(adj.) provided with light or lighting; illuminated.,(verb) provided with light or lighting; illuminated.,0,0
+lastL,L,not-special,no-anti,lymphosarcoma,lymphoma,0,0,(noun) the third most common cancer diagnosed in dogs. It is a cancer of lymphocytes (a type of blood cell) and lymphoid tissues.,(noun) cancer of the lymph nodes.,0,0
 firstM,M,not-special,no-anti,malapert,pert,0,0,(adj.) boldly disrespectful to a person of higher standing.,"
 (adj.) (of a girl or young woman) attractively lively or cheeky.
-(of a young person or their speech or behavior) impudent.",0,0,,,,
-0,M,not-special,no-anti,market,mart,0,0,"(noun) a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",(noun) a trade center or market.,0,0,,,,
-0,M,not-special,no-anti,masculine,male,0,0,"(adj.) having qualities or appearance traditionally associated with men, especially strength and aggressiveness.","(adj.) of or denoting the sex that produces small, typically motile gametes, especially spermatozoa, with which a female may be fertilized or inseminated to produce offspring.",0,0,,,,
+(of a young person or their speech or behavior) impudent.",0,0
+0,M,not-special,no-anti,market,mart,0,0,"(noun) a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",(noun) a trade center or market.,0,0
+0,M,not-special,no-anti,masculine,male,0,0,"(adj.) having qualities or appearance traditionally associated with men, especially strength and aggressiveness.","(adj.) of or denoting the sex that produces small, typically motile gametes, especially spermatozoa, with which a female may be fertilized or inseminated to produce offspring.",0,0
 0,M,not-special,no-anti,matches,mates,0,0,"(noun) a contest in which people or teams compete against each other in a particular sport
-(noun) a person or thing able to contend with another as an equal in quality or strength.",(noun) a friend or companion.,0,0,,,,
+(noun) a person or thing able to contend with another as an equal in quality or strength.",(noun) a friend or companion.,0,0
 0,M,not-special,anti,"melodious
-",0,0,odious,"(adj.) of, producing, or having a pleasant tune; tuneful.",0,0,(adj.) extremely unpleasant; repulsive.,,,,
-0,M,not-special,no-anti,middlemost,midmost,0,0,(adj.) being in the middle or nearest the middle,(adj.)(adv.) in the very middle or nearest the middle.,0,0,,,,
-0,M,not-special,no-anti,midsection,midset,0,0,(noun) the middle part of something.,"(adv.) (music) in the middle of a set, in the middle of a gig.",0,0,,,,
-0,M,not-special,no-anti,misinterpreted,erred,0,0,(verb) interpret (something or someone) wrongly.,(verb) (formal) be mistaken or incorrect; make a mistake.,0,0,,,,
-0,M,not-special,no-anti,moisture,mist,0,0,"(noun) water or other liquid diffused in a small quantity as vapor, within a solid, or condensed on a surface.","(noun) a cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface limiting visibility, but to a lesser extent than fog.",0,0,,,,
-0,M,not-special,no-anti,municipality,city,0,0,(noun) a city or town that has corporate status and local government.,(noun) a large town.,0,0,,,,
-lastM,M,not-special,no-anti,myself,me,0,0,(noun) used by a speaker to refer to himself or herself as the object of a verb or preposition when he or she is the subject of the clause.,(pronoun) used by a speaker to refer to himself or herself as the object of a verb or preposition.,0,0,,,,
-firstN,N,not-special,no-anti,neckbeard,nerd,0,0,"(noun) (informal) a man who is socially inept and physically unappealing, especially one who has an obsessive interest in computing.",(noun) (informal) a foolish or contemptible person who lacks social skills or is boringly studious.,0,0,,,,
-0,N,not-special,anti,negligently,0,0,gently,(adj.) a foolish or contemptible person who lacks social skills or is boringly studious.,0,0,"(adv.) with a mild, kind, or tender manner.",,,,
-0,N,not-special,no-anti,neurotic,nut,0,0,"(adj.) having, caused by, or relating to neurosis.",(noun) a fruit consisting of a hard or tough shell around an edible kernel.,0,0,,,,
-0,N,not-special,no-anti,newfangled,new,0,0,(adj.) different from what one is used to; objectionably new.,"(adj.) not existing before; made, introduced, or discovered recently or now for the first time.",0,0,,,,
-0,N,not-special,no-anti,nodule,node,0,0,"(noun) a small swelling or aggregation of cells in the body, especially an abnormal one.",(noun) (technical) a point at which lines or pathways intersect or branch; a central or connecting point.,0,0,,,,
-lastN,N,not-special,no-anti,nourished,nursed,0,0,"(verb) provide with the food or other substances necessary for growth, health, and good condition.",(verb) give medical and other attention to (a sick person).,0,0,,,,
-firstO,O,not-special,no-anti,obligated,obliged,0,0,"(verb) bind or compel (someone), especially legally or morally.",(verb) make (someone) legally or morally bound to an action or course of action.,0,0,,,,
-0,O,not-special,no-anti,obnoxious,noxious,0,0,(adj.) extremely unpleasant.,"(adj.) harmful, poisonous, or very unpleasant.",0,0,,,,
-0,O,not-special,no-anti,observe,see,0,0,(verb) notice or perceive (something) and register it as being significant.,(verb) perceive with the eyes; discern visually.,0,0,,,,
-0,O,not-special,no-anti,oldfangled,old,0,0,(adj.) characterized by adherence to what is old; old-fashioned.,(adj.) having lived for a long time; no longer young.,0,0,,,,
+",0,0,odious,"(adj.) of, producing, or having a pleasant tune; tuneful.",0,0,(adj.) extremely unpleasant; repulsive.
+0,M,not-special,no-anti,middlemost,midmost,0,0,(adj.) being in the middle or nearest the middle,(adj.)(adv.) in the very middle or nearest the middle.,0,0
+0,M,not-special,no-anti,midsection,midset,0,0,(noun) the middle part of something.,"(adv.) (music) in the middle of a set, in the middle of a gig.",0,0
+0,M,not-special,no-anti,misinterpreted,erred,0,0,(verb) interpret (something or someone) wrongly.,(verb) (formal) be mistaken or incorrect; make a mistake.,0,0
+0,M,not-special,no-anti,moisture,mist,0,0,"(noun) water or other liquid diffused in a small quantity as vapor, within a solid, or condensed on a surface.","(noun) a cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface limiting visibility, but to a lesser extent than fog.",0,0
+0,M,not-special,no-anti,municipality,city,0,0,(noun) a city or town that has corporate status and local government.,(noun) a large town.,0,0
+lastM,M,not-special,no-anti,myself,me,0,0,(noun) used by a speaker to refer to himself or herself as the object of a verb or preposition when he or she is the subject of the clause.,(pronoun) used by a speaker to refer to himself or herself as the object of a verb or preposition.,0,0
+firstN,N,not-special,no-anti,neckbeard,nerd,0,0,"(noun) (informal) a man who is socially inept and physically unappealing, especially one who has an obsessive interest in computing.",(noun) (informal) a foolish or contemptible person who lacks social skills or is boringly studious.,0,0
+0,N,not-special,anti,negligently,0,0,gently,(adj.) a foolish or contemptible person who lacks social skills or is boringly studious.,0,0,"(adv.) with a mild, kind, or tender manner."
+0,N,not-special,no-anti,neurotic,nut,0,0,"(adj.) having, caused by, or relating to neurosis.",(noun) a fruit consisting of a hard or tough shell around an edible kernel.,0,0
+0,N,not-special,no-anti,newfangled,new,0,0,(adj.) different from what one is used to; objectionably new.,"(adj.) not existing before; made, introduced, or discovered recently or now for the first time.",0,0
+0,N,not-special,no-anti,nodule,node,0,0,"(noun) a small swelling or aggregation of cells in the body, especially an abnormal one.",(noun) (technical) a point at which lines or pathways intersect or branch; a central or connecting point.,0,0
+lastN,N,not-special,no-anti,nourished,nursed,0,0,"(verb) provide with the food or other substances necessary for growth, health, and good condition.",(verb) give medical and other attention to (a sick person).,0,0
+firstO,O,not-special,no-anti,obligated,obliged,0,0,"(verb) bind or compel (someone), especially legally or morally.",(verb) make (someone) legally or morally bound to an action or course of action.,0,0
+0,O,not-special,no-anti,obnoxious,noxious,0,0,(adj.) extremely unpleasant.,"(adj.) harmful, poisonous, or very unpleasant.",0,0
+0,O,not-special,no-anti,observe,see,0,0,(verb) notice or perceive (something) and register it as being significant.,(verb) perceive with the eyes; discern visually.,0,0
+0,O,not-special,no-anti,oldfangled,old,0,0,(adj.) characterized by adherence to what is old; old-fashioned.,(adj.) having lived for a long time; no longer young.,0,0
 0,O,not-special,no-anti,omnibus,bus,0,0,"(noun) a bus.
-(noun) a volume containing several novels or other items previously published separately.","(noun) a large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.",0,0,,,,
-0,O,not-special,no-anti,ornamented,ornate,0,0,(verb) make (something) look more attractive by adding decorative items.,(adj.) made in an intricate shape or decorated with complex patterns.,0,0,,,,
-lastO,O,not-special,no-anti,outspokenly,openly,0,0,(adv.) in an outspoken manner;,"(adv.) without concealment, deception, or prevarication, especially where these might be expected; frankly or honestly.",0,0,,,,
-firstP,P,not-special,no-anti,pantaloons,pants,0,0,(noun) women's baggy trousers gathered at the ankles.,(noun) (North American) trousers.,0,0,,,,
-0,P,not-special,no-anti,partially,partly,0,0,(adv.) only in part; to a limited extent.,(adv.) to some extent; not completely.,0,0,,,,
-0,P,not-special,no-anti,pellucid,lucid,0,0,(adj.) (literary) translucently clear.,(adj.) expressed clearly; easy to understand.,0,0,,,,
-0,P,not-special,no-anti,perambulate,ramble,amble,0,"(verb) (formal) walk or travel through or around a place or area, especially for pleasure and in a leisurely way.","(verb) walk for pleasure, typically without a definite route.","(verb) walk or move at a slow, relaxed pace.",0,,,,
-0,P,not-special,no-anti,perdurable,durable,0,0,(adj.) (formal) enduring continuously; imperishable.,"(adj.) able to withstand wear, pressure, or damage; hard-wearing.",0,0,,,,
-0,P,not-special,no-anti,perfervid,fervid,0,0,(adj.) (literary) intense and impassioned.,"(adj.) intensely enthusiastic or passionate, especially to an excessive degree.",0,0,,,,
-0,P,not-special,no-anti,perorate,orate,0,0,(verb) (formal) speak at length.,"(verb) make a speech, especially pompously or at length.",0,0,,,,
-0,P,not-special,no-anti,perimeter,rim,0,0,(noun) the continuous line forming the boundary of a closed geometric figure.,"(noun) the upper or outer edge of an object, typically something circular or approximately circular.",0,0,,,,
-0,P,not-special,no-anti,personality,persona,0,0,(noun) the combination of characteristics or qualities that form an individual's distinctive character.,(noun) the aspect of someone's character that is presented to or perceived by others.,0,0,,,,
-0,P,not-special,anti,pest,0,0,pet,"(noun) a destructive insect or other animal that attacks crops, food, livestock, etc.",0,0,(noun) a domestic or tamed animal kept for companionship or pleasure.,,,,
-0,P,not-special,no-anti,plagiarist,liar,0,0,"(noun) (plural) one who plagiarizes; or lifts the words, writings, or ideas of another, and passes them off as his or her own.",(noun) a person who tells lies.,0,0,,,,
-0,P,not-special,no-anti,platter,plate,0,0,"(noun) a large flat dish or plate, typically oval or circular in shape, used for serving food.","(noun) a flat dish, typically circular and made of china, from which food is eaten or served.",0,0,,,,
-0,P,not-special,no-anti,playfellow,pal,0,0,(noun) a playmate.,(noun) (informal) a friend.,0,0,,,,
+(noun) a volume containing several novels or other items previously published separately.","(noun) a large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.",0,0
+0,O,not-special,no-anti,ornamented,ornate,0,0,(verb) make (something) look more attractive by adding decorative items.,(adj.) made in an intricate shape or decorated with complex patterns.,0,0
+lastO,O,not-special,no-anti,outspokenly,openly,0,0,(adv.) in an outspoken manner;,"(adv.) without concealment, deception, or prevarication, especially where these might be expected; frankly or honestly.",0,0
+firstP,P,not-special,no-anti,pantaloons,pants,0,0,(noun) women's baggy trousers gathered at the ankles.,(noun) (North American) trousers.,0,0
+0,P,not-special,no-anti,partially,partly,0,0,(adv.) only in part; to a limited extent.,(adv.) to some extent; not completely.,0,0
+0,P,not-special,no-anti,pellucid,lucid,0,0,(adj.) (literary) translucently clear.,(adj.) expressed clearly; easy to understand.,0,0
+0,P,not-special,no-anti,perambulate,ramble,amble,0,"(verb) (formal) walk or travel through or around a place or area, especially for pleasure and in a leisurely way.","(verb) walk for pleasure, typically without a definite route.","(verb) walk or move at a slow, relaxed pace.",0
+0,P,not-special,no-anti,perdurable,durable,0,0,(adj.) (formal) enduring continuously; imperishable.,"(adj.) able to withstand wear, pressure, or damage; hard-wearing.",0,0
+0,P,not-special,no-anti,perfervid,fervid,0,0,(adj.) (literary) intense and impassioned.,"(adj.) intensely enthusiastic or passionate, especially to an excessive degree.",0,0
+0,P,not-special,no-anti,perorate,orate,0,0,(verb) (formal) speak at length.,"(verb) make a speech, especially pompously or at length.",0,0
+0,P,not-special,no-anti,perimeter,rim,0,0,(noun) the continuous line forming the boundary of a closed geometric figure.,"(noun) the upper or outer edge of an object, typically something circular or approximately circular.",0,0
+0,P,not-special,no-anti,personality,persona,0,0,(noun) the combination of characteristics or qualities that form an individual's distinctive character.,(noun) the aspect of someone's character that is presented to or perceived by others.,0,0
+0,P,not-special,anti,pest,0,0,pet,"(noun) a destructive insect or other animal that attacks crops, food, livestock, etc.",0,0,(noun) a domestic or tamed animal kept for companionship or pleasure.
+0,P,not-special,no-anti,plagiarist,liar,0,0,"(noun) (plural) one who plagiarizes; or lifts the words, writings, or ideas of another, and passes them off as his or her own.",(noun) a person who tells lies.,0,0
+0,P,not-special,no-anti,platter,plate,0,0,"(noun) a large flat dish or plate, typically oval or circular in shape, used for serving food.","(noun) a flat dish, typically circular and made of china, from which food is eaten or served.",0,0
+0,P,not-special,no-anti,playfellow,pal,0,0,(noun) a playmate.,(noun) (informal) a friend.,0,0
 0,P,not-special,no-anti,plush,lush,0,0,"(noun) a rich fabric of silk, cotton, wool, or a combination of these, with a long, soft nap.","(adj.) (of vegetation) growing luxuriantly.
-(adj.) very rich and providing great sensory pleasure.",0,0,,,,
-0,P,not-special,no-anti,pinioned,pinned,0,0,(verb) tie or hold the arms or legs of (someone).,(verb) attach or fasten with a pin or pins in a specified position.,0,0,,,,
+(adj.) very rich and providing great sensory pleasure.",0,0
+0,P,not-special,no-anti,pinioned,pinned,0,0,(verb) tie or hold the arms or legs of (someone).,(verb) attach or fasten with a pin or pins in a specified position.,0,0
 0,P,not-special,no-anti,postured,posed,0,0,(verb) behave in a way that is intended to impress or mislead.,"(verb) present or constitute (a problem, danger, or difficulty).
 (verb) pretend to be (someone or something).
-(verb) behave affectedly in order to impress others.",0,0,,,,
+(verb) behave affectedly in order to impress others.",0,0
 0,P,not-special,no-anti,practicable,practical,0,0,(adj.) able to be done or put into practice successfully.,"(adj.) of or concerned with the actual doing or use of something rather than with theory and ideas.
-(adj.) likely to succeed or be effective in real circumstances; feasible.",0,0,,,,
+(adj.) likely to succeed or be effective in real circumstances; feasible.",0,0
 0,P,not-special,no-anti,practitioner,"
 actor
 ",0,0,"(noun) a person actively engaged in an art, discipline, or profession, especially medicine.","(noun) a person whose profession is acting on the stage, in movies, or on television.
-(noun) a participant in an action or process.",0,0,,,,
-0,P,not-special,no-anti,prattle,prate,0,0,(verb) talk at length in a foolish or inconsequential way.,(verb) talk foolishly or at tedious length about something.,0,0,,,,
+(noun) a participant in an action or process.",0,0
+0,P,not-special,no-anti,prattle,prate,0,0,(verb) talk at length in a foolish or inconsequential way.,(verb) talk foolishly or at tedious length about something.,0,0
 0,P,not-special,no-anti,precipitation,rain,0,0,"(noun) the action or process of precipitating a substance from a solution.
-(noun) rain, snow, sleet, or hail that falls to the ground.",(noun) moisture condensed from the atmosphere that falls visibly in separate drops,0,0,,,,
-0,P,not-special,no-anti,predominant,dominant,0,0,(adj.) present as the strongest or main element.,"(adj.) most important, powerful, or influential.",0,0,,,,
-0,P,not-special,no-anti,preeminent,eminent,0,0,(adj.) surpassing all others; very distinguished in some way.,(adj.) (of a person) famous and respected within a particular sphere or profession.,0,0,,,,
-0,P,not-special,no-anti,prematurely,early,0,0,(adv.) before the due time; ahead of time.,(adj.) happening or done before the usual or expected time.,0,0,,,,
-0,P,not-special,no-anti,primogenitor,progenitor,0,0,"(noun) an ancestor, especially the earliest ancestor of a people; a progenitor.","(noun) a person or thing from which a person, animal, or plant is descended or originates; an ancestor or parent.",0,0,,,,
-0,P,not-special,no-anti,proffer,offer,0,0,(verb) hold out (something) to someone for acceptance; offer.,(verb) present or proffer (something) for (someone) to accept or reject as so desired.,0,0,,,,
-0,P,not-special,no-anti,promenade,road,0,0,"(noun) a paved public walk, typically one along a waterfront at a resort.","(noun) a wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use.",0,0,,,,
-0,P,not-special,no-anti,proportionate,prorate,0,0,(adj.) corresponding in size or amount to something else.,"(verb) (North American) allocate, distribute, or assess pro rata.",0,0,,,,
-0,P,not-special,no-anti,prosecute,sue,0,0,(verb) institute legal proceedings against (a person or organization).,"(verb) institute legal proceedings against (a person or institution), typically for redress.",0,0,,,,
-0,P,not-special,anti,prudent,0,0,rude,(adj.) acting with or showing care and thought for the future.,0,0,(adj.) offensively impolite or ill-mannered.,,,,
-lastP,P,not-special,anti,prurient,0,0,pure,(adj.) having or encouraging an excessive interest in sexual matters.,0,0,(adj.) not mixed or adulterated with any other substance or material.,,,,
+(noun) rain, snow, sleet, or hail that falls to the ground.",(noun) moisture condensed from the atmosphere that falls visibly in separate drops,0,0
+0,P,not-special,no-anti,predominant,dominant,0,0,(adj.) present as the strongest or main element.,"(adj.) most important, powerful, or influential.",0,0
+0,P,not-special,no-anti,preeminent,eminent,0,0,(adj.) surpassing all others; very distinguished in some way.,(adj.) (of a person) famous and respected within a particular sphere or profession.,0,0
+0,P,not-special,no-anti,prematurely,early,0,0,(adv.) before the due time; ahead of time.,(adj.) happening or done before the usual or expected time.,0,0
+0,P,not-special,no-anti,primogenitor,progenitor,0,0,"(noun) an ancestor, especially the earliest ancestor of a people; a progenitor.","(noun) a person or thing from which a person, animal, or plant is descended or originates; an ancestor or parent.",0,0
+0,P,not-special,no-anti,proffer,offer,0,0,(verb) hold out (something) to someone for acceptance; offer.,(verb) present or proffer (something) for (someone) to accept or reject as so desired.,0,0
+0,P,not-special,no-anti,promenade,road,0,0,"(noun) a paved public walk, typically one along a waterfront at a resort.","(noun) a wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use.",0,0
+0,P,not-special,no-anti,proportionate,prorate,0,0,(adj.) corresponding in size or amount to something else.,"(verb) (North American) allocate, distribute, or assess pro rata.",0,0
+0,P,not-special,no-anti,prosecute,sue,0,0,(verb) institute legal proceedings against (a person or organization).,"(verb) institute legal proceedings against (a person or institution), typically for redress.",0,0
+0,P,not-special,anti,prudent,0,0,rude,(adj.) acting with or showing care and thought for the future.,0,0,(adj.) offensively impolite or ill-mannered.
+lastP,P,not-special,anti,prurient,0,0,pure,(adj.) having or encouraging an excessive interest in sexual matters.,0,0,(adj.) not mixed or adulterated with any other substance or material.
 firstQ,Q,not-special,no-anti,quagmire,quag,mire,0,"(noun) a soft boggy area of land that gives way underfoot.
-(noun) an awkward, complex, or hazardous situation.",(noun) a marshy or boggy place.,(noun) a stretch of swampy or boggy ground.,0,,,,
-0,Q,not-special,no-anti,quiescent,quiet,0,0,(adj.) in a state or period of inactivity or dormancy.,(adj.) making little or no noise.,0,0,,,,
+(noun) an awkward, complex, or hazardous situation.",(noun) a marshy or boggy place.,(noun) a stretch of swampy or boggy ground.,0
+0,Q,not-special,no-anti,quiescent,quiet,0,0,(adj.) in a state or period of inactivity or dormancy.,(adj.) making little or no noise.,0,0
 lastQ,Q,not-special,no-anti,quintuplet,quintet,0,0,"(noun) each of five children born to the same mother at one birth.
-(music) a group of five notes to be performed in the time of three or four.",(noun) a group of five people playing music or singing together.,0,0,,,,
-firstR,R,not-special,no-anti,rambunctious,raucous,0,0,(adj.) (informal) uncontrollably exuberant; boisterous.,(adj.) making or constituting a disturbingly harsh and loud noise.,0,0,,,,
-0,R,not-special,no-anti,rampage,rage,0,0,(verb) (especially of a large group of people) rush around in a violent and uncontrollable manner.,"(noun) violent, uncontrollable anger.",0,0,,,,
+(music) a group of five notes to be performed in the time of three or four.",(noun) a group of five people playing music or singing together.,0,0
+firstR,R,not-special,no-anti,rambunctious,raucous,0,0,(adj.) (informal) uncontrollably exuberant; boisterous.,(adj.) making or constituting a disturbingly harsh and loud noise.,0,0
+0,R,not-special,no-anti,rampage,rage,0,0,(verb) (especially of a large group of people) rush around in a violent and uncontrollable manner.,"(noun) violent, uncontrollable anger.",0,0
 0,R,not-special,no-anti,ransack,sack,0,0,"(verb) go hurriedly through (a place) stealing things and causing damage.
-",(verb) (informal) dismiss from employment.,0,0,,,,
-0,R,not-special,no-anti,rapscallion,rascal,0,0,(noun) a mischievous person.,"(noun) a mischievous or cheeky person, especially a child or man (typically used in an affectionate way).",0,0,,,,
-0,R,not-special,no-anti,ravaging,raging,0,0,(verb) cause severe and extensive damage to.,(adj.) showing violent uncontrollable anger.,0,0,,,,
+",(verb) (informal) dismiss from employment.,0,0
+0,R,not-special,no-anti,rapscallion,rascal,0,0,(noun) a mischievous person.,"(noun) a mischievous or cheeky person, especially a child or man (typically used in an affectionate way).",0,0
+0,R,not-special,no-anti,ravaging,raging,0,0,(verb) cause severe and extensive damage to.,(adj.) showing violent uncontrollable anger.,0,0
 0,R,not-special,no-anti,"recapitulate
-",recap,0,0,(verb) summarize and state again the main points of.,(verb) (informal) state again as a summary; recapitulate.,0,0,,,,
+",recap,0,0,(verb) summarize and state again the main points of.,(verb) (informal) state again as a summary; recapitulate.,0,0
 0,R,not-special,no-anti,reconciliation,conciliation,0,0,(noun) the restoration of friendly relations.,"(noun) the action of stopping someone from being angry; placation.
-",0,0,,,,
-0,R,not-special,no-anti,recline,line,0,0,(verb) lean or lie back in a relaxed position with the back supported.,(noun) a contour or outline considered as a feature of design or composition.,0,0,,,,
-0,R,not-special,anti,redoubtable,0,0,doubtable,"(adj.) (of a person) formidable, especially as an opponent.",0,0,(adj.) being uncertain or have a lack of conviction.,,,,
+",0,0
+0,R,not-special,no-anti,recline,line,0,0,(verb) lean or lie back in a relaxed position with the back supported.,(noun) a contour or outline considered as a feature of design or composition.,0,0
+0,R,not-special,anti,redoubtable,0,0,doubtable,"(adj.) (of a person) formidable, especially as an opponent.",0,0,(adj.) being uncertain or have a lack of conviction.
 0,R,not-special,no-anti,refurbishment,refit,0,0,"(noun) the renovation and redecoration of something, especially a building.","(verb) replace or repair machinery, equipment, and fittings in (a ship, building, etc.).
-(verb) a restoration or repair of machinery, equipment, or fittings.",0,0,,,,
-0,R,not-special,no-anti,regulated,ruled,0,0,(verb) control or maintain the rate or speed of (a machine or process) so that it operates properly.,(verb) exercise ultimate power or authority over (an area and its people).,0,0,,,,
-0,R,not-special,no-anti,reoccurence,recurrence,0,0,(noun) (informal) happening again but not always repeatedly.,(noun) the fact of occurring again.,0,0,,,,
-0,R,not-special,no-anti,remorsefulness,rue,0,0,(adj.) filled with remorse; sorry.,(verb) bitterly regret (something one has done or allowed to happen).,0,0,,,,
+(verb) a restoration or repair of machinery, equipment, or fittings.",0,0
+0,R,not-special,no-anti,regulated,ruled,0,0,(verb) control or maintain the rate or speed of (a machine or process) so that it operates properly.,(verb) exercise ultimate power or authority over (an area and its people).,0,0
+0,R,not-special,no-anti,reoccurence,recurrence,0,0,(noun) (informal) happening again but not always repeatedly.,(noun) the fact of occurring again.,0,0
+0,R,not-special,no-anti,remorsefulness,rue,0,0,(adj.) filled with remorse; sorry.,(verb) bitterly regret (something one has done or allowed to happen).,0,0
 0,R,not-special,anti,resigned,0,0,reigned,"(adj.) having accepted something unpleasant that one cannot do anything about.
 (verb) give up (an office, power, privilege, etc.).",0,0,"(verb) hold royal office; rule as king or queen.
-(verb) (of a quality or condition) prevail; predominate.",,,,
-0,R,not-special,no-anti,resemblance,semblance,0,0,(noun) the state of resembling or being alike.,"(noun) the outward appearance or apparent form of something, especially when the reality is different.",0,0,,,,
-0,R,not-special,no-anti,respite,rest,0,0,(noun) a short period of rest or relief from something difficult or unpleasant.,"(verb) cease work or movement in order to relax, refresh oneself, or recover strength.",0,0,,,,
-0,R,not-special,no-anti,reticule,reticle,0,0,"(noun) a woman's small handbag, originally netted and typically having a drawstring and decorated with embroidery or beading.","(noun) a series of fine lines or fibers in the eyepiece of an optical device, such as a telescope or microscope, used as a measuring scale or an aid in locating objects",0,0,,,,
-0,R,not-special,no-anti,retrogress,regress,0,0,"(verb) go back to an earlier state, typically a worse one.",(verb) return to a former or less developed state.,0,0,,,,
-0,R,not-special,no-anti,revivified,revived,0,0,(verb) give new life or vigor to.,(verb) restore to life or consciousness.,0,0,,,,
+(verb) (of a quality or condition) prevail; predominate."
+0,R,not-special,no-anti,resemblance,semblance,0,0,(noun) the state of resembling or being alike.,"(noun) the outward appearance or apparent form of something, especially when the reality is different.",0,0
+0,R,not-special,no-anti,respite,rest,0,0,(noun) a short period of rest or relief from something difficult or unpleasant.,"(verb) cease work or movement in order to relax, refresh oneself, or recover strength.",0,0
+0,R,not-special,no-anti,reticule,reticle,0,0,"(noun) a woman's small handbag, originally netted and typically having a drawstring and decorated with embroidery or beading.","(noun) a series of fine lines or fibers in the eyepiece of an optical device, such as a telescope or microscope, used as a measuring scale or an aid in locating objects",0,0
+0,R,not-special,no-anti,retrogress,regress,0,0,"(verb) go back to an earlier state, typically a worse one.",(verb) return to a former or less developed state.,0,0
+0,R,not-special,no-anti,revivified,revived,0,0,(verb) give new life or vigor to.,(verb) restore to life or consciousness.,0,0
 0,R,not-special,both,revolution,revolt,0,evolution,"(noun) a forcible overthrow of a government or social order, in favor of a new system.","(verb) rise in rebellion.
-(verb) cause to feel disgust",0,"(noun) the gradual development of something, especially from a simple to a more complex form.",,,,
-0,R,not-special,no-anti,rigamarole,rigmarole,0,0,"(noun) a succession of confused, meaningless, or foolish statements.",(noun) a set of confused and meaningless statements.,0,0,,,,
+(verb) cause to feel disgust",0,"(noun) the gradual development of something, especially from a simple to a more complex form."
+0,R,not-special,no-anti,rigamarole,rigmarole,0,0,"(noun) a succession of confused, meaningless, or foolish statements.",(noun) a set of confused and meaningless statements.,0,0
 0,R,not-special,no-anti,rotund,round,0,0,"(adj.) (of a person) plump.
-(adj.) round or spherical.",(adj.) shaped like or approximately like a circle or cylinder.,0,0,,,,
+(adj.) round or spherical.",(adj.) shaped like or approximately like a circle or cylinder.,0,0
 lastR,R,not-special,no-anti,routine,rut,rote,0,"(noun) a sequence of actions regularly followed; a fixed program.
-",(noun) a habit or pattern of behavior that has become dull and unproductive but is hard to change.,(noun) mechanical or habitual repetition of something to be learned.,0,,,,
+",(noun) a habit or pattern of behavior that has become dull and unproductive but is hard to change.,(noun) mechanical or habitual repetition of something to be learned.,0
 firstS,S,not-special,no-anti,salvage,save,0,0,"(verb) rescue (a wrecked or disabled ship or its cargo) from loss at sea.
-",(verb) keep safe or rescue (someone or something) from harm or danger.,0,0,,,,
+",(verb) keep safe or rescue (someone or something) from harm or danger.,0,0
 0,S,not-special,anti,salvaged,0,0,savaged,(verb) retrieve or preserve (something) from potential loss or adverse circumstances.,0,0,"(verb) subject to a vicious verbal attack; criticize brutally.
-",,,,
-0,S,not-special,no-anti,satiate,sate,0,0,(adj.) satisfied to the full; satiated.,(verb) satisfy (a desire or an appetite) to the full.,0,0,,,,
-0,S,not-special,no-anti,satisfied,sated,0,0,(adj.) contented; pleased.,(verb) satisfy (a desire or an appetite) to the full.,0,0,,,,
-0,S,not-special,no-anti,scallywag,scally,0,0,(noun) (informal) a person who behaves badly but in an amusingly mischievous rather than harmful way; a rascal.,(noun) (North England) A jobless yob who has little or no education and is suspected of having committed some type of crime.,0,0,,,,
+"
+0,S,not-special,no-anti,satiate,sate,0,0,(adj.) satisfied to the full; satiated.,(verb) satisfy (a desire or an appetite) to the full.,0,0
+0,S,not-special,no-anti,satisfied,sated,0,0,(adj.) contented; pleased.,(verb) satisfy (a desire or an appetite) to the full.,0,0
+0,S,not-special,no-anti,scallywag,scally,0,0,(noun) (informal) a person who behaves badly but in an amusingly mischievous rather than harmful way; a rascal.,(noun) (North England) A jobless yob who has little or no education and is suspected of having committed some type of crime.,0,0
 0,S,not-special,no-anti,scion,son,0,0,"(noun) a young shoot or twig of a plant, especially one cut for grafting or rooting.
-(noun) a descendant of a notable family.",(noun) a boy or man in relation to either or both of his parents.,0,0,,,,
+(noun) a descendant of a notable family.",(noun) a boy or man in relation to either or both of his parents.,0,0
 0,S,not-special,no-anti,scoundrel,cur,0,0,(noun) a dishonest or unscrupulous person; a rogue.,"(noun) an aggressive dog or one that is in poor condition, especially a mongrel.
-(noun) (informal) a contemptible man.",0,0,,,,
-0,S,not-special,no-anti,scrub,rub,0,0,"(verb) rub (someone or something) hard so as to clean them, typically with a brush and water.",(verb) move one's hand or a cloth repeatedly back and forth on the surface of (something) with firm pressure.,0,0,,,,
-0,S,not-special,no-anti,sculpt,cut,0,0,"(verb) create or represent (something) by carving, casting, or other shaping techniques.","(verb) make an opening, incision, or wound in (something) with sa sharp-edged tool or object.",0,0,,,,
-0,S,not-special,no-anti,separated,parted,0,0,(verb) cause to move or be apart.,(verb) (of two things) move away from each other.,0,0,,,,
-0,S,not-special,no-anti,sextupled,sextet,0,0,(verb) multiply by six; increase sixfold.,(noun) a group of six people playing music or singing together.,0,0,,,,
+(noun) (informal) a contemptible man.",0,0
+0,S,not-special,no-anti,scrub,rub,0,0,"(verb) rub (someone or something) hard so as to clean them, typically with a brush and water.",(verb) move one's hand or a cloth repeatedly back and forth on the surface of (something) with firm pressure.,0,0
+0,S,not-special,no-anti,sculpt,cut,0,0,"(verb) create or represent (something) by carving, casting, or other shaping techniques.","(verb) make an opening, incision, or wound in (something) with sa sharp-edged tool or object.",0,0
+0,S,not-special,no-anti,separated,parted,0,0,(verb) cause to move or be apart.,(verb) (of two things) move away from each other.,0,0
+0,S,not-special,no-anti,sextupled,sextet,0,0,(verb) multiply by six; increase sixfold.,(noun) a group of six people playing music or singing together.,0,0
 0,S,not-special,no-anti,shadowy,shady,0,0,"(adj.) full of shadows.
 (adj.) insubstantial; unreal","(adj.) situated in or full of shade.
-(informal) of doubtful honesty or legality",0,0,,,,
-0,S,not-special,anti,she,0,0,he,"(pronoun) used to refer to a woman, girl, or female animal previously mentioned or easily identified.",0,0,"(pronoun) used to refer to a man, boy, or male animal previously mentioned or easily identified.",,,,
+(informal) of doubtful honesty or legality",0,0
+0,S,not-special,anti,she,0,0,he,"(pronoun) used to refer to a woman, girl, or female animal previously mentioned or easily identified.",0,0,"(pronoun) used to refer to a man, boy, or male animal previously mentioned or easily identified."
 0,S,not-special,no-anti,shushed,hushed,0,0,(verb) tell or signal (someone) to be silent.,"(adj.) having a calm and still silence.
-(verb) make (someone) be quiet or stop talking.",0,0,,,,
+(verb) make (someone) be quiet or stop talking.",0,0
 0,S,not-special,no-anti,shuttering,shutting,0,0,"(noun) wood in planks or strips used as a temporary structure for fencing to contain setting concrete, to support the sides of trenches, etc.
-(verb) (North American) close (a business).",(verb) move (something) into position so that it blocks an opening.,0,0,,,,
-0,S,not-special,no-anti,signal,sign,0,0,"(noun) a gesture, action, or sound that is used to convey information or instructions, typically by prearrangement between the parties concerned.","(noun) an object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else.",0,0,,,,
-0,S,not-special,no-anti,slithered,slid,0,0,(verb) move smoothly over a surface with a twisting or oscillating motion.,(verb) move along a smooth surface while maintaining continuous contact with it.,0,0,,,,
-0,S,not-special,no-anti,smidgen,smidge,0,0,(noun) a small amount of something.,(noun) (informal) another term for smidgen.,0,0,,,,
-0,S,not-special,no-anti,spittle,spit,0,0,"(noun) saliva, especially as ejected from the mouth.","(verb) eject saliva forcibly from one's mouth, sometimes as a gesture of contempt or anger.",0,0,,,,
+(verb) (North American) close (a business).",(verb) move (something) into position so that it blocks an opening.,0,0
+0,S,not-special,no-anti,signal,sign,0,0,"(noun) a gesture, action, or sound that is used to convey information or instructions, typically by prearrangement between the parties concerned.","(noun) an object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else.",0,0
+0,S,not-special,no-anti,slithered,slid,0,0,(verb) move smoothly over a surface with a twisting or oscillating motion.,(verb) move along a smooth surface while maintaining continuous contact with it.,0,0
+0,S,not-special,no-anti,smidgen,smidge,0,0,(noun) a small amount of something.,(noun) (informal) another term for smidgen.,0,0
+0,S,not-special,no-anti,spittle,spit,0,0,"(noun) saliva, especially as ejected from the mouth.","(verb) eject saliva forcibly from one's mouth, sometimes as a gesture of contempt or anger.",0,0
 0,S,not-special,no-anti,splinter,split,0,0,"(noun) a small, thin, sharp piece of wood, glass, or similar material broken off from a larger piece.
-(verb) break or cause to break into small sharp fragments","(verb) break or cause to break forcibly into parts, especially into halves or along the grain.",0,0,,,,
-0,S,not-special,no-anti,splotch,spot,0,0,"(noun) (informal) a daub, blot, or smear of something, typically a liquid.",(noun) a spot; splotch.,0,0,,,,
-0,S,not-special,no-anti,splutter,sputter,0,0,(verb) make a series of short explosive spitting or choking sounds.,"(verb) make a series of soft explosive sounds, typically when being heated or as a symptom of a fault.",0,0,,,,
-0,S,not-special,no-anti,sprightly,spry,0,0,(adj.) (especially of an old person) lively; full of energy.,(adj.) (especially of an old person) active; lively.,0,0,,,,
-0,S,not-special,no-anti,squashed,quashed,0,0,"(adj.) flat, soft, or out of shape as a result of being crushed or squeezed with force.",(verb) put an end to; suppress.,0,0,,,,
-0,S,not-special,no-anti,stealthy,sly,0,0,"(adj.) behaving, done, or made in a cautious and surreptitious manner, so as not to be seen or heard.",(adj.) having or showing a cunning and deceitful nature.,0,0,,,,
-0,S,not-special,no-anti,stocking,sock,0,0,"(noun) a women's garment, typically made of translucent nylon or silk, that fits closely over the foot and is held up by garters or an elasticized strip at the upper thigh.","(noun a garment for the foot and lower part of the leg, typically knitted from wool, cotton, or nylon.",0,0,,,,
-0,S,not-special,no-anti,strives,tries,0,0,(verb) make great efforts to achieve or obtain something.,(verb) make an attempt or effort to do something.,0,0,,,,
-0,S,not-special,no-anti,stumble,tumble,0,0,(verb) trip or momentarily lose one's balance; almost fall.,"(verb) (typically of a person) fall suddenly, clumsily, or headlong.",0,0,,,,
-0,S,not-special,no-anti,substandard,bad,0,0,(adj.) below the usual or required standard.,(adj.) of poor quality or a low standard.,0,0,,,,
-0,S,not-special,no-anti,subtile,subtle,0,0,"(adj.) subtle, elusive",(adj.) (especially of a change or distinction) so delicate or precise as to be difficult to analyze or describe.,0,0,,,,
-0,S,not-special,no-anti,superb,super,0,0,(adj.) excellent.,(adj.) (informal) very good or pleasant; excellent.,0,0,,,,
-0,S,not-special,no-anti,superimpose,superpose,0,0,"(verb) place or lay (one thing) over another, typically so that both are still evident.","(verb) place (something) on or above something else, especially so that they coincide.",0,0,,,,
-0,S,not-special,no-anti,supervisor,superior,0,0,(noun) a person who supervises a person or an activity.,"(adj.) higher in rank, status, or quality.",0,0,,,,
-0,S,not-special,no-anti,supplicant,suppliant,0,0,(noun) one who prays humble to God for help with a problem,(noun) a person making a humble plea to someone in power or authority.,0,0,,,,
+(verb) break or cause to break into small sharp fragments","(verb) break or cause to break forcibly into parts, especially into halves or along the grain.",0,0
+0,S,not-special,no-anti,splotch,spot,0,0,"(noun) (informal) a daub, blot, or smear of something, typically a liquid.",(noun) a spot; splotch.,0,0
+0,S,not-special,no-anti,splutter,sputter,0,0,(verb) make a series of short explosive spitting or choking sounds.,"(verb) make a series of soft explosive sounds, typically when being heated or as a symptom of a fault.",0,0
+0,S,not-special,no-anti,sprightly,spry,0,0,(adj.) (especially of an old person) lively; full of energy.,(adj.) (especially of an old person) active; lively.,0,0
+0,S,not-special,no-anti,squashed,quashed,0,0,"(adj.) flat, soft, or out of shape as a result of being crushed or squeezed with force.",(verb) put an end to; suppress.,0,0
+0,S,not-special,no-anti,stealthy,sly,0,0,"(adj.) behaving, done, or made in a cautious and surreptitious manner, so as not to be seen or heard.",(adj.) having or showing a cunning and deceitful nature.,0,0
+0,S,not-special,no-anti,stocking,sock,0,0,"(noun) a women's garment, typically made of translucent nylon or silk, that fits closely over the foot and is held up by garters or an elasticized strip at the upper thigh.","(noun a garment for the foot and lower part of the leg, typically knitted from wool, cotton, or nylon.",0,0
+0,S,not-special,no-anti,strives,tries,0,0,(verb) make great efforts to achieve or obtain something.,(verb) make an attempt or effort to do something.,0,0
+0,S,not-special,no-anti,stumble,tumble,0,0,(verb) trip or momentarily lose one's balance; almost fall.,"(verb) (typically of a person) fall suddenly, clumsily, or headlong.",0,0
+0,S,not-special,no-anti,substandard,bad,0,0,(adj.) below the usual or required standard.,(adj.) of poor quality or a low standard.,0,0
+0,S,not-special,no-anti,subtile,subtle,0,0,"(adj.) subtle, elusive",(adj.) (especially of a change or distinction) so delicate or precise as to be difficult to analyze or describe.,0,0
+0,S,not-special,no-anti,superb,super,0,0,(adj.) excellent.,(adj.) (informal) very good or pleasant; excellent.,0,0
+0,S,not-special,no-anti,superimpose,superpose,0,0,"(verb) place or lay (one thing) over another, typically so that both are still evident.","(verb) place (something) on or above something else, especially so that they coincide.",0,0
+0,S,not-special,no-anti,supervisor,superior,0,0,(noun) a person who supervises a person or an activity.,"(adj.) higher in rank, status, or quality.",0,0
+0,S,not-special,no-anti,supplicant,suppliant,0,0,(noun) one who prays humble to God for help with a problem,(noun) a person making a humble plea to someone in power or authority.,0,0
 0,S,not-special,no-anti,supremacist,racist,0,0,"(noun) an advocate of the supremacy of a particular group, especially one determined by race or sex.","(noun) a person who shows or feels discrimination or prejudice against people of other races, or who believes that a particular race is superior to another.
-",0,0,,,,
-0,S,not-special,no-anti,surceased,ceased,0,0,(verb) cease.,(verb) bring or come to an end.,0,0,,,,
+",0,0
+0,S,not-special,no-anti,surceased,ceased,0,0,(verb) cease.,(verb) bring or come to an end.,0,0
 0,S,not-special,no-anti,surfeited,fed,0,0,(verb) cause (someone) to desire no more of something as a result of having consumed or done it to excess.,"(verb) give food to.
 (verb) provide an adequate supply of food for.
-",0,0,,,,
-lastS,S,not-special,no-anti,sweaty,wet,0,0,"(adj.) exuding, soaked in, or inducing sweat.",(adj.) covered or saturated with water or another liquid.,0,0,,,,
-firstT,T,not-special,no-anti,teetotal,total,0,0,(adj.) choosing or characterized by abstinence from alcohol.,(adj.) comprising the whole number or amount.,0,0,,,,
+",0,0
+lastS,S,not-special,no-anti,sweaty,wet,0,0,"(adj.) exuding, soaked in, or inducing sweat.",(adj.) covered or saturated with water or another liquid.,0,0
+firstT,T,not-special,no-anti,teetotal,total,0,0,(adj.) choosing or characterized by abstinence from alcohol.,(adj.) comprising the whole number or amount.,0,0
 0,T,not-special,no-anti,"ticky-tacky
-",tacky,0,0,"(noun) inferior or cheap material, especially as used in suburban building.",(adj.) showing poor taste and quality.,0,0,,,,
-0,T,not-special,no-anti,tracked,traced,0,0,"(verb) follow the course or trail of (someone or something), typically in order to find them or note their location at various points.",(verb) find or discover by investigation.,0,0,,,,
-0,T,not-special,no-anti,transgression,sin,0,0,"(noun) an act that goes against a law, rule, or code of conduct; an offense.",(noun) an immoral act considered to be a transgression against divine law.,0,0,,,,
-0,T,not-special,anti,there,0,0,here,"(adv.) in, at, or to that place or position.","(adv.) in, at, or to this place or position.",0,0,,,,
-0,T,not-special,anti,threat,0,0,treat,"(noun) a statement of an intention to inflict pain, injury, damage, or other hostile action on someone in retribution for something done or not done.",(verb) give medical care or attention to; try to heal or cure.,0,0,,,,
+",tacky,0,0,"(noun) inferior or cheap material, especially as used in suburban building.",(adj.) showing poor taste and quality.,0,0
+0,T,not-special,no-anti,tracked,traced,0,0,"(verb) follow the course or trail of (someone or something), typically in order to find them or note their location at various points.",(verb) find or discover by investigation.,0,0
+0,T,not-special,no-anti,transgression,sin,0,0,"(noun) an act that goes against a law, rule, or code of conduct; an offense.",(noun) an immoral act considered to be a transgression against divine law.,0,0
+0,T,not-special,anti,there,0,0,here,"(adv.) in, at, or to that place or position.","(adv.) in, at, or to this place or position.",0,0
+0,T,not-special,anti,threat,0,0,treat,"(noun) a statement of an intention to inflict pain, injury, damage, or other hostile action on someone in retribution for something done or not done.",(verb) give medical care or attention to; try to heal or cure.,0,0
 0,T,not-special,anti,thoroughly,0,0,roughly,(adv.) in a thorough manner.,"(adv.) in a manner lacking gentleness; harshly or violently.
-",0,0,,,,
-0,T,not-special,no-anti,truthfully,truly,0,0,(adv.) in a way that expresses the truth; honestly.,(adv.) to the fullest degree; genuinely or properly.,0,0,,,,
-lastT,T,not-special,no-anti,trustworthy,trusty,0,0,(adj.) able to be relied on as honest or truthful.,(adj.) having served for a long time and regarded as reliable or faithful.,0,0,,,,
+",0,0
+0,T,not-special,no-anti,truthfully,truly,0,0,(adv.) in a way that expresses the truth; honestly.,(adv.) to the fullest degree; genuinely or properly.,0,0
+lastT,T,not-special,no-anti,trustworthy,trusty,0,0,(adj.) able to be relied on as honest or truthful.,(adj.) having served for a long time and regarded as reliable or faithful.,0,0
 firstU,U,not-special,no-anti,umpteenth,nth,0,0,(number) (informal) used to emphasize that something has happened on many other occasions.,"(adj.) (mathematics) denoting an unspecified member of a series of numbers or enumerated items.
-",0,0,,,,
+",0,0
 0,U,not-special,no-anti,unanimity,unity,0,0,"(noun) agreement by all people involved; consensus
-","(noun) the state of forming a complete and pleasing whole, especially in an artistic context.",0,0,,,,
+","(noun) the state of forming a complete and pleasing whole, especially in an artistic context.",0,0
 0,U,not-special,no-anti,underneath,under,0,0,"(preposition) (adverb) situated directly below (something else).
-",(preposition) at a lower level than.,0,0,,,,
-0,U,not-special,no-anti,unruffianly,unruly,0,0,(adj.) violent and lawless,(adj.) disorderly and disruptive and not amenable to discipline or control.,0,0,,,,
-0,U,not-special,no-anti,unsightly,ugly,0,0,(adj.) unpleasant to look at; ugly.,"(adj.) unpleasant or repulsive, especially in appearance.",0,0,,,,
-lastU,U,not-special,no-anti,utilising,using,0,0,(verb) make practical and effective use of.,"(verb) take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result; employ.",0,0,,,,
+",(preposition) at a lower level than.,0,0
+0,U,not-special,no-anti,unruffianly,unruly,0,0,(adj.) violent and lawless,(adj.) disorderly and disruptive and not amenable to discipline or control.,0,0
+0,U,not-special,no-anti,unsightly,ugly,0,0,(adj.) unpleasant to look at; ugly.,"(adj.) unpleasant or repulsive, especially in appearance.",0,0
+lastU,U,not-special,no-anti,utilising,using,0,0,(verb) make practical and effective use of.,"(verb) take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result; employ.",0,0
 firstV,V,not-special,no-anti,variegated,varied,0,0,"(adj.) exhibiting different colors, especially as irregular patches or streaks.
-",(adj.) incorporating a number of different types or elements; showing variation or variety.,0,0,,,,
-lastV,V,not-special,no-anti,veracity,verity,0,0,(noun) conformity to facts; accuracy.,"(noun) a true principle or belief, especially one of fundamental importance.",0,0,,,,
+",(adj.) incorporating a number of different types or elements; showing variation or variety.,0,0
+lastV,V,not-special,no-anti,veracity,verity,0,0,(noun) conformity to facts; accuracy.,"(noun) a true principle or belief, especially one of fundamental importance.",0,0
 firstW,W,not-special,no-anti,weakening,waning,0,0,"(verb) make or become weaker in power, resolve, or physical strength.","(verb) (especially of a condition or feeling) decrease in vigor, power, or extent; become weaker.
-",0,0,,,,
+",0,0
 0,W,not-special,no-anti,wealth,weal,0,0,(noun) an abundance of valuable possessions or money.,"(noun) (formal) that which is best for someone or something.
-(noun) a red, swollen mark left on flesh by a blow or pressure.",0,0,,,,
-lastW,W,not-special,anti,wonderful,0,0,woeful,"(adj.) inspiring delight, pleasure, or admiration; extremely good; marvelous.",0,0,"(adj.) characterized by, expressive of, or causing sorrow or misery.",,,,
-firstY,Y,not-special,no-anti,yearning,yen,0,0,(noun) a feeling of intense longing for something.,(informal) a longing or yearning.,0,0,,,,
+(noun) a red, swollen mark left on flesh by a blow or pressure.",0,0
+lastW,W,not-special,anti,wonderful,0,0,woeful,"(adj.) inspiring delight, pleasure, or admiration; extremely good; marvelous.",0,0,"(adj.) characterized by, expressive of, or causing sorrow or misery."
+firstY,Y,not-special,no-anti,yearning,yen,0,0,(noun) a feeling of intense longing for something.,(informal) a longing or yearning.,0,0

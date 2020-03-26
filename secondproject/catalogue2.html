@@ -74,61 +74,49 @@
 
 
 d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproject/All%20-%20Sheet1.csv')
-.then(
-	//run functions with the data here
-	function(data){
+	.then(
+		function(data){
+			console.log(data)
+			// filtering data function
+			// multiple conditions: || or && or !=
+			anything_but_sedan = data.filter(function(d){
+				return d.type!='sedan'
+			})
 
-		// anti = data.filter(function(d){
-		// 		return d.type=='anti'
-		// 	})
+			viewData(data,'list')
+			seeDetails(data)
+			listenSearch(data)
+		}
+		)
+	.catch(function(error){
+		// catch error
+	})
 
-		// 	viewData(anti,'list')
-		// 	seeDetails(anti)
-		// }
-		// )
-.catch(function(error){
-})
 
-	
-
+// declare document functions
 function viewData (data, location_id) {
+	// select the element that I will write the data in
+	el = document.querySelector('#'+location_id)  
 
-	el = document.querySelector('#'+location_id) 
+	// iterate over each item and do something with its attributes
 	data.forEach(function(item,i){
-		console.log(i)
-		console.log(data)
-		viewData(data,'list')
-		div = document.createElement('div')
-		div.setAttribute('class','word')
-		div.setAttribute('value',i)
-		div.classList.add(item['beginning'])
-		div.classList.add(item['special'])
-		div.classList.add(item['letter'])
-		div.classList.add(item['anti'])
-		p = document.createElement('p')
-		p.innerHTML=item['kangaroo']
-		div.appendChild(p)
-		el.appendChild(div)
+			// see index number
+			// console.log(i)
+			div = document.createElement('div')
+			div.setAttribute('class','word')
+			div.classList.add(item['beginning'])
+			div.classList.add(item['letter'])
+			div.classList.add(item['anti'])
+			div.classList.add(item['special'])
+			div = document.createElement('p')
+			div.innerHTML=item['kangaroo']
+			div.appendChild(p)
+			el.appendChild(div)
+
+
+			
 	})
 }
-
-
-
-// function seeDetails(data){
-// 	items = document.querySelectorAll('.word')
-// 	items.forEach(function(item){
-// 		item.onclick=function(){
-// 			value = this.getAttribute('value')
-// 			showLightbox(data,value)
-// 		}
-// 	})
-// }
-
-// function showLightbox(data,index){
-// 	lightbox = document.querySelector('#lightbox')
-// 	h1 = lightbox.querySelector('h1')
-// 	h1.innerHTML=data[index]['kangaroo']
-// }
 
 
 </script>
