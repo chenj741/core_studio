@@ -58,7 +58,7 @@
 </div>
 
 
-<div id="main"><div id="list"><!-- some of the header values are not showing up? --></div></div>
+<div id="main"><div id="list"><!-- words don't show up anymore QQ gets cut off after a certain value as well... --></div></div>
 <!-- <div id='lightbox'>
 	<h1></h1>
 </div> -->
@@ -77,58 +77,33 @@ d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproj
 .then(
 	//run functions with the data here
 	function(data){
-
-		// anti = data.filter(function(d){
-		// 		return d.type=='anti'
-		// 	})
-
-		// 	viewData(anti,'list')
-		// 	seeDetails(anti)
-		// }
-		// )
+		console.log(data)
+		viewData(data,'list')
+	}
+	)
 .catch(function(error){
 })
 
-	
+
 
 function viewData (data, location_id) {
 
 	el = document.querySelector('#'+location_id) 
-	data.forEach(function(item,i){
-		console.log(i)
-		console.log(data)
-		viewData(data,'list')
+	data.forEach(function(item){
 		div = document.createElement('div')
 		div.setAttribute('class','word')
-		div.setAttribute('value',i)
-		div.classList.add(item['beginning'])
 		div.classList.add(item['special'])
-		div.classList.add(item['letter'])
 		div.classList.add(item['anti'])
+		div.classList.add(item['letter'])
 		p = document.createElement('p')
 		p.innerHTML=item['kangaroo']
 		div.appendChild(p)
 		el.appendChild(div)
 	})
+
+
+	
 }
-
-
-
-// function seeDetails(data){
-// 	items = document.querySelectorAll('.word')
-// 	items.forEach(function(item){
-// 		item.onclick=function(){
-// 			value = this.getAttribute('value')
-// 			showLightbox(data,value)
-// 		}
-// 	})
-// }
-
-// function showLightbox(data,index){
-// 	lightbox = document.querySelector('#lightbox')
-// 	h1 = lightbox.querySelector('h1')
-// 	h1.innerHTML=data[index]['kangaroo']
-// }
 
 
 </script>

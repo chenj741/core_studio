@@ -69,9 +69,9 @@
 </body>
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <script src="https://d3js.org/d3.v5.min.js"></script>
+
+
 <script type="text/javascript">
-
-
 
 d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproject/All%20-%20Sheet1.csv')
 	.then(
@@ -79,9 +79,9 @@ d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproj
 			console.log(data)
 			// filtering data function
 			// multiple conditions: || or && or !=
-			anything_but_sedan = data.filter(function(d){
-				return d.type!='sedan'
-			})
+			// anything_but_sedan = data.filter(function(d){
+			// 	return d.type!='sedan'
+			// })
 
 			viewData(data,'list')
 			seeDetails(data)
