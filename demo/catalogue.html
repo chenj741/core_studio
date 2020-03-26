@@ -2,19 +2,74 @@
 <html>
 <head>
 	<title></title>
-	<script src="https://d3js.org/d3.v5.min.js"></script>
+	
 <link rel="stylesheet" type="text/css" href="catalogue.css">
 </head>
 <body>
 
-<div id="catalogue">
-	<div id="header">A-Y Catalogue</div>
+
+
+<div class="container">
+
+
+<div id="logo"><a href="index.html">
+	</script>
+<lottie-player
+    src="https://assets9.lottiefiles.com/packages/lf20_7EAoc5.json"  background="transparent"  speed="1"  style="width: 200px; height: 85px;" hover  >
+</lottie-player></a></div>
+
+
+
+<div class="menu">
+
+	<div class="one">
+	<h1> Catalogue</h1>
+	<a class="arrowlink" href="index.html"> Back to Index</a>
+	<a class="arrowlink" href="types.html">Types of Kangaroos</a>
+
+</div>
+
+
+<div class="filter-menu">
+<h4> Filter by </h4>
+<label class="box box1">Kangaroo
+  <input type="checkbox" checked="checked">
+  <span class="checkmark1"></span>
+</label>
+<label class="box box2">Anti-Kangaroo
+  <input type="checkbox">
+  <span class="checkmark2"></span>
+</label>
+<label class="box box3">Twin Joeys
+  <input type="checkbox">
+  <span class="checkmark3"></span>
+</label>
+<label class="box box4">Opposite Joeys
+  <input type="checkbox">
+  <span class="checkmark4"></span>
+</label>
+<label class="box box5">Grand Kangaroo
+  <input type="checkbox">
+  <span class="checkmark5"></span>
+</label>
+
+</div>
+
+</div>
+
+
 <div id="main"><div id="list"></div></div>
+
 </div>
 
 
 </body>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <script type="text/javascript">
+
+
+
 d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/demo/All%20-%20Sheet1.csv')
 .then(
 	//run functions with the data here
@@ -37,11 +92,10 @@ function viewData (data, location_id) {
 		div.classList.add(item['special'])
 		div.classList.add(item['anti'])
 		div.classList.add(item['letter'])
-		h1 = document.createElement('h1')
-		h1.innerHTML=item['kangaroo']
-		div.appendChild(h1)
+		p = document.createElement('p')
+		p.innerHTML=item['kangaroo']
+		div.appendChild(p)
 		el.appendChild(div)
-
 	})
 
 

@@ -14,22 +14,31 @@ body, html {
 		width:100%;
 		margin:0%;
 		scroll-behavior: smooth;
-
 	}
+
 
 .container{
 	top: 0;
 	left:0%;
 width: 100vw;
 height:100vh;
+overflow-y: hidden;
+overflow-x: scroll;
+scroll-snap-type: x mandatory;
+
 
 }
 
+#logo{
+	position: relative;
+	left:-88px;
+	top:-90px;
+}
 
 #main-kangaroo, #main-anti, #main-twin, #main-opposite, #main-grand{
 	background-color:#EFECE7;
-	padding:100px;
-	flex:1 1 30%;
+	padding:60px;
+	flex:1 1 26%;
 }
 
 
@@ -38,85 +47,96 @@ height:100vh;
 		max-height:content;
 		display:flex;
 		flex-direction: row;
-  flex: 1 0 26%;
-  border-bottom: solid 0.7px #3C3123;
+  	
+ 
 		
 }
 
 #sidebar-kangaroo{
 	padding:100px;
-	background-color: #3C3123;
+	width:450px;
+	background-color:#5860F2 /*#3C3123*/;
 	color: #EFECE7;
-flex:1;
+	scroll-snap-align: start;
+
 }
 
 
 
 #sidebar-anti{
 	padding:100px;
+	width:450px;
 	background-color:#BF068E;
 	color: #EFECE7;
-flex:1;
+scroll-snap-align: start;
 }
 
 
 #sidebar-twin{
 	padding:100px;
+	width:400px;
 	background-color:#686BA6;
 	color: #EFECE7;
-		flex:1;
+scroll-snap-align: start;
 }
 
 
 
 #sidebar-opposite{
 	padding:100px;
+	width:300px;
 	background-color:#7F24A6;
 	color: #EFECE7;
-		flex:1;
+scroll-snap-align: start;
 }
 
 
 #sidebar-grand{
 	padding:100px;
+	width:280px;
 	background-color:#D90479;
 	color: #EFECE7;
-	flex:1;
+scroll-snap-align: start;
 }
 
-h4 {
+h1 {
 		font-size:3.157em;
 		color:#EFECE7;
+		margin-bottom: 20px;
+	}
+
+	h2{
+		margin-bottom: -30px;
 	}
 
 	p{
-		font-size:1.777em;
+		font-size:1.333em;
+		margin-bottom: 150px;
+		/*color:#3C3123;*/
 	}
 
 
-.header{
+.arrowlink{
 	color:#EFECE7;
+	display:block;
 	font-size:1.333em;
 }
 
+.arrowlink::after {
+  content: url('images/arrow.gif');
+}
 
+/*
 	.sticky {
 		position:fixed;
-		bottom:2%;
+		right:0px;
+		bottom:10%;
 		background-color: #CCAB82;
 		padding:10px;
-	}
+		z-index: 2;
+		font-size: 1em;
+	}*/
 
-
-	/*sticky elements are relative to the parent! */
-
-	.jump{
-		color:#2e2e1f;
-	}
-
-	.jump:visited {
-		color:#2e2e1f;
-	}
 
 
 
@@ -124,13 +144,13 @@ h4 {
 	color:#EFECE7;
 	display:block;
 	font-size:1.333em;
+	text-decoration: none;
 	}
 
 	a:hover{ 
-	color:#3C3123;
+	color:#CCAB82;
 }
 
 	a:visited{
-	text-decoration:none
-	color: #6a6a48;
+	color: #A57E4D;
 	}

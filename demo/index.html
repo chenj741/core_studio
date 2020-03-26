@@ -7,26 +7,66 @@
 </head>
 
 <body>
-<div id="logo"></div>
-<div id="intro-section">
+<div class="container">
+
+<div id="one" class="one">
+
+<div id="logo"><a href="index.html">
+	</script>
+<lottie-player
+    src="https://assets9.lottiefiles.com/packages/lf20_7EAoc5.json"  background="transparent"  speed="1"  style="width: 200px; height: 85px;" hover  >
+</lottie-player></a></div>
+
+
 	<h1>Kangaroo Words</h1>
-<h3>A Kangaroo is a fun classification for a word that contains its own synonym. The word nestled inside the Kangaroo is called a Joey.</h3>
-<p> There's much more to Kangaroo words than synonyms. Check out the <a class="intro-link" href="LINK HERE">Types of Kangaroos page</a> to explore <a class="intro-link" href="LINK HERE">Anti-Kangaroos</a>,<a class="intro-link" href="LINK HERE">Twin Joeys</a>,<a class="intro-link" href="LINK HERE">Opposite Joeys</a>,and<a class="intro-link" href="LINK HERE">Grand Kangaroos.</a> 
-	<a class="intro-special-link" href="LINK HERE">A-Y Catalogue</a>
-	<a class="intro-special-link" href="LINK HERE">Types of Kangaroos</a>
-</div>
-<div id="word-section">
-
-
+<p class="firstp">A Kangaroo is a fun classification for a word that contains its own synonym. The word nestled inside the Kangaroo is called a Joey. </p>
+<p class="secondp">
+There's much more to Kangaroo words than synonyms. Check out the Types of Kangaroos page to explore <a class="intro-link" href="LINK HERE"> Anti-Kangaroos</a>,<a class="intro-link" href="LINK HERE"> Twin Joeys</a>,<a class="intro-link" href="LINK HERE"> Opposite Joeys</a>, and <a class="intro-link" href="LINK HERE"> Grand Kangaroos.</a> </p>
+	<a class="arrowlink" href="catalogue.html">A-Y Catalogue</a>
+	<a class="arrowlink" href="types.html">Types of Kangaroos</a>
 </div>
 
+
+<div class="top-bar"> 
+	<div class="top-bar1"> <h6> Previous Word </h6> <h4 id="previous-word">PLACEHOLDER</h4> </div>
+	<div class="top-bar2"> <h6> Next Word </h6> <h4 id="next-word">PLACEHOLDER</h4>
+</div></div>
+
+<div id="two" class="two"> 
+
+
+<div class="main-card">
+	<h1 id="kangaroo-card">Admixture</h1>
+	<p class="meaning-card"> (noun) a mixture.
+(noun) the action of adding an ingredient to something else.
+</p>
+
+	<div id="typeof">kangaroo</div>
+
+	<h1 id="joey-card"> mixture</h1>
+	<p class="meaning-card"> (noun) a substance made by mixing other substances together.
+(noun) the process of mixing or being mixed.
+(noun) a combination of different qualities, things, or emotions in which the component elements are individually distinct. </p>
+</div>
+
+</div>
+
+
+
+<div id="three" class="three">  </script>
+<lottie-player
+    src="https://assets3.lottiefiles.com/packages/lf20_ahGFyd.json"  background="transparent"  speed="1"  style="width: 200px; height: 85px;" hover  >
+</lottie-player></div>
+
+
+</div>
 
 
 
 
 </body>
 
-
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <script type="text/javascript">
 
 d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/demo/All%20-%20Sheet1.csv')
@@ -69,94 +109,94 @@ div.setAttribute('value',i)
 		div.appendChild(p)
 		el.appendChild(div)
 
-//for kangaroos
-	if(item['secondjoey']=''&&item['antijoey']=''){
-    // add joey
-		h2 = document.createElement('h2')
-		h2.innerHTML=item['joey']
-		div.appendChild(h2)
-		el.appendChild(div)
-		p2 = document.createElement('p')
-		p2.innerHTML=item['joeydefinition']
-		div.appendChild(p2)
-		el.appendChild(div)
+// //for kangaroos
+// 	if(item['secondjoey']=''&&item['antijoey']=''){
+//     // add joey
+// 		h2 = document.createElement('h2')
+// 		h2.innerHTML=item['joey']
+// 		div.appendChild(h2)
+// 		el.appendChild(div)
+// 		p2 = document.createElement('p')
+// 		p2.innerHTML=item['joeydefinition']
+// 		div.appendChild(p2)
+// 		el.appendChild(div)
 
-//for anti joeys
-    if(item['anti']='anti'){
-		h2 = document.createElement('h2')
-		h2.innerHTML=item['antijoey']
-		div.appendChild(h2)
-		el.appendChild(div)
-		p2 = document.createElement('p')
-		p2.innerHTML=item['antijoeydefinition']
-		div.appendChild(p2)
-		el.appendChild(div)
+// //for anti joeys
+//     if(item['anti']='anti'){
+// 		h2 = document.createElement('h2')
+// 		h2.innerHTML=item['antijoey']
+// 		div.appendChild(h2)
+// 		el.appendChild(div)
+// 		p2 = document.createElement('p')
+// 		p2.innerHTML=item['antijoeydefinition']
+// 		div.appendChild(p2)
+// 		el.appendChild(div)
 
-//for twin joeys
-	if(item['secondjoey']!=''&&item['antijoey']=''){
-		h2 = document.createElement('h2')
-		h2.innerHTML=item['joey']
-		div.appendChild(h2)
-		el.appendChild(div)
-		p2 = document.createElement('p')
-		p2.innerHTML=item['joeydefinition']
-		div.appendChild(p2)
-		el.appendChild(div)
-		//adds a second joey
-		h2 = document.createElement('h2')
-		h2.innerHTML=item['secondjoey']
-		div.appendChild(h2)
-		el.appendChild(div)
-		p2 = document.createElement('p')
-		p2.innerHTML=item['secondjoeydefinition']
-		div.appendChild(p2)
-		el.appendChild(div)
+// //for twin joeys
+// 	if(item['secondjoey']!=''&&item['antijoey']=''){
+// 		h2 = document.createElement('h2')
+// 		h2.innerHTML=item['joey']
+// 		div.appendChild(h2)
+// 		el.appendChild(div)
+// 		p2 = document.createElement('p')
+// 		p2.innerHTML=item['joeydefinition']
+// 		div.appendChild(p2)
+// 		el.appendChild(div)
+// 		//adds a second joey
+// 		h2 = document.createElement('h2')
+// 		h2.innerHTML=item['secondjoey']
+// 		div.appendChild(h2)
+// 		el.appendChild(div)
+// 		p2 = document.createElement('p')
+// 		p2.innerHTML=item['secondjoeydefinition']
+// 		div.appendChild(p2)
+// 		el.appendChild(div)
 
-//for opposite joeys
-	if(item['anti']='both'){
-		//adds both joey and anti joey
-		h2 = document.createElement('h2')
-		h2.innerHTML=item['joey']
-		div.appendChild(h2)
-		el.appendChild(div)
-		p2 = document.createElement('p')
-		p2.innerHTML=item['joeydefinition']
-		div.appendChild(p2)
-		el.appendChild(div)
+// //for opposite joeys
+// 	if(item['anti']='both'){
+// 		//adds both joey and anti joey
+// 		h2 = document.createElement('h2')
+// 		h2.innerHTML=item['joey']
+// 		div.appendChild(h2)
+// 		el.appendChild(div)
+// 		p2 = document.createElement('p')
+// 		p2.innerHTML=item['joeydefinition']
+// 		div.appendChild(p2)
+// 		el.appendChild(div)
 
-		h2 = document.createElement('h2')
-		h2.innerHTML=item['antijoey']
-		div.appendChild(h2)
-		el.appendChild(div)
-		p2 = document.createElement('p')
-		p2.innerHTML=item['antijoeydefinition']
-		div.appendChild(p2)
-		el.appendChild(div)
-		//What to do in case there is a Kangaroo with all 3 joeys??
+// 		h2 = document.createElement('h2')
+// 		h2.innerHTML=item['antijoey']
+// 		div.appendChild(h2)
+// 		el.appendChild(div)
+// 		p2 = document.createElement('p')
+// 		p2.innerHTML=item['antijoeydefinition']
+// 		div.appendChild(p2)
+// 		el.appendChild(div)
+// 		//What to do in case there is a Kangaroo with all 3 joeys??
 		
-//for grand kangaroos
-	if(item['special']='special'){
-	//add joey and second joey
-		h2 = document.createElement('h2')
-		h2.innerHTML=item['joey']
-		div.appendChild(h2)
-		el.appendChild(div)
-		p2 = document.createElement('p')
-		p2.innerHTML=item['joeydefinition']
-		div.appendChild(p2)
-		el.appendChild(div)
+// //for grand kangaroos
+// 	if(item['special']='special'){
+// 	//add joey and second joey
+// 		h2 = document.createElement('h2')
+// 		h2.innerHTML=item['joey']
+// 		div.appendChild(h2)
+// 		el.appendChild(div)
+// 		p2 = document.createElement('p')
+// 		p2.innerHTML=item['joeydefinition']
+// 		div.appendChild(p2)
+// 		el.appendChild(div)
 
-		h2 = document.createElement('h2')
-		h2.innerHTML=item['secondjoey']
-		div.appendChild(h2)
-		el.appendChild(div)
-		p2 = document.createElement('p')
-		p2.innerHTML=item['secondjoeydefinition']
-		div.appendChild(p2)
-		el.appendChild(div)
-	}	
+// 		h2 = document.createElement('h2')
+// 		h2.innerHTML=item['secondjoey']
+// 		div.appendChild(h2)
+// 		el.appendChild(div)
+// 		p2 = document.createElement('p')
+// 		p2.innerHTML=item['secondjoeydefinition']
+// 		div.appendChild(p2)
+// 		el.appendChild(div)
+// 	}	
 
-}
+// }
 
 
 }
