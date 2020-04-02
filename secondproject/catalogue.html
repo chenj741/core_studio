@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 <head>
 	<title></title>
 	
@@ -33,23 +32,23 @@
 <div class="filter-menu">
 <h4> Filter by </h4>
 <label class="box box1">Kangaroo
-  <input type="checkbox">
+  <input class="filtercheck" type="checkbox">
   <span class="checkmark1"></span>
 </label>
 <label class="box box2">Anti-Kangaroo
-  <input type="checkbox">
+  <input class="filtercheck" type="checkbox">
   <span class="checkmark2"></span>
 </label>
 <label class="box box3">Twin Joeys
-  <input type="checkbox">
+  <input class="filtercheck" type="checkbox">
   <span class="checkmark3"></span>
 </label>
 <label class="box box4">Opposite Joeys
-  <input type="checkbox">
+  <input class="filtercheck" type="checkbox">
   <span class="checkmark4"></span>
 </label>
 <label class="box box5">Grand Kangaroo
-  <input type="checkbox">
+  <input class="filtercheck" type="checkbox">
   <span class="checkmark5"></span>
 </label>
 
@@ -58,11 +57,12 @@
 </div>
 
 
-<div id="main"><div id="list"><!-- words don't show up anymore QQ gets cut off after a certain value as well... --></div></div>
+<div id="main">
+	<div id="list">
 <!-- <div id='lightbox'>
 	<h1></h1>
 </div> -->
-
+</div>
 </div>
 
 
@@ -74,36 +74,56 @@
 
 
 d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproject/All%20-%20Sheet1.csv')
+
+
 .then(
-	//run functions with the data here
+	//can introduce a logic here. then clear div and run viewData with this particular data segments
 	function(data){
 		console.log(data)
 		viewData(data,'list')
-	}
-	)
+		//data.filter subsets. pass through the name into viewData
+	})
 .catch(function(error){
+
 })
 
 
+function viewData(data, location_id){
 
-function viewData (data, location_id) {
+	el = document.querySelector('#'+location_id)
 
-	el = document.querySelector('#'+location_id) 
 	data.forEach(function(item){
-		div = document.createElement('div')
+	div = document.createElement('div')
 		div.setAttribute('class','word')
-		div.classList.add(item['special'])
-		div.classList.add(item['anti'])
+		div.classList.add(item['beginning'])
 		div.classList.add(item['letter'])
-		p = document.createElement('p')
-		p.innerHTML=item['kangaroo']
-		div.appendChild(p)
+		// div.classList.add(item['special'])
+		// div.classList.add(item['anti'])
+		div.setAttribute('value',item['kangaroo'])
+		div.innerHTML='<p>'+item['kangaroo']+"</p>"
 		el.appendChild(div)
+
+
+d3.selectAll('input.filtercheck')
+.property('checked', true);
+
+// d3.select('#list')
+// .selectAll('div')
+// .data(viewData);
+
 	})
-
-
-	
 }
+// function addBeginningLetter(d,i) {
+// 	d3.select(item['firstA'])
+// .append('text')
+// .text('A')
+// .attr('y',50)
+// .attr('x', 30);
+// } on change add a new div random.math/random.floor
+
+// d3.selectAll('div.list')
+// .each(addBeginningLetter);
+
 
 
 </script>

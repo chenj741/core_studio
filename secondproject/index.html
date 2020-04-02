@@ -32,12 +32,13 @@ There's much more to Kangaroo words than synonyms. Check out the Types of Kangar
 	<div class="top-bar2"> <h6> Next Word </h6> <h4 id="next-word">PLACEHOLDER</h4>
 </div></div>
 
-<div id="two" class="two"> 
 
 
-<div class="main-card">
-	<h1 id="kangaroo-card">Admixture</h1>
-	<p class="meaning-card"> (noun) a mixture.
+
+<div id="two" class="two">
+<!-- <div class="main-card"> -->
+	<!-- <h1 id="kangaroo-card">Admixture</h1> -->
+	<!-- <p class="meaning-card"> (noun) a mixture.
 (noun) the action of adding an ingredient to something else.
 </p>
 
@@ -47,7 +48,7 @@ There's much more to Kangaroo words than synonyms. Check out the Types of Kangar
 	<p class="meaning-card"> (noun) a substance made by mixing other substances together.
 (noun) the process of mixing or being mixed.
 (noun) a combination of different qualities, things, or emotions in which the component elements are individually distinct. </p>
-</div>
+</div> -->
 
 </div>
 
@@ -62,145 +63,75 @@ There's much more to Kangaroo words than synonyms. Check out the Types of Kangar
 </div>
 
 
-
-
 </body>
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <script type="text/javascript">
 
 d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/demo/All%20-%20Sheet1.csv')
+
+
 .then(
-	//run functions with the data here
+
 	function(data){
 		console.log(data)
-		viewData(data,'word-section')
-		seeDetails(data)
+		viewData(data,'main-card')
+
+		
 	})
-
-
-
 .catch(function(error){
+
 })
 
-function viewData (data, location_id) {
+function shuffle(array){
+	array.sort(() => Math.random() - 0.5);
+}
 
-	el = document.querySelector('#'+location_id) 
+function onlyUnique(value,index,self){
+	return self.indexOf(value) === index;
+}
+
+
+
+function viewData(data, location_id){
+
+	el = document.querySelector('#'+location_id)
 
 	data.forEach(function(item,i){
 		console.log(i)
-		div = document.createElement('div')
-		div.setAttribute('class','card')
-		div.classList.add(item['letter'])
-		div.classList.add(item['special'])
-		div.classList.add(item['anti'])
 
+div = document.createElement('div')
+div.setAttribute('class','main-card')
 div.setAttribute('value',i)
-		//see index number
-		// console.log(i)
 
-//base kangaroo word
-		h1 = document.createElement('h1')
-		h1.innerHTML=item['kangaroo']
-		div.appendChild(h1)
-		el.appendChild(div)
-		p = document.createElement('p')
-		p.innerHTML=item['kangaroodefinition']
-		div.appendChild(p)
-		el.appendChild(div)
+kangaroo = document.createElement('h1')
+kangaroo.setAttribute('id','kangaroo-card')
+kangaroo.appendChild(h1)
 
-// //for kangaroos
-// 	if(item['secondjoey']=''&&item['antijoey']=''){
-//     // add joey
-// 		h2 = document.createElement('h2')
-// 		h2.innerHTML=item['joey']
-// 		div.appendChild(h2)
-// 		el.appendChild(div)
-// 		p2 = document.createElement('p')
-// 		p2.innerHTML=item['joeydefinition']
-// 		div.appendChild(p2)
-// 		el.appendChild(div)
+kdefinition = document.createElement('p')
+kdefinition.setAttribute('class','meaning-card')
+kdefinition.innerHTML=item['kangaroodefinition']
+kdefinition.appendChild('p')
 
-// //for anti joeys
-//     if(item['anti']='anti'){
-// 		h2 = document.createElement('h2')
-// 		h2.innerHTML=item['antijoey']
-// 		div.appendChild(h2)
-// 		el.appendChild(div)
-// 		p2 = document.createElement('p')
-// 		p2.innerHTML=item['antijoeydefinition']
-// 		div.appendChild(p2)
-// 		el.appendChild(div)
+type = document.createElement('div')
+type.setAttribute('id','typeof')
+type.innerHTML=item['type']
+type.appendChild('p')
 
-// //for twin joeys
-// 	if(item['secondjoey']!=''&&item['antijoey']=''){
-// 		h2 = document.createElement('h2')
-// 		h2.innerHTML=item['joey']
-// 		div.appendChild(h2)
-// 		el.appendChild(div)
-// 		p2 = document.createElement('p')
-// 		p2.innerHTML=item['joeydefinition']
-// 		div.appendChild(p2)
-// 		el.appendChild(div)
-// 		//adds a second joey
-// 		h2 = document.createElement('h2')
-// 		h2.innerHTML=item['secondjoey']
-// 		div.appendChild(h2)
-// 		el.appendChild(div)
-// 		p2 = document.createElement('p')
-// 		p2.innerHTML=item['secondjoeydefinition']
-// 		div.appendChild(p2)
-// 		el.appendChild(div)
+joey = document.createElement('h1')
+joey.setAttribute('id','joey-card')
+joey.appendChild(h1)
 
-// //for opposite joeys
-// 	if(item['anti']='both'){
-// 		//adds both joey and anti joey
-// 		h2 = document.createElement('h2')
-// 		h2.innerHTML=item['joey']
-// 		div.appendChild(h2)
-// 		el.appendChild(div)
-// 		p2 = document.createElement('p')
-// 		p2.innerHTML=item['joeydefinition']
-// 		div.appendChild(p2)
-// 		el.appendChild(div)
-
-// 		h2 = document.createElement('h2')
-// 		h2.innerHTML=item['antijoey']
-// 		div.appendChild(h2)
-// 		el.appendChild(div)
-// 		p2 = document.createElement('p')
-// 		p2.innerHTML=item['antijoeydefinition']
-// 		div.appendChild(p2)
-// 		el.appendChild(div)
-// 		//What to do in case there is a Kangaroo with all 3 joeys??
-		
-// //for grand kangaroos
-// 	if(item['special']='special'){
-// 	//add joey and second joey
-// 		h2 = document.createElement('h2')
-// 		h2.innerHTML=item['joey']
-// 		div.appendChild(h2)
-// 		el.appendChild(div)
-// 		p2 = document.createElement('p')
-// 		p2.innerHTML=item['joeydefinition']
-// 		div.appendChild(p2)
-// 		el.appendChild(div)
-
-// 		h2 = document.createElement('h2')
-// 		h2.innerHTML=item['secondjoey']
-// 		div.appendChild(h2)
-// 		el.appendChild(div)
-// 		p2 = document.createElement('p')
-// 		p2.innerHTML=item['secondjoeydefinition']
-// 		div.appendChild(p2)
-// 		el.appendChild(div)
-// 	}	
-
-// }
+jdefinition = document.createElement('p')
+jdefinition.setAttribute('class','meaning-card')
+jdefinition.innerHTML=item['joeydefinition']
+jdefinition.appendChild('p')
 
 
+
+
+})
 }
-
 
 </script>
 </html>
