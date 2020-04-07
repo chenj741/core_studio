@@ -32,7 +32,7 @@ overflow-y:hidden;
 
 h1 {
 		font-size:3.157em;
-		color:#EFECE7;
+    color: #3C3123;
 	}
 
 	p{
@@ -72,19 +72,23 @@ grid-row:3/4;
  
 }
 
-.no-anti{
+.kangaroo{
 	color:#3C3123;
 }
 
-.anti{
+.anti-kangaroo{
 	color:#BF068E;
 }
 
-.both{
-	color:#7F24A6
+.twin{
+	color:#686BA6;
 }
 
-.special{
+.opposite{
+  color:#7F24A6;
+}
+
+.grand{
 	color:#D90479;
 }
 
@@ -341,6 +345,18 @@ border: 2px solid #D90479;
 
 .arrowlink::after {
   content: url('images/arrow.gif');
+}
+
+
+  a {
+  color:#EFECE7;
+  display:block;
+  font-size:1.333em;
+  text-decoration: none;
+  }
+
+  a:hover{ 
+  color:#A57E4D;
 }
 
 

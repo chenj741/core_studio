@@ -107,6 +107,7 @@ h1 {
 
 	h2{
 		margin-bottom: -30px;
+		color: #3C3123;
 	}
 
 	p{
@@ -126,19 +127,6 @@ h1 {
   content: url('images/arrow.gif');
 }
 
-/*
-	.sticky {
-		position:fixed;
-		right:0px;
-		bottom:10%;
-		background-color: #CCAB82;
-		padding:10px;
-		z-index: 2;
-		font-size: 1em;
-	}*/
-
-
-
 
 	a {
 	color:#EFECE7;
@@ -150,7 +138,3 @@ h1 {
 	a:hover{ 
 	color:#CCAB82;
 }
-
-	a:visited{
-	color: #A57E4D;
-	}

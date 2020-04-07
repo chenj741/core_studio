@@ -28,27 +28,27 @@
 
 </div>
 
-
+<!-- Step 1 - tie values of the filtering data field to the checkboxes i.e. in value below; these values will match the unique values of the 'type' field exactly  -->
 <div class="filter-menu">
 <h4> Filter by </h4>
 <label class="box box1">Kangaroo
-  <input class="filtercheck" type="checkbox">
+  <input name="type" value='kangaroo' class="filtercheck" type="checkbox">
   <span class="checkmark1"></span>
 </label>
 <label class="box box2">Anti-Kangaroo
-  <input class="filtercheck" type="checkbox">
+  <input name="type" value='anti-kangaroo' class="filtercheck" type="checkbox">
   <span class="checkmark2"></span>
 </label>
 <label class="box box3">Twin Joeys
-  <input class="filtercheck" type="checkbox">
+  <input name="type" value='twin' class="filtercheck" type="checkbox">
   <span class="checkmark3"></span>
 </label>
 <label class="box box4">Opposite Joeys
-  <input class="filtercheck" type="checkbox">
+  <input name="type" value='opposite' class="filtercheck" type="checkbox">
   <span class="checkmark4"></span>
 </label>
 <label class="box box5">Grand Kangaroo
-  <input class="filtercheck" type="checkbox">
+  <input name="type" value='grand' class="filtercheck" type="checkbox">
   <span class="checkmark5"></span>
 </label>
 
@@ -72,57 +72,69 @@
 <script type="text/javascript">
 
 
-
-d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproject/All%20-%20Sheet1.csv')
-
-
+d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproject/All%20-%20Sheet2.csv')
 .then(
 	//can introduce a logic here. then clear div and run viewData with this particular data segments
 	function(data){
 		console.log(data)
-		viewData(data,'list')
-		//data.filter subsets. pass through the name into viewData
+		// Step 2 -- select all of your inputs, and do something when any of them are clicked
+		filters = document.querySelectorAll('input')
+		filters.forEach(function(item){
+			item.onchange=function(){
+				// Step 3 -- create an empty array to hold the values of any input checkboxes marked; this will hold the values of all the checked inputs at any given time
+				filters = []
+				filtered = document.querySelectorAll('input[name=type]:checked')
+
+				 // this is how you reference any checked inputs
+				filtered.forEach(function(item){
+					console.log(item) // try checking inputs and see line 88 results print in the console in Inspect Mode
+					value = item.value
+					filters.push(value) // we will then update the filters array on line 85 with the current state of all checked boxes
+				})
+				console.log(filters)
+				filtered = data.filter(function(d){ 
+					return filters.indexOf(d.type) !== -1 // we use the data.filter method and introduce indexOf to say 'if you find any occurence matching the value in the filters array on line 85. we store this updated data in a new variable filtered'
+				})
+				console.log(filtered) // check the inspector and make sure this is indeed the right data
+				viewData(filtered, 'list') // then we can display our filtered data to the list id container
+			}
+		})
 	})
 .catch(function(error){
 
 })
 
+window.onload = onPageLoad();
+
+function onPageLoad() {
+  document.getElementById("check1").checked = true;
+}
+
+
 
 function viewData(data, location_id){
+	clear(location_id)
 
 	el = document.querySelector('#'+location_id)
 
 	data.forEach(function(item){
 	div = document.createElement('div')
 		div.setAttribute('class','word')
-		div.classList.add(item['beginning'])
+		div.classList.add(item['type'])
 		div.classList.add(item['letter'])
-		// div.classList.add(item['special'])
-		// div.classList.add(item['anti'])
 		div.setAttribute('value',item['kangaroo'])
 		div.innerHTML='<p>'+item['kangaroo']+"</p>"
 		el.appendChild(div)
-
-
-d3.selectAll('input.filtercheck')
-.property('checked', true);
-
-// d3.select('#list')
-// .selectAll('div')
-// .data(viewData);
-
 	})
 }
-// function addBeginningLetter(d,i) {
-// 	d3.select(item['firstA'])
-// .append('text')
-// .text('A')
-// .attr('y',50)
-// .attr('x', 30);
-// } on change add a new div random.math/random.floor
 
-// d3.selectAll('div.list')
-// .each(addBeginningLetter);
+
+
+function clear(location_id){
+	target = document.querySelector('#'+location_id)
+	target.innerHTML=""
+}
+
 
 
 

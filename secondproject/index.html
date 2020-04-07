@@ -21,8 +21,8 @@
 	<h1>Kangaroo Words</h1>
 <p class="firstp">A Kangaroo is a fun classification for a word that contains its own synonym. The word nestled inside the Kangaroo is called a Joey. </p>
 <p class="secondp">
-There's much more to Kangaroo words than synonyms. Check out the Types of Kangaroos page to explore <a class="intro-link" href="LINK HERE"> Anti-Kangaroos</a>,<a class="intro-link" href="LINK HERE"> Twin Joeys</a>,<a class="intro-link" href="LINK HERE"> Opposite Joeys</a>, and <a class="intro-link" href="LINK HERE"> Grand Kangaroos.</a> </p>
-	<a class="arrowlink" href="catalogue.html">A-Y Catalogue</a>
+There's much more to Kangaroo words than just synonyms. Check out the Types of Kangaroos page and the Catalogue to explore more. </p>
+	<a class="arrowlink" href="catalogue.html">Catalogue</a>
 	<a class="arrowlink" href="types.html">Types of Kangaroos</a>
 </div>
 
@@ -54,10 +54,10 @@ There's much more to Kangaroo words than synonyms. Check out the Types of Kangar
 
 
 
-<div id="three" class="three">  </script>
+<div id="three" class="three">  <div id="randomizer"></script>
 <lottie-player
     src="https://assets3.lottiefiles.com/packages/lf20_ahGFyd.json"  background="transparent"  speed="1"  style="width: 200px; height: 85px;" hover  >
-</lottie-player></div>
+</lottie-player></div></div>
 
 
 </div>
@@ -68,20 +68,44 @@ There's much more to Kangaroo words than synonyms. Check out the Types of Kangar
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <script type="text/javascript">
 
-d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/demo/All%20-%20Sheet1.csv')
+d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproject/All%20-%20Sheet2.csv')
 
 
 .then(
 
-	function(data){
+function(data){
 		console.log(data)
-		viewData(data,'main-card')
+		// Step 2 -- select all of your inputs, and do something when any of them are clicked
+		randomizer = document.querySelectorAll('randomizer')
+		output.forEach(function(item){
+			item.onchange=function(){
+				// Step 3 -- create an empty array to hold the values of any input checkboxes marked; this will hold the values of all the checked inputs at any given time
+				filters = []
+				filtered = document.querySelectorAll('input[name=type]:checked')
 
-		
-	})
+				 // this is how you reference any checked inputs
+				filtered.forEach(function(item){
+					console.log(item) // try checking inputs and see line 88 results print in the console in Inspect Mode
+					value = item.value
+					filters.push(value) // we will then update the filters array on line 85 with the current state of all checked boxes
+				})
+				console.log(filters)
+				filtered = data.filter(function(d){ 
+					return filters.indexOf(d.type) !== -1 // we use the data.filter method and introduce indexOf to say 'if you find any occurence matching the value in the filters array on line 85. we store this updated data in a new variable filtered'
+				})
+		console.log(filtered) // check the inspector and make sure this is indeed the right data
+
+				viewData(filtered, 'kangaroo-card')
+				viewData(filtered, 'kangaroo-meaning')
+				viewData(filtered, 'typeof')
+				viewData(filtered, 'joey-card')
+				viewData(filtered, 'joey-meaning')
+	}
 .catch(function(error){
 
 })
+
+
 
 function shuffle(array){
 	array.sort(() => Math.random() - 0.5);
@@ -89,6 +113,10 @@ function shuffle(array){
 
 function onlyUnique(value,index,self){
 	return self.indexOf(value) === index;
+}
+
+function randomizeWord(){
+	math.random()
 }
 
 

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<head>
+	<title></title>
+	
+<link rel="stylesheet" type="text/css" href="catalogue.css">
+</head>
+<body>
+
+
+
+<div class="container">
+
+
+<div id="logo"><a href="index.html">
+	</script>
+<lottie-player
+    src="https://assets9.lottiefiles.com/packages/lf20_7EAoc5.json"  background="transparent"  speed="1"  style="width: 200px; height: 85px;" hover  >
+</lottie-player></a></div>
+
+
+
+<div class="menu">
+
+	<div class="one">
+	<h1> Catalogue A-Y</h1>
+	<a class="arrowlink" href="index.html"> Back to Index</a>
+	<a class="arrowlink" href="types.html">Types of Kangaroos</a>
+
+</div>
+
+
+<div class="filter-menu">
+<h4> Filter by </h4>
+<label class="box box1">Kangaroo
+  <input class="filtercheck" type="checkbox">
+  <span class="checkmark1"></span>
+</label>
+<label class="box box2">Anti-Kangaroo
+  <input class="filtercheck" type="checkbox">
+  <span class="checkmark2"></span>
+</label>
+<label class="box box3">Twin Joeys
+  <input class="filtercheck" type="checkbox">
+  <span class="checkmark3"></span>
+</label>
+<label class="box box4">Opposite Joeys
+  <input class="filtercheck" type="checkbox">
+  <span class="checkmark4"></span>
+</label>
+<label class="box box5">Grand Kangaroo
+  <input class="filtercheck" type="checkbox">
+  <span class="checkmark5"></span>
+</label>
+
+</div>
+
+</div>
+
+
+<div id="main">
+	<div id="list">
+<!-- <div id='lightbox'>
+	<h1></h1>
+</div> -->
+</div>
+</div>
+
+
+</body>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script type="text/javascript">
+
+
+
+d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproject/All%20-%20Sheet2.csv')
+
+
+.then(
+	//can introduce a logic here. then clear div and run viewData with this particular data segments
+	function(data){
+		console.log(data)
+	
+		// kangaroos = data.filter(function(d){
+		// 	return d.type=='kangaroo'
+		// })
+
+		// antikangaroos = data.filter(function(d){
+		// 	return d.type=='anti-kangaroo'
+		// })
+
+		// twins = data.filter(function(d){
+		// 	return d.type=='twin'
+		// })
+
+		// opposites = data.filter(function(d){
+		// 	return d.type=='opposite'
+		// })
+
+		grandkangaroos = data.filter(function(d){
+		return d.type=='grand'
+		})
+
+		//for no filter, just viewData(data,'list')
+		//for filter, viewData(grandkangaroos,'list')
+			viewData(grandkangaroos,'list')
+	})
+.catch(function(error){
+
+})
+
+
+function viewData(data, location_id){
+
+	el = document.querySelector('#'+location_id)
+
+	data.forEach(function(item){
+	div = document.createElement('div')
+		div.setAttribute('class','word')
+		div.classList.add(item['type'])
+		div.classList.add(item['letter'])
+		div.setAttribute('value',item['kangaroo'])
+		div.innerHTML='<p>'+item['kangaroo']+"</p>"
+		el.appendChild(div)
+
+
+d3.selectAll('input.filtercheck')
+.property('checked', true);
+
+// d3.select('#list')
+// .selectAll('div')
+// .data(viewData);
+
+	})
+}
+
+// function addBeginningLetter(d,i) {
+// 	d3.select(item['firstA'])
+// .append('text')
+// .text('A')
+// .attr('y',50)
+// .attr('x', 30);
+// } on change add a new div random.math/random.floor
+
+// d3.selectAll('div.list')
+// .each(addBeginningLetter);
+
+
+
+</script>
+</html>
