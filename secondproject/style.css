@@ -13,7 +13,7 @@
 }
 
 body, html {
-		font-family: 'made_dillanregular';
+	font-family: 'made_dillanregular';
 overflow-x:scroll;
 overflow-y:hidden;
 	}
@@ -99,17 +99,27 @@ p{
 	color: #3C3123;
 }
 
-#kangaroo-card, #joey-card{
+.item{
+	display:flex;
+flex-direction: column;
+align-content: space-around;
+
+}
+
+.kangaroo-card{
 	text-transform: capitalize;
-	margin-bottom: -10px;
+	margin-bottom: 0px;
 	font-size: 2.369em;
 	color:#3C3123;
+	display: block;
 }
 
 .meaning-card{
 	overflow-x: scroll;
 	min-height: content;
 	max-height:150px;
+	font-size:1.563em;
+		color:#3C3123;
 }
 
 .firstp{
@@ -120,8 +130,8 @@ p{
 
 .secondp{
 	color: #686BA6;
-	margin-bottom: 150px;
-	font-size: 1.777em;
+	margin-bottom: 20%;
+
 
 }
 
@@ -137,22 +147,20 @@ p{
 
 
 
-#typeof{
+.typeof{
 	display:flex;
 	font-size:1em;
 text-transform: uppercase;
 position: relative;
 margin: 50px 0px 30px 0px;
-
 	}
 
-#typeof::before{
+.typeof::before{
 	content: url('images/arrow2.gif');
 margin-top:-14px;
 margin-right: 14px;
 }
 
-	
 
 
 .arrowlink{
@@ -176,5 +184,6 @@ margin-right: 14px;
   a:hover{ 
   color:#A57E4D;
 }
+
 
 

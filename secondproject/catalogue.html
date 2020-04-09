@@ -22,7 +22,7 @@
 <div class="menu">
 
 	<div class="one">
-	<h1> Catalogue A-Y</h1>
+	<h1> Catalogue</h1>
 	<a class="arrowlink" href="index.html"> Back to Index</a>
 	<a class="arrowlink" href="types.html">Types of Kangaroos</a>
 
@@ -32,7 +32,7 @@
 <div class="filter-menu">
 <h4> Filter by </h4>
 <label class="box box1">Kangaroo
-  <input name="type" value='kangaroo' class="filtercheck" type="checkbox">
+  <input name="type" value='kangaroo' class="filtercheck" type="checkbox" id="check1">
   <span class="checkmark1"></span>
 </label>
 <label class="box box2">Anti-Kangaroo
@@ -73,6 +73,9 @@
 
 
 d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproject/All%20-%20Sheet2.csv')
+
+
+
 .then(
 	//can introduce a logic here. then clear div and run viewData with this particular data segments
 	function(data){
@@ -80,7 +83,7 @@ d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproj
 		// Step 2 -- select all of your inputs, and do something when any of them are clicked
 		filters = document.querySelectorAll('input')
 		filters.forEach(function(item){
-			item.onchange=function(){
+			item.onclick=function(){
 				// Step 3 -- create an empty array to hold the values of any input checkboxes marked; this will hold the values of all the checked inputs at any given time
 				filters = []
 				filtered = document.querySelectorAll('input[name=type]:checked')
@@ -98,17 +101,12 @@ d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproj
 				console.log(filtered) // check the inspector and make sure this is indeed the right data
 				viewData(filtered, 'list') // then we can display our filtered data to the list id container
 			}
+	
 		})
 	})
 .catch(function(error){
 
 })
-
-window.onload = onPageLoad();
-
-function onPageLoad() {
-  document.getElementById("check1").checked = true;
-}
 
 
 

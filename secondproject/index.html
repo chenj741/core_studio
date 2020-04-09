@@ -28,36 +28,24 @@ There's much more to Kangaroo words than just synonyms. Check out the Types of K
 
 
 <div class="top-bar"> 
-	<div class="top-bar1"> <h6> Previous Word </h6> <h4 id="previous-word">PLACEHOLDER</h4> </div>
-	<div class="top-bar2"> <h6> Next Word </h6> <h4 id="next-word">PLACEHOLDER</h4>
+	<div class="top-bar1"><!--  <h6> Previous Word </h6> <h4 id="previous-word">PLACEHOLDER</h4>  --></div>
+	<div class="top-bar2"><!--  <h6> Next Word </h6> <h4 id="next-word">PLACEHOLDER</h4> -->
 </div></div>
 
 
 
 
 <div id="two" class="two">
-<!-- <div class="main-card"> -->
-	<!-- <h1 id="kangaroo-card">Admixture</h1> -->
-	<!-- <p class="meaning-card"> (noun) a mixture.
-(noun) the action of adding an ingredient to something else.
-</p>
 
-	<div id="typeof">kangaroo</div>
-
-	<h1 id="joey-card"> mixture</h1>
-	<p class="meaning-card"> (noun) a substance made by mixing other substances together.
-(noun) the process of mixing or being mixed.
-(noun) a combination of different qualities, things, or emotions in which the component elements are individually distinct. </p>
-</div> -->
 
 </div>
 
 
 
-<div id="three" class="three">  <div id="randomizer"></script>
+<div id="three" class="three"></script>
 <lottie-player
     src="https://assets3.lottiefiles.com/packages/lf20_ahGFyd.json"  background="transparent"  speed="1"  style="width: 200px; height: 85px;" hover  >
-</lottie-player></div></div>
+</lottie-player></div>
 
 
 </div>
@@ -68,97 +56,76 @@ There's much more to Kangaroo words than just synonyms. Check out the Types of K
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <script type="text/javascript">
 
+
+function shuffle(array) {
+  array.sort(() => Math.random() - 0.5);
+}
+
 d3.csv('https://raw.githubusercontent.com/chenj741/core_studio/master/secondproject/All%20-%20Sheet2.csv')
-
-
-.then(
-
-function(data){
-		console.log(data)
-		// Step 2 -- select all of your inputs, and do something when any of them are clicked
-		randomizer = document.querySelectorAll('randomizer')
-		output.forEach(function(item){
-			item.onchange=function(){
-				// Step 3 -- create an empty array to hold the values of any input checkboxes marked; this will hold the values of all the checked inputs at any given time
-				filters = []
-				filtered = document.querySelectorAll('input[name=type]:checked')
-
-				 // this is how you reference any checked inputs
-				filtered.forEach(function(item){
-					console.log(item) // try checking inputs and see line 88 results print in the console in Inspect Mode
-					value = item.value
-					filters.push(value) // we will then update the filters array on line 85 with the current state of all checked boxes
-				})
-				console.log(filters)
-				filtered = data.filter(function(d){ 
-					return filters.indexOf(d.type) !== -1 // we use the data.filter method and introduce indexOf to say 'if you find any occurence matching the value in the filters array on line 85. we store this updated data in a new variable filtered'
-				})
-		console.log(filtered) // check the inspector and make sure this is indeed the right data
-
-				viewData(filtered, 'kangaroo-card')
-				viewData(filtered, 'kangaroo-meaning')
-				viewData(filtered, 'typeof')
-				viewData(filtered, 'joey-card')
-				viewData(filtered, 'joey-meaning')
+.then(function(data){
+	displayRandom(data, '#two')
+	randomizer = document.querySelector('#three')
+	randomizer.onclick= function(){
+		displayRandom(data, '#two')
 	}
+	// displayAll(data,'two')
+	console.log(random)
+
+})
 .catch(function(error){
-
+	//console.log(error)
 })
 
+function displayRandom(data, location){
+	clear('#two')
+	shuffle(data)
+	random = data[0]
+	console.log(random)
+	target = document.querySelector(location)
+	div = document.createElement('div')
+	div.setAttribute('class','item')
+	kangarooword = random['kangaroo']
+	kangaroodef = random['kangaroodefinition\n']
+	joeyword = random['\njoey']
+	joeydef = random['joeydefinition\n']
+	type = random['type']
 
-
-function shuffle(array){
-	array.sort(() => Math.random() - 0.5);
+	div.innerHTML="<h1 class='kangaroo-card'>"+ kangarooword + "</h1><div class='meaning-card'>" + kangaroodef + "</div><div class='typeof'>" + type +"</div><h1 class='kangaroo-card'>" + joeyword + "</h1><div class='meaning-card'>" + joeydef + "</div>";
+	target.appendChild(div)
 }
 
-function onlyUnique(value,index,self){
-	return self.indexOf(value) === index;
-}
+// function displayRandom(data, location){
+// 	clear('.top-bar')
+// 	shuffle(data)
+// 	random = data[0]
+// 	console.log(random)
+// 	target = document.querySelector(location)
+// 	div = document.createElement('div')
+// 	div.setAttribute('class','top-bar')
+// 	previousword = random['kangaroo']
+// 	nextword = random['kangaroo']
 
-function randomizeWord(){
-	math.random()
-}
+// 	div.innerHTML="<div class='top-bar1'><h6>Previous Word</h6><h4 id='previousword'>" + previousword + "</h4></div><div class='top-bar2'><h6>Next Word</h6><h4 id='nextword'>" + nextword + "</h4></div>"
 
+// 	target.appendChild(div)
+// }
 
+// function displayAll(data, location){
+// 	target = document.querySelector(location)
+// 	data.forEach(function(item){
+// 		div = document.createElement('div')
+// 		div.setAttribute('class','item')
+// 		kangarooword = item['kangaroo']
+// 		main_img = item['cover_img']
+// 		div.innerHTML="<h1>"+ name + "</h1><img class='main' src='"+ main_img + "'>"
+// 		target.appendChild(div)
+// 	})
 
-function viewData(data, location_id){
+// }
 
-	el = document.querySelector('#'+location_id)
-
-	data.forEach(function(item,i){
-		console.log(i)
-
-div = document.createElement('div')
-div.setAttribute('class','main-card')
-div.setAttribute('value',i)
-
-kangaroo = document.createElement('h1')
-kangaroo.setAttribute('id','kangaroo-card')
-kangaroo.appendChild(h1)
-
-kdefinition = document.createElement('p')
-kdefinition.setAttribute('class','meaning-card')
-kdefinition.innerHTML=item['kangaroodefinition']
-kdefinition.appendChild('p')
-
-type = document.createElement('div')
-type.setAttribute('id','typeof')
-type.innerHTML=item['type']
-type.appendChild('p')
-
-joey = document.createElement('h1')
-joey.setAttribute('id','joey-card')
-joey.appendChild(h1)
-
-jdefinition = document.createElement('p')
-jdefinition.setAttribute('class','meaning-card')
-jdefinition.innerHTML=item['joeydefinition']
-jdefinition.appendChild('p')
-
-
-
-
-})
+function clear(location){
+	target=document.querySelector(location)
+	target.innerHTML=""
 }
 
 </script>
