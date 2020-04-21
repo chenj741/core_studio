@@ -45,28 +45,28 @@ img{
 }
 
 .landing{
-	position: fixed;
-	width:30%;
+	position: fixed; /*put into fixed so that this sidebar doesn't scroll*/
+	width:30%; /*the smaller than 100% width makes it so that the content will fit in with it since it is also not 100% width*/
 }
 
 .content{
-width:60%;
-padding-left: 40%;
-flex-wrap: wrap;
+width:60%; /*here*/
+padding-left: 40%; /*then this is pushed over with the padding.*/
+flex-wrap: wrap; /*the display flex is for the little divs and wrap allows for the scroll*/
 display:flex;
 
 }
 
 @media screen and (max-width:767px){
 	.landing{
-		position:relative;
-		width:100%;
+		position:relative; /*now, with this code, the width is put at 100% to fill the entirety of 767px. */
+		width:100%; /*the position relative gets rid of the fixed. so now when it scrolls on the smaller screen, it won't be stuck*/
 	}
 
 	.content{
-		width: 100%;
-		padding: 0;
-		display: inline;
+		width: 100%; /*again, this is needed to take up the whole space so it doesnt try to squeeze in.*/
+		padding: 0; /*the padding to push the content away is no longer needed, hence the padding 0. */
+		display: inline; /*this is making it so that the block is pushed onto the lines after the sidebar. */
 	}
 }
 
