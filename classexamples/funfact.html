@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fun Fact</title>
+	<link rel="stylesheet" type="text/css" href="funfact.css">
+	<meta name="viewport" content="width=device-width">
+	<script src="anime.min.js"></script>
+	<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+
+</head>
+<body>
+
+<div id="button"><div id="clicky">click me!</div> </div>
+
+<div id="container">
+	<div id="card"> The computers can hear you. Be nice to them : ) 
+<lottie-player src="https://assets9.lottiefiles.com/packages/lf20_r2KgX4.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay></lottie-player>
+	</div>
+</div>
+
+<script>
+	
+button = document.querySelector('#button')
+popup = document.querySelector('#container')
+
+button.onclick=function(){
+	popup.style.opacity='1'
+	popup.style.bottom='0'
+}
+
+popup.onclick=function(){
+	popup.style.opacity='0'
+	popup.style.bottom='-100vh'
+}
+
+</script>
+
+<script type="text/javascript">
+	var animate = anime({
+	targets: 'div',
+  	scale: 1.2,
+ 	duration: 300,
+  	delay: 100,
+  	easing: 'easeInCubic',
+  	autoplay: false
+  	loop:false;
+	});
+
+
+</script>
+</body>
+</html>
